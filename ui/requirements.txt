@@ -1,0 +1,13 @@
+accelerate
+diffusers
+invisible_watermark
+torch
+transformers
+xformers
+gradio
+datasets
+huggingface_hub
+pandas
+requests
+Pillow
+hf_transfer

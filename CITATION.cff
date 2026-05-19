@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "AtelierEval: Evaluating Human and MLLM Prompting Ability for Text-to-Image Generation"
+message: "If you use AtelierEval, please cite the camera-ready paper. The final venue citation will be updated when available."
+type: software
+date-released: 2026-05-19
+license: MIT
+repository-code: "https://github.com/Astarojth/AtelierEval"
+preferred-citation:
+  type: article
+  title: "AtelierEval: Evaluating Human and MLLM Prompting Ability for Text-to-Image Generation"
+  year: 2026

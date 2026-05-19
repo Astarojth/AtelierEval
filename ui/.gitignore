@@ -1,0 +1,62 @@
+# 1. 忽略虚拟环境文件夹
+# 这是最重要的部分，可以防止你将庞大的环境文件上传到仓库
+.venv/
+venv/
+env/
+.env/
+tti/
+
+# 2. 忽略Python缓存和编译文件
+# 这些文件是Python自动生成的，不需要版本控制
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 3. 忽略编辑器和IDE的配置文件
+# 每个开发者的编辑器配置可能不同，应该在本地维护
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 4. 忽略操作系统生成的文件
+# 例如macOS的.DS_Store和Windows的Thumbs.db
+.DS_Store
+Thumbs.db
+
+# 5. 忽略敏感信息文件
+# 永远不要将包含密码、API密钥等信息的文件上传
+.env
+*.env
+*.env.*
+secrets.toml
+# 注意：如果你把HF_TOKEN直接写在某个文件里，也应该在这里加上那个文件名
+
+# 6. 忽略Jupyter Notebook的检查点文件
+.ipynb_checkpoints/
+
+# 7. 忽略打包和分发时生成的文件夹
+build/
+dist/
+*.egg-info/
+downloads/
+
+# 8. 忽略测试和覆盖率报告
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.hypothesis/
+
+# 9. 忽略日志文件
+*.log
+
+data/gt_image/
+question_handlers/__pycache__/constrained.cpython-310.pyc
+utils/__pycache__/hf_utils.cpython-310.pyc
+question_handlers/__pycache__/open_ended.cpython-310.pyc
+question_handlers/__pycache__/mcq.cpython-310.pyc

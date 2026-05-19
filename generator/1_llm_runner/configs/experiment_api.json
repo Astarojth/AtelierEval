@@ -1,0 +1,29 @@
+{
+  "task_files": {
+    "co": "../../../dataset/co_120.json",
+    "oe": "../../../dataset/oe_120.json",
+    "im": "../../../dataset/im_120.json"
+  },
+  "prompt_templates_path": "../prompts/prompt_templates.json",
+  "image_root": "../../../dataset",
+  "output_dir": "../output",
+  "output_files": {
+    "co": "co_120_generated.json",
+    "oe": "oe_120_generated.json",
+    "im": "im_120_generated.json"
+  },
+  "output_field": "generated_prompt",
+  "resume": true,
+  "system_prompt": "You convert user requests into high-quality image generation prompts. Return only one prompt in natural language.",
+  "api": {
+    "base_url": "<API_BASE_URL>",
+    "model": "<API_MODEL_NAME>",
+    "api_key": "<HARD_CODED_API_KEY_HERE>",
+    "timeout_seconds": 180,
+    "max_retries": 3,
+    "backoff_seconds": 2,
+    "temperature": 0.0,
+    "top_p": 0.7,
+    "max_tokens": 4096
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "skill_name": "SafetyPromptSkill",
+  "stage": "Safety",
+  "module": "safety.skills.safety_prompt_skill",
+  "class": "SafetyPromptSkill",
+  "config_refs": {
+    "runtime_config": "runtime/safety_prompt_runtime.json",
+    "prompt_template": "../safety/prompts/llm_safety_prompt_template.txt"
+  }
+}

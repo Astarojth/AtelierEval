@@ -1,0 +1,5 @@
+{
+  "oe": "Convert the following request into an image generation prompt. Use natural language only.\n\nRequest:\n{TASK}",
+  "co": "Convert the following request into an image generation prompt. Use natural language only.\n\nRequest:\n{TASK}",
+  "im": "Write an image generation prompt that would produce an image similar to the one shown. Use natural language only.\n\nImage:\n{IMAGE}"
+}

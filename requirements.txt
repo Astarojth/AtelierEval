@@ -1,0 +1,14 @@
+numpy
+scikit-learn
+requests
+openai
+Pillow
+tqdm
+torch
+torchvision
+transformers
+sentence-transformers
+diffusers
+accelerate
+safetensors
+finch-clust

@@ -1,0 +1,56 @@
+{
+  "api": {
+    "base_url": "<API_BASE_URL>",
+    "endpoint": "/v1/chat/completions",
+    "model": "gpt-5.2",
+    "api_key": "<API_KEY>"
+  },
+  "paths": {
+    "generated_root": "",
+    "checklist_dir": "../../objective/checklist",
+    "check_output_subdir": "3_check",
+    "template_json_path": "../templates/objective_check_templates.json"
+  },
+  "retry": {
+    "max_attempts": 5,
+    "timeout_seconds": 180,
+    "timeout_backoffs": [3, 6, 9, 12, 15],
+    "general_retry_delay": 2
+  },
+  "compression": {
+    "target_kb": 450,
+    "tolerance_kb": 50,
+    "min_quality": 40,
+    "max_quality": 95
+  },
+  "llm_request": {
+    "temperature": 0.0,
+    "top_p": 0.7,
+    "max_tokens": 4096,
+    "tools": [],
+    "tool_choice": {
+      "type": "none"
+    }
+  },
+  "processing": {
+    "output_types": ["co", "im", "oe"],
+    "t2i_model_order": [
+      "black-forest-labs",
+      "gemini_3_pro_image_preview",
+      "gpt_image_1_all",
+      "sdxl_local"
+    ],
+    "llm_model_order": [
+      "claude_sonnet_4_5_20250929",
+      "gemini_2.0_flash",
+      "gemini_3_pro_preview",
+      "gpt_4.1_2025_04_14",
+      "gpt_4_1_2025_04_14",
+      "gpt_4.1_nano_2025_04_14",
+      "gpt_4_1_nano_2025_04_14",
+      "gpt_5.2",
+      "qwen3_8b",
+      "qwen3_235b_a22b"
+    ]
+  }
+}

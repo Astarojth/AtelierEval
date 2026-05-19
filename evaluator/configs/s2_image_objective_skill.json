@@ -1,0 +1,11 @@
+{
+  "skill_name": "S2ImageObjectiveSkill",
+  "stage": "System2",
+  "module": "objective.skills.s2_image_objective_skill",
+  "class": "S2ImageObjectiveSkill",
+  "config_refs": {
+    "objective_config": "runtime/objective_runtime.json",
+    "check_templates": "templates/objective_check_templates.json",
+    "checklist_dir": "../objective/checklist"
+  }
+}

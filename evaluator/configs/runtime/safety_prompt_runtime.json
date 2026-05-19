@@ -1,0 +1,28 @@
+{
+  "api": {
+    "base_url": "<API_BASE_URL>",
+    "model": "gpt-5.2",
+    "api_key": "<API_KEY>",
+    "api_key_env": "<API_KEY_ENV_VAR>"
+  },
+  "paths": {
+    "in_path": "",
+    "out_path": "",
+    "prompt_template_path": "../../safety/prompts/llm_safety_prompt_template.txt"
+  },
+  "llm_request": {
+    "temperature": 0.0,
+    "top_p": 0.7,
+    "max_tokens": 4096
+  },
+  "runtime": {
+    "limit": 0,
+    "resume": false,
+    "qps": 0.5,
+    "timeout_seconds": 120,
+    "max_retries": 8,
+    "backoff_base": 1.5,
+    "backoff_cap": 60.0,
+    "checkpoint_every": 20
+  }
+}

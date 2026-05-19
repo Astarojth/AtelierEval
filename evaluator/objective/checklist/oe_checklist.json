@@ -1,0 +1,1998 @@
+[
+  {
+    "task_id": "oe_01",
+    "task": "Our marketing department is launching a new hiring initiative next month. The project manager insists our Careers page needs a new image. The old one is just terrible. This image needs to really capture inclusivity and a collaborative spirit, that feeling where everyone feels welcome and is working together. The whole vibe must be modern and vibrant, not like those boring old companies. This is mainly for potential new hires, especially that young talent pool, so it has to look authentic to appeal to them. We want it to look like real lifestyle photography from a magazine, not like a staged stock photo. Please make sure its not dim or gloomy at all. Also, we cant have any visible logos or branding from other companies.",
+    "image_checkpoint": [
+      "At least two human figures are shown in the image",
+      "The visual style is photorealistic",
+      "The image is not dim or dark",
+      "No visible brand logos or trademarks appear in the image",
+      "The scene is set in a work-related environment",
+      "Human figures show visible interaction or collaboration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions multiple people or a group",
+      "The prompt specifies photographic or realistic visual style",
+      "The prompt mentions bright lighting or excludes dim or dark atmosphere",
+      "The prompt excludes brand logos",
+      "The prompt specifies a work-related environment",
+      "The prompt describes collaborative behavior or interaction"
+    ]
+  },
+  {
+    "task_id": "oe_02",
+    "task": "My friend is writing a post for her blog, The Digital Nomad, and needs a banner image for an article publishing next week. The piece is about how technology connects us. She needs a picture that captures this feeling of being alone together in a big city. She suggested a concept: someone on a train, commuting, absorbed in their phone. The image needs to feel professional and optimistic, with a clean, modern look suitable for a tech-savvy audience of young professionals. She said the city skyline should be visible outside, but not super sharp, as the focus must be on the person. And she was very clear that it must not look like a dark, grainy old movie.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "At least one human figure is on public transportation",
+      "At least one human figure is using a phone",
+      "A city skyline is visible in the background",
+      "The visual style is photorealistic",
+      "The image is not dark or grainy"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person or human figure",
+      "The prompt mentions public transportation or related terms",
+      "The prompt mentions a phone or mobile device",
+      "The prompt mentions city skyline, urban background, or related terms",
+      "The prompt specifies photographic or photorealistic style",
+      "The prompt mentions clean or bright lighting or excludes dark or grainy atmosphere"
+    ]
+  },
+  {
+    "task_id": "oe_03",
+    "task": "Were running a feature in our Family Wellness monthly magazine for the spring edition, which is all about active living. The editor wants a new cover photo. It needs to show a real sense of family connectedness and joy. The key theme is multigenerational activity, so it has to show people of different ages, like grandparents and kids, all playing together. It should feel sunny and optimistic, taking place outdoors in a park. The photo has to look natural and full of life, not like a stiff, posed studio shot. Please avoid anything that looks too artificial or uses weird filters.",
+    "image_checkpoint": [
+      "At least three human figures are shown in the image",
+      "At least two different age groups are shown in the image",
+      "Human figures are engaged in an outdoor activity together",
+      "The scene is set outdoors in a park",
+      "The visual style is photorealistic",
+      "The image has bright lighting"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions multiple people, family, or group",
+      "The prompt mentions different ages, generations, or related terms",
+      "The prompt mentions play, outdoor activity, or related terms",
+      "The prompt mentions park, outdoor setting, or related terms",
+      "The prompt specifies photographic or photorealistic style",
+      "The prompt mentions sunny or bright lighting"
+    ]
+  },
+  {
+    "task_id": "oe_04",
+    "task": "For our new Q4 marketing push, were targeting a new demographic. The campaign is called TechConnects. We need an image for the website and for print ads. This one needs to show an older adult, maybe a grandmother, using one of our new tablets. She should be doing a video call, and we need to feel the warmth and connection, like shes really enjoying it. The setting is key: it must be a cozy living space, maybe with some plants, to show this is part of her everyday life. It has to feel authentic and heartwarming. The product needs to look accessible and easy to use. We definitely dont want it to look cold, sterile, or high-tech in an intimidating way. And please, make sure she doesnt look confused by the tech; that completely misses the point.",
+    "image_checkpoint": [
+      "At least one older adult is shown in the image",
+      "At least one older adult is using a tablet",
+      "The tablet screen shows a video call interface",
+      "The scene is set in a living space",
+      "Plants or home decor are visible in the environment",
+      "The visual style is photorealistic",
+      "The elderly human figure has a positive or relaxed expression"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions elderly, older adult, grandmother, or related terms",
+      "The prompt mentions tablet or related terms",
+      "The prompt mentions video call or related terms",
+      "The prompt mentions home, living space, or related terms",
+      "The prompt mentions home decor or related terms",
+      "The prompt specifies photographic or photorealistic style",
+      "The prompt describes positive emotion, enjoyment, or related terms"
+    ]
+  },
+  {
+    "task_id": "oe_05",
+    "task": "Our product team is updating the Daily Calm feature in our wellness app, and they need a new background image for the main screen. The update goes live next month. The image should set the tone for the users morning mindfulness routine. We want a scene of someone, just a regular person, doing a morning stretch or a simple yoga pose. This needs to be in their living space, not a gym, to feel more accessible. The feeling were after is total calm and self-care. It should be set at sunrise, so we need that beautiful, soft morning light. The whole composition must be serene and peaceful. Please make sure the space doesnt look cluttered or messy, and it definitely shouldnt be dark.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "At least one human figure is doing a stretch or yoga pose",
+      "The scene is set in a living space",
+      "The image has soft lighting",
+      "The visual style is photorealistic",
+      "The space is not cluttered or messy"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person or human figure",
+      "The prompt mentions stretch, yoga, or related terms",
+      "The prompt mentions living space, home, or related terms",
+      "The prompt mentions soft or bright lighting or excludes dark atmosphere",
+      "The prompt specifies photographic or photorealistic style",
+      "The prompt mentions clean, minimal, uncluttered space, or related terms"
+    ]
+  },
+  {
+    "task_id": "oe_06",
+    "task": "Our senior editor is running a feature piece for the autumn issue, and the deadline is tight. The main article discusses how traditions evolve. We need the lead image for this, capturing a scene with a family sharing mooncakes. The key here, and the editor was very clear, is to evoke 'legacy' and 'connection', not just people eating. This is for our international readers, so it needs to feel inviting and warm, even if they don't know the specifics of the holiday. We need a high-quality, realistic shot, like a premium print magazine. He absolutely said no old, faded photographs or historical paintings.",
+    "image_checkpoint": [
+      "At least two human figures are shown in the image",
+      "Mooncakes are visible in the image",
+      "Human figures are sharing or interacting around the food",
+      "The visual style is photorealistic",
+      "The image does not have a faded or vintage photograph style"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions family, multiple people, or group",
+      "The prompt mentions mooncakes or related terms",
+      "The prompt describes sharing, gathering, or interaction",
+      "The prompt specifies photographic or photorealistic style",
+      "The prompt excludes vintage, faded, or old photograph style"
+    ]
+  },
+  {
+    "task_id": "oe_07",
+    "task": "I'm an author, and my first novel is getting published next spring, but the publisher's art department is stuck. My manuscript is a story about two people about to be separated by circumstance. I need a concept for the book cover. It must capture that specific feeling of a moment before goodbye—a profound sense of nostalgia and bittersweet longing. This is for the literary fiction market, so we need a mature and subtle visual. It should hint at the story, not show a specific scene. It absolutely cannot be a photograph, and please, no text or titles. It also must not look happy or resolved.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "The visual style is illustration or painting",
+      "No text or titles are visible in the image",
+      "Human figures do not have happy or smiling expressions"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person, people, or human figure",
+      "The prompt specifies illustration, painting, or related terms",
+      "The prompt mentions avoiding text, no text, no title, or related terms about the image",
+      "The prompt describes somber emotion or excludes happy or resolved atmosphere"
+    ]
+  },
+  {
+    "task_id": "oe_08",
+    "task": "We're a small indie studio working on our narrative game, Amber Sky. We have this critical moment, Scene 2B, that we need key art for, as our 2D artist is struggling. The dialogue is already written, but the visual must tell the story. It's the emotional climax: a confession in the rain. The atmosphere needs to be full of tension, but also incredibly sincere and vulnerable. Our audience is into emotional, story-driven games, so the art needs to carry that weight. The game has a specific painted illustrative style. And importantly, it shouldn't look violent or angry; the tension is purely emotional, not physical.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "Rain or rain-related elements are visible in the image",
+      "The visual style is painted or illustrative",
+      "The image does not show violent or aggressive imagery"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person or human figure",
+      "The prompt mentions rain or related terms",
+      "The prompt specifies painted, illustrative, or related terms",
+      "The prompt excludes violence, anger, or aggressive elements"
+    ]
+  },
+  {
+    "task_id": "oe_09",
+    "task": "My director friend is submitting his short film to a festival next month. The film is a drama, very heavy. He needs a key visual for the poster. It has to be this one scene: two people at a kitchen table, late at night. The visual needs to scream tension and unspoken issues. It's for a very indie, arthouse audience, so it needs that kitchen sink realism style. He said it must be photorealistic but absolutely not look like a bright, happy commercial. No one should be smiling.",
+    "image_checkpoint": [
+      "At least two human figures are shown in the image",
+      "Human figures are at a kitchen table",
+      "The lighting suggests nighttime or late hours",
+      "The visual style is photorealistic",
+      "The image is not bright",
+      "Human figures are not smiling"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions two people or multiple people",
+      "The prompt mentions kitchen table or related terms",
+      "The prompt mentions nighttime, late night, dim lighting, or related terms",
+      "The prompt specifies photographic or photorealistic style",
+      "The prompt excludes bright or happy atmosphere",
+      "The prompt describes serious expressions or excludes smiling"
+    ]
+  },
+  {
+    "task_id": "oe_10",
+    "task": "Were producing a lo-fi beats animated music video, and the project is almost done. We just need the final key shot for the YouTube thumbnail and loop. The whole video is about feeling free and chilling out. The client wants a classic anime illustration: a girl at sunset, maybe on a hill or balcony, with her hair blowing in the wind. The feeling is key: warm, atmospheric, a sense of freedom, and quiet contemplation. This is for the massive online lo-fi community, they have specific tastes. It must look like a high-quality, modern anime screenshot, not a cheap vector drawing or a 3D model. And avoid any text.",
+    "image_checkpoint": [
+      "At least one female human figure is shown in the image",
+      "The scene is set at sunset",
+      "The human figure's hair is blowing in the wind",
+      "The human figure is on an elevated location",
+      "The visual style is anime or cel-shaded",
+      "The visual style is not 3D render",
+      "No text is visible in the image"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a girl, female character, or related terms",
+      "The prompt mentions sunset or related terms",
+      "The prompt mentions hair blowing, wind, or related terms",
+      "The prompt mentions hill, balcony, elevated location, or related terms",
+      "The prompt specifies anime or related terms as the style",
+      "The prompt excludes 3D render or 3D model style",
+      "The prompt mentions avoiding text, no text, or related terms about the image"
+    ]
+  },
+  {
+    "task_id": "oe_11",
+    "task": "My team is trying to build a new social media account for an AI fashion influencer, but our tests have been weak. We need a benchmark image. The concept is a 'hyper-real' aesthetic—she should look like a CGI character, almost perfect, showcasing the latest streetwear. The main goal is hype and exclusivity. This is for fashion-forward Gen Z followers. The key is the style: it must be a flawless 3D render, like something from a high-end video game cinematic. It cannot look like a real photograph, and it shouldn't look like a 2D anime drawing.",
+    "image_checkpoint": [
+      "At least one female human figure is shown in the image",
+      "At least one human figure is wearing streetwear or fashionable clothing",
+      "The visual style is 3D render",
+      "At least one human figure is shown in full body or close to full body"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a female character, woman, girl, or related terms",
+      "The prompt mentions streetwear, fashion, clothing, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style",
+      "The prompt mentions full body, full shot, or related terms"
+    ]
+  },
+  {
+    "task_id": "oe_12",
+    "task": "Im running a new Dungeons & Dragons campaign, Shadows of Eldoria, and the first session is in two weeks. I need a portrait of the main hero for the landing page, a half-elf ranger. I need a dramatic character portrait, not a full-body shot. It has to feel epic and atmospheric, with a hint of a dark, brooding backstory. My players are veteran TTRPG players, so they appreciate high-quality art. I want a digital painting style, similar to what youd see in official sourcebooks or on ArtStation. It must not look like a cartoon, an anime character, or a real-life photo.",
+    "image_checkpoint": [
+      "At least one human or humanoid figure is shown in the image",
+      "At least one figure is a half-elf or elf-like character",
+      "At least one figure is shown in portrait or close-up composition",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a character, hero, half-elf, ranger, or related terms",
+      "The prompt mentions elf, half-elf, or related fantasy race terms",
+      "The prompt mentions portrait, close-up, headshot, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_13",
+    "task": "Our music label is promoting a new virtual idol, Astra. Her debut single drops next month, and we need a promotional splash image for social media. The concept is Astra in the middle of a high-energy performance. The key feelings are energy and pop excitement. This is for her new fanbase, who are all deep in the vtuber and J-pop scene. The style needs to match their expectations. It must not look photorealistic, and it absolutely cannot be a 2D anime drawing; it needs to feel more 'in-game'.",
+    "image_checkpoint": [
+      "At least one female human or humanoid figure is shown in the image",
+      "At least one figure is in a performance pose or dancing",
+      "At least one figure is shown in full body or close to full body",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a female character, idol, performer, or related terms",
+      "The prompt mentions performance, dancing, singing, or related terms",
+      "The prompt mentions full body, full shot, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_14",
+    "task": "Our studio, Wild Peak Games, is in pre-production for our next title, codenamed Project Terra. The art director needs main character concept art for our female protagonist. She has to embody courage and gritty determination. Our audience for this realistic survival game values practical, functional gear. We need a high-quality digital painting that shows her ready to explore, but she must not look like a pristine supermodel or be in absurd fantasy armor. We also need to avoid any anime or cartoon styles.",
+    "image_checkpoint": [
+      "At least one female human figure is shown in the image",
+      "At least one figure is wearing practical or functional gear",
+      "At least one figure is shown in full body or close to full body",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a female character, protagonist, explorer, or related terms",
+      "The prompt mentions practical gear, functional clothing, survival gear, or related terms",
+      "The prompt mentions full body, full shot, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_15",
+    "task": "Our spring 2026 catalog is being finalized, and we have a new story, The Forests Friend. The author is very particular about the main character, a healer. We need a key illustration of her. Her design must radiate compassion and a gentle, nurturing personality. This is for very young children, ages 3-5, so the feeling must be safe and reassuring. Were looking for a soft, storybook watercolor style. It is critical that she not look photorealistic, and the image must not have any dark shadows or sharp, scary angles.",
+    "image_checkpoint": [
+      "At least one female human figure is shown in the image",
+      "At least one figure is shown in portrait or close-up composition",
+      "The image has soft lighting",
+      "The visual style is watercolor or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a female character, healer, or related terms",
+      "The prompt mentions portrait, close-up, headshot, or related terms",
+      "The prompt mentions soft lighting or excludes dark shadows",
+      "The prompt specifies watercolor, storybook illustration, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_16",
+    "task": "The producers for our new film, Nebulas Dawn, are reviewing VFX sequences next week. We need a cinematic keyframe for Scene 42, showing the Fleet Admiral. She needs to radiate confidence, intelligence, and quiet authority; a true visionary leader. Our audience for this is into hard sci-fi, so the design should be grounded and functional. We need a photorealistic render, but she must not look like a space princess or a generic warrior holding a big gun. The focus is on her intellect, not her combat skills. And please, no lens flare.",
+    "image_checkpoint": [
+      "At least one female human figure is shown in the image",
+      "At least one figure is shown in portrait or close-up composition",
+      "At least one figure is wearing sci-fi or futuristic clothing",
+      "The image does not have lens flare",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a female character, admiral, leader, or related terms",
+      "The prompt mentions portrait, close-up, headshot, or related terms",
+      "The prompt mentions sci-fi, futuristic clothing, uniform, or related terms",
+      "The prompt excludes lens flare or mentions no lens flare",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_17",
+    "task": "Our new branding agency just sent the brief for the FizzPop soda launch. The client is rejecting all the boring corporate stuff. They want a new mascot character. He needs to be lively, playful, and full of mischievous, fun energy. The target demo is teens and young adults, so the vibe has to be cool. Were looking for a stylized, Pixar-style 3D render for the packaging. It must be dynamic, but it absolutely cannot be a flat 2D drawing or look like a real person. And the legal team says it must not look creepy or aggressive.",
+    "image_checkpoint": [
+      "At least one male human or humanoid figure is shown in the image",
+      "At least one figure is in a dynamic or playful pose",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a male character, mascot, or related terms",
+      "The prompt mentions dynamic pose, playful, energetic, or related terms",
+      "The prompt specifies 3D render, CGI, Pixar-style, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_18",
+    "task": "Were launching a new indie comic line, Metro Knights, and issue #1 goes to print in 90 days. The editor needs the cover art ASAP. We need a shot of the main hero, a sort of urban protector. He needs to stand for justice and courage, a modern hero. Our audience is tired of the old-school stuff, so the design needs to be fresh. We need a professional, dynamic digital illustration for the cover. But please, no bright primary-color spandex or cheesy capes. It must not look like an 80s cartoon or a simple drawing; it has to be detailed and gritty.",
+    "image_checkpoint": [
+      "At least one male human figure is shown in the image",
+      "At least one figure is shown in full body or close to full body",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a male character, hero, protector, or related terms",
+      "The prompt mentions full body, full shot, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_19",
+    "task": "Our art director for the Mythos board game is on vacation, and we have a crisis. The printer needs the box art for the new expansion, Tiamats Hoard, by next week. The concept is a seven-headed dragon with rainbow scales. It needs to look epic and mythological, guarding a shimmering crystal hoard. This is for our veteran TTRPG player base, so it needs to look like a high-end digital painting. It absolutely must not look like a cartoon for kids, and we need to avoid it looking like a simple, western-style dragon. Also, make sure its not dark or muddy; the rainbow scales must be vibrant.",
+    "image_checkpoint": [
+      "At least one dragon or dragon-like creature is shown in the image",
+      "At least one dragon has seven heads",
+      "At least one dragon has rainbow or multicolored scales",
+      "Crystals or treasure hoard are visible in the image",
+      "The image has vibrant or bright colors",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions dragon or related terms",
+      "The prompt mentions seven heads or multiple heads",
+      "The prompt mentions rainbow, multicolored scales, or related terms",
+      "The prompt mentions crystals, treasure, hoard, or related terms",
+      "The prompt mentions vibrant colors or excludes dark or muddy atmosphere",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_20",
+    "task": "Were working on a new childrens book, The Whispering Glade, for the 6-8 year old market. We need the main illustration for Chapter 3, where the protagonist, a young girl, first bonds with a magical forest creature. The feeling is crucial: it must be full of wonder and gentleness. The art style for the book is a soft, digital watercolor. Its for young readers, so the creature must be non-threatening. It cannot look photorealistic or like a real-world animal, and please, no dark or scary forest backgrounds.",
+    "image_checkpoint": [
+      "At least one female child or young girl is shown in the image",
+      "At least one magical or fantasy creature is shown in the image",
+      "The scene is set in a forest",
+      "The image has soft or bright lighting",
+      "The visual style is watercolor or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a girl, young girl, child, or related terms",
+      "The prompt mentions magical creature, fantasy creature, or related terms",
+      "The prompt mentions forest or related terms",
+      "The prompt mentions soft lighting or excludes dark or scary atmosphere",
+      "The prompt specifies watercolor or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_21",
+    "task": "Our social media team is planning the International Day of Friendship campaign, and last years post was a total flop. We need a new hero image. The goal is to capture a feeling of deep friendship and genuine joy. The creative director wants a shot of a diverse group of friends, laughing at sunset. Our audience is primarily Gen Z on Instagram, so it has to feel relatable. We need a high-quality, photorealistic shot, but it must not look like a cheesy, staged stock photo. And no dramatic or sad emotions, keep it positive.",
+    "image_checkpoint": [
+      "At least three human figures are shown in the image",
+      "At least two human figures are of different ethnicities or appear diverse",
+      "Human figures are laughing or showing positive expressions",
+      "The scene is set at sunset",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions multiple people, friends, group, or related terms",
+      "The prompt mentions diverse, different ethnicities, or related terms",
+      "The prompt mentions laughing, joy, positive emotion, or related terms",
+      "The prompt mentions sunset or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_22",
+    "task": "I'm trying to get a poster concept for my thesis film, The Long Way Home. The whole film is very minimalist and symbolic. I need a single image that communicates a deep emotional connection and the idea of a reunion after a long time. This is for an art-house festival audience, so it must be subtle. The focus should be on their posture and the space between them, rather than close-ups on their faces. It absolutely cannot look like a happy, smiling, mainstream reunion. And no text.",
+    "image_checkpoint": [
+      "At least two human figures are shown in the image",
+      "At least two human figures are shown in full body or close to full body",
+      "Human figures are not smiling or showing happy expressions",
+      "No text is visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions two people, multiple people, or related terms",
+      "The prompt mentions full body, full shot, or related terms",
+      "The prompt describes somber, quiet, or serious emotion or excludes happy or smiling expressions",
+      "The prompt mentions avoiding text, no text, or related terms about the image",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_23",
+    "task": "Our game studio, Neon-Byte, is prepping the press kit for our new title, Project: Chimera. We need the main characters key art portrait. The concept is a cyborg warrior, a seamless blend of human and machine. The portrait must be photorealistic and futuristic. Our audience is the core cyberpunk and hard sci-fi crowd, so they expect high-detail. It must not look like a full robot or just a person in armor. And please, avoid all 80s retro-futurism styles and anime.",
+    "image_checkpoint": [
+      "At least one human or humanoid figure is shown in the image",
+      "At least one figure is a cyborg with visible human and mechanical parts",
+      "At least one figure is shown in portrait or close-up composition",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions cyborg, human-machine hybrid, or related terms",
+      "The prompt mentions human and mechanical parts, blend of human and machine, or related terms",
+      "The prompt mentions portrait, close-up, headshot, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_24",
+    "task": "Our game studio, Dark Veil, is in pre-production. The lead designer needs concept art for Level 3, the Asylum level. We need a scene in a deserted hospital hallway that builds a feeling of suspense and dread. This is for our core horror game fans who love atmospheric, psychological horror. It is not about jump scares, so absolutely no monsters or gore. The fear should come from the environment itself. It also must not look clean or recently used.",
+    "image_checkpoint": [
+      "The scene is set in a hospital hallway or corridor",
+      "The scene appears abandoned or deserted",
+      "No monsters or creatures are visible in the image",
+      "No gore or blood is visible in the image",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions hospital, hallway, corridor, or related terms",
+      "The prompt mentions abandoned, deserted, empty, or related terms",
+      "The prompt excludes monsters, creatures, or related terms",
+      "The prompt excludes gore, blood, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_25",
+    "task": "Were a new candy company, Sugar Spires, launching our Q4 holiday campaign. Our agency proposed a key visual: a Gothic cathedral built entirely from our sweets and candies. It needs to be both playful and majestic, a magical place that looks mouth-watering. This is for a national ad campaign aimed at families, so it has to appeal to both kids and adults. It is crucial that it is clearly a cathedral, not just a pile of candy. And it must not look like a real building painted in bright colors. The construction material itself must be visibly candy.",
+    "image_checkpoint": [
+      "At least one cathedral or Gothic-style building is shown in the image",
+      "At least one building is constructed from candy or sweets",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions cathedral, Gothic building, or related terms",
+      "The prompt mentions candy, sweets, made of candy, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_26",
+    "task": "Our sustainable design firm, Aqua-Terra, has a client meeting next week. We are pitching The Oasis project and need a key render. The concept is a sphere-shaped hotel floating on the open sea. The image must convey that it is both environmentally friendly and luxurious, a harmonious blend with nature. This is for the investors, so it needs to look like a premium destination. It is important that it looks high-tech and sleek, not like a rustic hut or a research station. Also, no land should be visible, to emphasize its isolation.",
+    "image_checkpoint": [
+      "At least one sphere-shaped building or structure is shown in the image",
+      "At least one building is floating on water or ocean",
+      "No land is visible in the image",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions sphere, spherical building, hotel, or related terms",
+      "The prompt mentions floating, ocean, sea, water, or related terms",
+      "The prompt excludes land or mentions no land visible",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_27",
+    "task": "Our NGO, Oceans_Last_Stand.org, is launching its Earth Day awareness campaign, codenamed The New Coral. The campaign needs a single, scroll-stopping hero image. The concept is an underwater scene showing a new 'kingdom' of marine life living within human plastic debris. The feeling must be a kind of haunting beauty—something visually striking but also deeply somber. This is for the general public on social media, so it needs to be impactful. It must not look like a cartoon, and please, no gore or dead animals.",
+    "image_checkpoint": [
+      "The scene is set underwater",
+      "Marine life or sea creatures are visible in the image",
+      "Plastic debris or trash is visible in the image",
+      "No dead animals are visible in the image",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions underwater or related terms",
+      "The prompt mentions marine life, sea creatures, fish, or related terms",
+      "The prompt mentions plastic, debris, trash, or related terms",
+      "The prompt excludes dead animals or gore",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_28",
+    "task": "The editor at Stormbound Press just approved the budget for my historical novel, The Light-Keepers Secret. We need the cover art. The story is set in the 1890s. The concept is a moody architectural scene of an abandoned lighthouse on rugged cliffs. The image must capture the weathering on the structure and the lonely coastal atmosphere. Our readers are historical fiction fans, so they love atmosphere. It absolutely must not look like a new or functioning lighthouse. And no sunny days—it needs to feel desolate.",
+    "image_checkpoint": [
+      "At least one lighthouse is shown in the image",
+      "At least one lighthouse appears abandoned or weathered",
+      "The lighthouse is on cliffs or coastal rocks",
+      "The image is not bright or sunny",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions lighthouse or related terms",
+      "The prompt mentions abandoned, weathered, old, or related terms",
+      "The prompt mentions cliffs, coastal rocks, or related terms",
+      "The prompt excludes bright, sunny atmosphere or mentions dark, moody lighting",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_29",
+    "task": "The Aether Hotel chain is commissioning art prints for their new Alpine location, and our studio is bidding for the project. The theme is Majesty of Nature. The art consultants brief asks for a landscape photography-style scene of mountains at sunset. Key elements are warm golden light, mist-filled valleys, and dramatic depth. This is for their high-end guests, so it must look premium and peaceful. It must look hyper-realistic, like a high-end photo. It cannot be a simple drawing or painting, and it absolutely must not contain any people, roads, or buildings.",
+    "image_checkpoint": [
+      "Mountains are visible in the image",
+      "The scene is set at sunset",
+      "Mist or fog is visible in valleys",
+      "No human figures are visible in the image",
+      "No roads or buildings are visible in the image",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions mountains or related terms",
+      "The prompt mentions sunset or related terms",
+      "The prompt mentions mist, fog, or related terms",
+      "The prompt excludes people, human figures, or related terms",
+      "The prompt excludes roads, buildings, or man-made structures",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_30",
+    "task": "My new novel, The Jade Serpent, is finally finished, and the publisher is asking for cover concepts. My research was meticulous, so the art must be authentic. I need an illustration of a royal garden from the Chinese Tang dynasty, set at night. It must feel elegant and serene, but also opulent. The key element, from Chapter 14, is the night-blooming jasmine. This is for historical fiction readers, so it must be a believable digital painting. It absolutely cannot look like a generic European garden or a modern photograph. And please, it must be a night scene, not bright daylight.",
+    "image_checkpoint": [
+      "The scene is set in a garden",
+      "The scene is set at night",
+      "Jasmine flowers or night-blooming flowers are visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions garden, Tang dynasty garden, Chinese garden, or related terms",
+      "The prompt mentions night, nighttime, or related terms",
+      "The prompt mentions jasmine, night-blooming flowers, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_31",
+    "task": "We're a small game studio concepting the main hub for our new title. This is assignment 3B, due next Friday for the art director. I want you to create a key art piece. The scene is an old-town plaza in a pre-industrial fantasy setting. It must depict bustling daily life. I want to see market stalls, villagers, and trade. The key is to make it feel alive. This is a low-fantasy world, so absolutely no magic or glowing artifacts. Also, no modern technology whatsoever.",
+    "image_checkpoint": [
+      "The scene is set in a plaza or town square",
+      "Market stalls or trading areas are visible in the image",
+      "At least three human figures are shown in the image",
+      "No magical effects or glowing artifacts are visible in the image",
+      "No modern technology is visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions plaza, town square, marketplace, or related terms",
+      "The prompt mentions market stalls, trading, merchants, or related terms",
+      "The prompt mentions villagers, people, crowd, or related terms",
+      "The prompt excludes magic, magical effects, glowing artifacts, or related terms",
+      "The prompt excludes modern technology or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_32",
+    "task": "My aunt is helping organize the community centers annual Lantern Festival, and Mrs. Chen, whos in charge, needs a poster. The printer deadline is Tuesday. She needs a photorealistic scene of a vibrant street celebration at night. The key is that it must be filled with glowing lanterns and show families celebrating together. The whole point is to show joy and community to get people to come. It needs to look real, not like a drawing. And she was very clear: it cant be just a few lanterns; it has to look filled. And it must not look sad or empty.",
+    "image_checkpoint": [
+      "The scene is set at night",
+      "Multiple lanterns are visible in the image",
+      "At least three human figures are shown in the image",
+      "Human figures show positive expressions or celebratory poses",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions night, nighttime, or related terms",
+      "The prompt mentions lanterns, many lanterns, filled with lanterns, or related terms",
+      "The prompt mentions families, people, crowd, or related terms",
+      "The prompt mentions celebration, joy, festive, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_33",
+    "task": "Our marketing team is presenting the reveal trailer for our new fantasy game, Ages of Ruin, at the big summer showcase next month. The opening shot is weak. We need a new cinematic keyframe. It must be a massive battle panorama, showing the epic scale of the war. The image needs to convey a sense of desperate stakes. Our fans are expecting a mature, gritty fantasy style. It must not look like a small skirmish or a stylized cartoon. And please, no glowing, magical super-heroes; the grit is important.",
+    "image_checkpoint": [
+      "At least five human figures are shown in the image",
+      "Human figures are engaged in battle or combat",
+      "The composition shows a wide or panoramic view",
+      "No glowing magical effects are visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions battle, war, combat, or related terms",
+      "The prompt mentions massive scale, epic, panorama, or related terms",
+      "The prompt mentions wide view, panoramic, or related terms",
+      "The prompt excludes glowing effects, magic, magical powers, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_34",
+    "task": "Im commissioning a piece for my ChillHop Beats YouTube stream, the one with 2 million subscribers. The current loop is old. I need a new scene: inside a coffee shop on a rainy day. The feeling is key: it must be cozy but also a bit melancholy and quiet. It needs to capture that specific vibe of watching the rain. Our listeners are here to study and relax, so the mood is everything. We want a digital illustration, but it must not be a busy, crowded cafe. And absolutely no bright, sunny weather. The rain is the most important part.",
+    "image_checkpoint": [
+      "The scene is set inside a coffee shop or café",
+      "Rain or rain-related elements are visible in the image",
+      "The image is not crowded with many people",
+      "The image is not bright or sunny",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions coffee shop, café, or related terms",
+      "The prompt mentions rain, rainy day, or related terms",
+      "The prompt excludes crowded, busy, many people, or related terms",
+      "The prompt excludes bright, sunny atmosphere or mentions dim, cozy lighting",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_35",
+    "task": "Im running the final boss encounter for my D&D campaign this weekend, The Ash-Bound Throne. I need a splash screen for the VTT. My players are about to enter the Demon Lords fortress. I need concept art of this place, built over rivers of lava. It must look absolutely menacing and sinister. The feeling should be hopeless. My players are high-level, so they arent easily scared. This needs to look like professional, dark fantasy digital art. It must not look like a standard medieval castle, and it absolutely cannot be cartoony or bright. The lava should be the only light source.",
+    "image_checkpoint": [
+      "At least one castle, fortress, or large structure is shown in the image",
+      "Lava or molten rock is visible in the image",
+      "The image is not bright overall",
+      "Lava provides the primary light source",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions castle, fortress, demonic structure, or related terms",
+      "The prompt mentions lava, molten rock, rivers of lava, or related terms",
+      "The prompt excludes bright atmosphere or mentions dark, ominous lighting",
+      "The prompt mentions lava as light source or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_36",
+    "task": "The World of Wonders art competition deadline is this month, and my submission is for the Bio-Punk category. My concept is a fantastical city built upon a colossal flying whale. The key is the harmonious blend of architecture and the whales organic form. The whole mood must be peaceful. The judges for this competition value originality. It needs to look like a high-quality digital painting. It must not look like a scary monster or a typical airship. And its not just buildings on a whale, they must be integrated with it.",
+    "image_checkpoint": [
+      "At least one whale or whale-like creature is shown in the image",
+      "At least one whale is flying or airborne",
+      "Buildings or architectural structures are integrated with the whale",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions whale or related terms",
+      "The prompt mentions flying, airborne, sky, or related terms",
+      "The prompt mentions city, buildings, architecture integrated with whale, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_37",
+    "task": "Our CEO is giving the opening keynote at the Future Forward conference in two weeks. Were finalizing the deck, and Slide 05 is weak. We need a hero image for the Smart City section. The concept is a crosswalk scene, but it must demonstrate seamlessly integrated technology in everyday life, like AR signs and smart pavement. The feeling must be optimistic and clean. This is for investors and the press, so it has to look polished. We need a high-end, photorealistic render. It absolutely must not look dystopian, dark, or like Blade Runner. And no flying cars; keep it near-future.",
+    "image_checkpoint": [
+      "The scene is set at a crosswalk or street crossing",
+      "AR elements, holographic signs, or digital displays are visible in the image",
+      "The image has bright or clean lighting",
+      "No flying cars are visible in the image",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions crosswalk, street crossing, or related terms",
+      "The prompt mentions AR, augmented reality, holographic signs, smart technology, or related terms",
+      "The prompt mentions bright, clean, optimistic lighting or excludes dark, dystopian atmosphere",
+      "The prompt excludes flying cars or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_38",
+    "task": "My publisher, Starlight Press, is finalizing my new childrens book, The Cloud-Spinners, for the Spring 2026 list. We need the main cover art. The concept is a whimsical kingdom in the clouds. It must feel magical and peaceful. This is for very young readers, ages 4-7, so the dreamy skies and glowing towers must look inviting. We need a soft, digital painting style. It absolutely must not look like a realistic city, and no dark or scary clouds. It has to be pure fantasy.",
+    "image_checkpoint": [
+      "At least one castle, kingdom, or fantasy structure is shown in the image",
+      "At least one structure is in or among clouds",
+      "The image has soft or bright lighting",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions kingdom, castle, fantasy structure, or related terms",
+      "The prompt mentions clouds, sky, floating in clouds, or related terms",
+      "The prompt mentions soft lighting or excludes dark, scary atmosphere",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_39",
+    "task": "Were designing the Royal wedding invitation line for our 2026 collection, and the kick-off meeting set the theme. We need the hero illustration. The concept is a romantic fairytale ballroom. It must feel incredibly elegant and like a dream, with a sense of magic in the air. This is for our most discerning clients, so it needs to look premium. We want a detailed digital painting of the opulent ballroom itself, perhaps hinting at a dance about to begin. But it must not look like a modern disco or a simple cartoon.",
+    "image_checkpoint": [
+      "The scene is set in a ballroom or grand hall",
+      "The ballroom appears elegant or opulent",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions ballroom, grand hall, or related terms",
+      "The prompt mentions elegant, opulent, ornate, fairytale, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_40",
+    "task": "Our VFX supervisor for Tide-Breaker (working title) needs a keyframe for the First Reveal sequence, which is Scene 22. This is the moment the heroes see the city. We need a majestic underwater kingdom. It must feel ancient and awe-inspiring, full of life with corals and creatures. Our audience is mature fantasy fans, so it needs to be believable, not childish. It needs to be a concept art piece in a photorealistic style. It must not look like a dark, scary trench or a simple scuba-diving wreck. And absolutely no cartoony Little Mermaid vibes.",
+    "image_checkpoint": [
+      "The scene is set underwater",
+      "At least one city, kingdom, or large structure is shown in the image",
+      "Coral or sea creatures are visible in the image",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions underwater or related terms",
+      "The prompt mentions city, kingdom, ancient structures, or related terms",
+      "The prompt mentions coral, sea creatures, marine life, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_41",
+    "task": "We're laying out Chapter 4, The Arcane Academy, for the Spell-Weavers Guide TTRPG expansion, and we have an art hole on page 56. We need a full-page illustration. The scene is an alchemy classroom, but it must feel mystical and full of wonder, not just like a boring lab. We need to see that it's an active place of learning, maybe with a bit of safe chaos. Our TTRPG player audience loves atmospheric details. We need a digital painting. It absolutely must not look like a modern science lab or a dark, evil lair.",
+    "image_checkpoint": [
+      "The scene is set in a classroom or laboratory",
+      "Alchemy equipment or magical items are visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions classroom, laboratory, alchemy room, or related terms",
+      "The prompt mentions alchemy equipment, potions, magical items, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_42",
+    "task": "Our studio, Quantum Rift, needs a cinematic keyframe for the E3 trailer. The scene is the Battle of Alpha-Sector. It must be an epic, large-scale sci-fi space battle. We need to feel the chaos and scale. This is for the big showcase, so it has to impress hardcore sci-fi fans. We need a digital painting. It must not look like a small, clean skirmish. And no cartoony lasers; it has to feel gritty.",
+    "image_checkpoint": [
+      "The scene is set in space",
+      "At least three spaceships or spacecraft are shown in the image",
+      "The composition shows a wide or large-scale view",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions space, space battle, or related terms",
+      "The prompt mentions spaceships, spacecraft, fleet, or related terms",
+      "The prompt mentions epic scale, large-scale, massive, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_43",
+    "task": "Our studio, Red Planet, is in pre-production for Project Ares, a hard sci-fi game. We need concept art for the Scout units, which are robotic, insect-like machines. The scene should show them carrying out a mission in the canyons of Mars. The design must look functional and realistic. This is for our hard sci-fi fans, so they value that grounded feel. We need a digital painting. It must not look like fantasy or Star Wars. And no giant mechs; these are small, insect-sized scouts.",
+    "image_checkpoint": [
+      "At least one robotic or mechanical creature is shown in the image",
+      "At least one robot is insect-like in appearance",
+      "The scene is set on Mars or a rocky, desert-like planet",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions robot, robotic, mechanical insects, or related terms",
+      "The prompt mentions insect-like, insect design, or related terms",
+      "The prompt mentions Mars, Martian landscape, canyons, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_44",
+    "task": "Our museum, the Aqua Institute, is opening a new exhibit, The Changing Seas, in the fall. We need the main promotional image for the posters. The image needs to be a powerful graphic design, not just a scene. It needs to symbolize the threat of microplastics. The feeling must be impactful and somber. This is for the general public, including families. The style should be clean and symbolic. It must not be gruesome or overly graphic. We want people to think, not look away. And it cannot be a simple cartoon.",
+    "image_checkpoint": [
+      "Plastic or microplastic elements are visible in the image",
+      "The image has a clean or minimalist composition",
+      "The visual style is vector art, flat design, or graphic design"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions plastic, microplastics, pollution, or related terms",
+      "The prompt mentions clean, minimalist, symbolic, or related terms",
+      "The prompt specifies vector art, flat design, graphic design, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_45",
+    "task": "I'm the art director for Metropolis Weekly. Our next cover story is a long-form investigative piece on The Air We Breathe. The deadline is tight. We need a cover image that shows the impact of air pollution on city life. The mood must be oppressive but also realistic. Our readers are educated urban-dwellers, so it needs to be subtle but powerful. It must not look like a futuristic, Blade Runner city. It needs to look like a real, modern city. And no cartoons.",
+    "image_checkpoint": [
+      "The scene is set in a modern city or urban environment",
+      "Smog, haze, or air pollution is visible in the image",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions city, urban environment, or related terms",
+      "The prompt mentions smog, haze, air pollution, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_46",
+    "task": "I'm the art director for Terra magazine. Our next issue is a special report on deforestation, The Barren Land, and we're closing the issue on Friday. We need a powerful, conceptual cover illustration. The image must capture the emotional aftermath and emptiness of forest loss. Our readers are environmentally conscious, so they appreciate symbolic art. It must be a digital painting, not a photograph. And please, it shouldn't be overly graphic or bloody; the feeling is loss, not horror.",
+    "image_checkpoint": [
+      "The scene shows deforestation or barren land",
+      "Tree stumps or evidence of removed trees are visible in the image",
+      "No gore or blood is visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions deforestation, barren land, tree stumps, or related terms",
+      "The prompt mentions empty, aftermath, forest loss, or related terms",
+      "The prompt excludes gore, blood, or graphic violence",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_47",
+    "task": "The Harmony Project committee is reviewing proposals for the new community centers main wall. The deadline for artist submissions is the 30th. We need a mural draft for this. Our neighborhood is incredibly diverse, so the design must reflect that. The key themes are unity and community spirit. It must make everyone feel represented and welcome. Were looking for an illustrative style that combines symbolic motifs and cultural elements from the community. It must be a unified design, not just a collage of different flags. And it must not look like graffiti or be text-heavy.",
+    "image_checkpoint": [
+      "At least three human figures are shown in the image",
+      "At least two human figures are of different ethnicities or appear diverse",
+      "Cultural symbols or motifs are visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions diverse people, multiple ethnicities, community, or related terms",
+      "The prompt mentions unity, togetherness, or related terms",
+      "The prompt mentions cultural symbols, motifs, patterns, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_48",
+    "task": "My new EP, Static Dreams, is dropping in two months. I'm an indie artist, and I need the cover art. The whole EP is about feeling alone in a big city, disconnected by all the technology. My fans are into that lo-fi, existential vibe. I need an illustrative scene that highlights this urban isolation. It should feel lonely. It must be an illustration, not a photo. And it must not be a busy or crowded scene. The focus should be on that feeling of disconnection, so no happy or interacting people.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "The scene is set in an urban or city environment",
+      "The image is not crowded with many people",
+      "Human figures are not smiling or interacting positively",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person or human figure",
+      "The prompt mentions city, urban environment, or related terms",
+      "The prompt excludes crowded, busy, many people, or related terms",
+      "The prompt describes isolation, lonely, disconnected, or excludes happy or interacting people",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_49",
+    "task": "My new memoir is coming out, and the publisher needs a book cover. The key scene is about a lantern festival. The image needs to convey introspection and hope, a feeling of solitude but not sadness. It's about that 'quiet wish' feeling. This is for the inspirational memoir market, so it should be subtle. It must not be a big, crowded party scene. The focus is on the quiet feeling, not the celebration itself.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "Lanterns are visible in the image",
+      "The image is not crowded with many people",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person or human figure",
+      "The prompt mentions lanterns, lantern festival, or related terms",
+      "The prompt excludes crowded, busy, party scene, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_50",
+    "task": "Our tech company is launching ConnectOS, our new internal platform, next quarter. The default gray profile icons are terrible. We need a concept for a new stylized avatar that all employees will use. It must feel professional but also friendly and modern. This is for our tech-savvy employees, so it needs to look clean. The UI/UX lead needs it to work as a small icon. It absolutely must not look like a realistic photo or a detailed painting. And please, no anime.",
+    "image_checkpoint": [
+      "At least one human figure or avatar is shown in the image",
+      "The figure is shown in portrait or close-up composition",
+      "The visual style is vector art or flat design"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions avatar, profile icon, or related terms",
+      "The prompt mentions portrait, headshot, icon, or related terms",
+      "The prompt specifies vector art, flat design, minimalist, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_51",
+    "task": "Im the art director for MindShift magazine. Were running a cover story for our May issue on High-Functioning Anxiety. The article is about people who seem fine but are struggling. We need a symbolic cover illustration that captures this inner conflict and hidden struggle. The mood must be somber but subtle. Our readers appreciate conceptual art. It absolutely must not be literal, like a person crying. And please, no text or medical symbols.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "Human figures are not crying or showing overt emotional distress",
+      "No text is visible in the image",
+      "No medical symbols are visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person or human figure",
+      "The prompt describes subtle emotion, inner conflict, or excludes crying or overt distress",
+      "The prompt mentions avoiding text, no text, or related terms about the image",
+      "The prompt mentions avoiding medical symbols or related terms about the image",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_52",
+    "task": "We're an indie publisher, Arcane Press, creating a new tarot deck. We're commissioning the The Lovers card. Our deck is about modern dilemmas, so we want this card to represent a turning point or moment of inner conflict about a major decision. It must feel profound. Our audience is modern mystics who want a fresh, symbolic interpretation. We need the final illustration for the card. And please, avoid the traditional Adam and Eve religious art.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person, people, or human figure",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_53",
+    "task": "I'm a director, and my indie film, The Stillwater, is going to Sundance. Our distributor needs a poster concept. The film is a quiet drama about returning home. The poster must be subtle and capture a feeling of bittersweet nostalgia and change. This is for the indie film audience, so it must be artistic and conceptual. We need an illustration. The focus should be on the environment, not a clear portrait of the character. And no happy family reunion scenes.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "At least one figure is shown in full body or close to full body",
+      "Human figures are not in a happy reunion or group celebration",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person or human figure",
+      "The prompt mentions full body, full shot, distant figure, or related terms",
+      "The prompt excludes happy reunion, family gathering, celebration, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_54",
+    "task": "We're organizing Golden Daze, a new music festival for this summer. Our promotions team needs the main poster art. The festival is a total throwback to indie and folk-rock. We want the illustration to be colorful, vibrant, dreamy, and flowing. Our audience is into retro fashion, so they'll appreciate the vibe. It absolutely must not look modern, digital, or minimalist. And no photographs.",
+    "image_checkpoint": [
+      "The image has vibrant or colorful elements",
+      "Text or typography elements are visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions vibrant, colorful, psychedelic, or related terms",
+      "The prompt mentions text, typography, poster, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_55",
+    "task": "I'm a designer for a luxury wallpaper company. Our Heritage collection for 2026 needs a new seamless, repeating pattern. The theme is elegant, organic, and luxurious. Our clients are high-end interior designers, so they expect sophisticated designs. The creative director is obsessed with that turn-of-the-century European art style, with all the flowing, curvy lines and nature motifs. It must not be geometric or minimalist like Art Deco. And no bright, cartoony colors.",
+    "image_checkpoint": [
+      "The image shows a seamless or repeating pattern",
+      "Organic or nature-inspired motifs are visible in the pattern",
+      "The image does not have bright, saturated cartoon colors",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions seamless pattern, repeating pattern, or related terms",
+      "The prompt mentions organic, nature motifs, flowing lines, Art Nouveau, or related terms",
+      "The prompt excludes bright colors, cartoony, or mentions muted, elegant colors",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_56",
+    "task": "I'm an indie electronic artist, Cygnus-X. My new album, Data-Stream, is finished, and I need the cover art for Bandcamp. The music is all ambient and minimalist. I want the cover to convey a sense of digital calm and serenity. It must be abstract. My fans appreciate minimalist visuals. It must not be loud or busy or colorful. And no pictures of me or any real-world objects.",
+    "image_checkpoint": [
+      "The image is abstract with no recognizable objects",
+      "No human figures are visible in the image",
+      "The image is not highly saturated or colorful",
+      "The visual style is vector art or flat design"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions abstract, geometric shapes, or related terms",
+      "The prompt excludes people, human figures, or related terms",
+      "The prompt excludes colorful, vibrant, busy, or mentions minimal, calm colors",
+      "The prompt specifies vector art, flat design, minimalist, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_57",
+    "task": "The Vanguard gallery is opening a new exhibition, Emotional States, for the spring. The curator needs the main centerpiece, a large-scale painting. The theme must be joyful chaos. It has to be full of vibrant energy. This is for our high-profile collectors, who appreciate bold and conceptual work. It must be a pure abstract painting, not a recognizable scene or person. And it cannot look timid; it must be dynamic.",
+    "image_checkpoint": [
+      "The image is abstract with no recognizable objects or figures",
+      "The image has vibrant or energetic colors",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions abstract, abstract painting, or related terms",
+      "The prompt mentions vibrant, energetic, dynamic colors, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_58",
+    "task": "Our UI lead for the game Project Eldoria is finalizing the inventory screen. The placeholder programmer art needs to go. We need a concept for the item icons, like for a health potion. The whole theme of the game is glowing and magical. This is for our hardcore RPG players, so they must look professional. They must be vector-style and clear. They absolutely cannot be photorealistic or painted. And they must be readable when very small. No generic, non-fantasy designs.",
+    "image_checkpoint": [
+      "At least one potion or magical item is shown in the image",
+      "The item has glowing or magical effects",
+      "The visual style is vector art or flat design"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions potion, health potion, magical item, or related terms",
+      "The prompt mentions glowing, magical effects, or related terms",
+      "The prompt specifies vector art, flat design, icon, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_59",
+    "task": "Our new language-learning app, LingoLeap, is in beta, but focus groups found it cold. The board approved a budget for a mascot. We need a character that looks friendly, encouraging, and approachable. This is for all ages, so it must appeal to both kids and adults. We want that polished, modern animated film look. It must be a 3D mascot, not a flat 2D drawing. And it absolutely cannot look like a generic corporate character or be creepy.",
+    "image_checkpoint": [
+      "At least one character or creature is shown in the image",
+      "At least one character is shown in full body or close to full body",
+      "The character has a friendly or approachable appearance",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions character, mascot, creature, or related terms",
+      "The prompt mentions full body, full shot, or related terms",
+      "The prompt mentions friendly, approachable, cute, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_60",
+    "task": "My sister is opening her artisanal coffee shop, The Daily Grind, next month. Her nephew did a logo in MS Paint, and it's a disaster. She needs a real logo symbol. The vibe is vintage but premium. Her audience is the hipster neighborhood crowd. We need a symbol that feels bold. It absolutely cannot be a generic, clip-art coffee cup. And no text, just the symbol. It must not look thin or weak.",
+    "image_checkpoint": [
+      "At least one coffee-related object or symbol is shown in the image",
+      "No text is visible in the image",
+      "The visual style is vector art or flat design"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions coffee, coffee bean, coffee equipment, or related terms",
+      "The prompt mentions avoiding text",
+      "The prompt specifies vector art, flat design, logo, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_61",
+    "task": "Im a neuroscientist writing a book, The Minds Attic, for the lay-public. The publisher needs a conceptual illustration for the chapter on memory loss. The image must visually represent the concept of a fading memory. This is for the lay-public, so it must be artistic and conceptual, not a dry medical diagram. We need an abstract digital art piece. It absolutely cannot be a literal picture of an old person or a brain. The feeling should be subtle and melancholy, not tragic or scary.",
+    "image_checkpoint": [
+      "The image is abstract or symbolic",
+      "No human figures are visible in the image",
+      "No brain or medical imagery is visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions abstract, conceptual, symbolic, or related terms",
+      "The prompt excludes people, elderly person, or related terms",
+      "The prompt excludes brain, medical diagram, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_62",
+    "task": "The manuscript for Aethelgard just came in. Its our lead sci-fi title for the fall, and the marketing team needs cover concepts. The main setting is a city built on clouds. The image must capture a sense of wonder and awe. This is our lead title, so it has to appeal to a broad sci-fi audience. We need the main cover illustration. It must look futuristic, not like a fantasy magic castle. And it absolutely must not be a dark, dystopian city; the feeling is wonder.",
+    "image_checkpoint": [
+      "At least one city or large structure is shown in the image",
+      "At least one structure is on or among clouds",
+      "The image has bright or vibrant lighting",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions city, floating city, or related terms",
+      "The prompt mentions clouds, sky, floating on clouds, or related terms",
+      "The prompt mentions bright lighting or excludes dark, dystopian atmosphere",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_63",
+    "task": "My publishing house, Willow Press, needs a cover for a new historical romance, The Gardeners Secret. The art director is adamant: she wants a still life concept. The image must be romantic and heartfelt, full of nostalgia, and hint at a secret. This is for our historical romance readers, so the vibe is key. It must be a digital painting. It must not show any people. And no modern objects.",
+    "image_checkpoint": [
+      "The composition is a still life or close-up of objects",
+      "No human figures are visible in the image",
+      "No modern objects are visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions still life, close-up composition, or related terms",
+      "The prompt excludes people, human figures, or related terms",
+      "The prompt excludes modern objects or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_64",
+    "task": "Im the photo editor for Art & Form magazine. Our next cover is on Public Art. We need a photorealistic shot of a striking, modern sculpture in a city park. The image must convey the harmony between the abstract art and the natural surroundings. Our readers are designers, so it must look premium. The focus must be the sculpture itself, with its sleek, metallic form. It must not be a traditional bronze statue. And please, it should not be a busy, crowded scene; the art is the subject, not the people.",
+    "image_checkpoint": [
+      "At least one sculpture or art piece is shown in the image",
+      "At least one sculpture is modern or abstract in style",
+      "All sculptures must not be a traditional bronze statue",
+      "The scene is set in a park or outdoor environment",
+      "The image is not crowded with many people",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions sculpture, modern art, abstract sculpture, or related terms",
+      "The prompt mentions modern, abstract, contemporary, metallic, or related terms",
+      "The prompt mentions avoiding any traditional bronze statues",
+      "The prompt mentions park, outdoor, nature, or related terms",
+      "The prompt excludes crowded, busy, many people, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_65",
+    "task": "I run a health blog, The Morning-Glow, and my web designer needs a new header image. The theme is healthy lifestyle and clean eating. I need a photorealistic food still life scene of a healthy breakfast. The feeling must be fresh and energizing. My readers are very health-conscious. It absolutely must not look dark or moody. And no greasy or sugary foods like bacon or pancakes.",
+    "image_checkpoint": [
+      "Healthy food items are visible in the image",
+      "The composition is a still life or close-up of food",
+      "The image has bright or fresh lighting",
+      "No bacon or pancakes are visible in the image",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions healthy food, breakfast, fruits, vegetables, or related terms",
+      "The prompt mentions still life, food photography, close-up, or related terms",
+      "The prompt mentions bright, fresh lighting or excludes dark, moody atmosphere",
+      "The prompt excludes bacon, pancakes, greasy food, sugary food, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_66",
+    "task": "We're a new restaurant, Seoul Fire, opening next month. Our menu designer needs the cover photo, and the test shots are all flat. We need a highly realistic food visual of a hot platter of food. The image must emphasize texture and heat—it has to look sizzling and delicious. This is for our customers, so it must be authentic. We need a photorealistic shot. It must not look cold or staged. And please, no cartoony illustrations. It has to make people hungry.",
+    "image_checkpoint": [
+      "Korean BBQ food or grilled meat is visible in the image",
+      "The food appears hot or sizzling with steam or heat effects",
+      "The composition is a close-up of food",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions Korean BBQ, grilled meat, hot food, or related terms",
+      "The prompt mentions sizzling, steaming, hot, or related terms",
+      "The prompt mentions close-up, food photography, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_67",
+    "task": "I'm the art buyer for Tranquil, a luxury spa chain. We are commissioning a series of large-scale prints for our treatment rooms, and the Q3 budget just got approved. The images must be serene, pure, and calm. They need to be high-resolution and premium. This is for our high-paying clients, so the quality has to be flawless. We want a close-up, intimate photograph of a flower. It must not be a whole bouquet or a garden scene. And it cannot look like a drawing or a painting.",
+    "image_checkpoint": [
+      "At least one flower is shown in the image",
+      "The flower is shown in macro or extreme close-up",
+      "The image is not a bouquet or garden scene",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions flower or related terms",
+      "The prompt mentions macro, close-up, extreme close-up, intimate detail, or related terms",
+      "The prompt excludes bouquet, garden, multiple flowers, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_68",
+    "task": "I'm an artist trying to set up my new Etsy shop, Clay & Kiln. My photos from my phone are terrible. I need a main banner image. The image needs to look artisanal, rustic, high-quality, and authentic. It should show off the handcrafted texture. This is for online shoppers, so it needs to look premium. We need a photorealistic still-life of my pottery. It must not look like mass-produced, factory-made ceramics. And no cluttered, messy backgrounds.",
+    "image_checkpoint": [
+      "At least one pottery or ceramic item is shown in the image",
+      "The pottery appears handmade or artisanal",
+      "The composition is a still life or close-up",
+      "The background is not cluttered or messy",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions pottery, ceramics, handmade pottery, or related terms",
+      "The prompt mentions handmade, artisanal, handcrafted, or related terms",
+      "The prompt mentions still life, product photography, close-up, or related terms",
+      "The prompt excludes cluttered background or mentions clean, simple background",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_69",
+    "task": "Our Celebrations card line needs its main Diwali card for the fall 2026 catalog. The creative director just rejected the last three concepts. The image must be vibrant, warm, joyful, and full of light. It must feel celebratory. This is for people sending greetings, so it needs to feel authentic and respectful. We want a photorealistic shot. It must not be a dark or lonely scene. And it cannot be just one lamp; it needs to feel abundant and full.",
+    "image_checkpoint": [
+      "Multiple oil lamps or diyas are visible in the image",
+      "The image has warm or bright lighting",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions multiple oil lamps, diyas, many lamps, or related terms",
+      "The prompt mentions warm, bright, vibrant lighting or excludes dark atmosphere",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_70",
+    "task": "I'm a book designer working on a memoir cover, 'Her Childhood.' I need a cover image for the project. I'm trying to capture a nostalgic feeling of reflection and reconnection with the past. The mood should be warm and bittersweet. This is for the historical memoir market, so it needs to feel personal. The image needs to be a still life that evokes this. It must not look like it contains modern plastic toys. And it needs to look aged.",
+    "image_checkpoint": [
+      "At least one vintage or old toy or childhood object is shown in the image",
+      "The composition is a still life or close-up of objects",
+      "The objects appear aged or vintage",
+      "No modern plastic toys are visible in the image",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions vintage toys, old toys, childhood objects, or related terms",
+      "The prompt mentions still life, close-up composition, or related terms",
+      "The prompt mentions aged, vintage, weathered, or related terms",
+      "The prompt excludes modern toys, plastic toys, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_71",
+    "task": "My friend is writing a short story, The Anonymous Admirer, for a literary magazine, and she needs a header illustration. The image must capture a feeling of secret admiration and soft mystery. It has to suggest a hidden romance just through objects. This is for a literary audience, so it must be subtle. She suggested a still life concept: maybe a vintage, unaddressed envelope on a wooden desk, next to a single pressed flower. It must not show any people. And it shouldnt look modern; it must feel aged.",
+    "image_checkpoint": [
+      "At least one envelope or letter is shown in the image",
+      "At least one flower is shown in the image",
+      "The composition is a still life or close-up of objects",
+      "No human figures are visible in the image",
+      "The objects appear aged or vintage",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions envelope, letter, or related terms",
+      "The prompt mentions flower, pressed flower, or related terms",
+      "The prompt mentions still life, close-up composition, or related terms",
+      "The prompt excludes people, human figures, or related terms",
+      "The prompt mentions aged, vintage, antique, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_72",
+    "task": "I'm the food editor at Urban Bites magazine. Our 'Best Burger' issue is closing on Monday, and our cover photo fell through. We need a high-detail food photography shot of a gourmet hamburger. It must look juicy, fresh, and incredibly appetizing. This is for our foodie audience, so it needs to be styled perfectly. We need a photorealistic shot. It must not look like a flat, fast-food burger. And it cannot look cold or artificial.",
+    "image_checkpoint": [
+      "At least one hamburger or burger is shown in the image",
+      "The burger appears gourmet with visible fresh ingredients",
+      "The composition is a close-up of food",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions hamburger, burger, gourmet burger, or related terms",
+      "The prompt mentions gourmet, fresh ingredients, juicy, or related terms",
+      "The prompt mentions close-up, food photography, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_73",
+    "task": "Our games 3D modeling team needs a final concept art piece for a new handheld tool. The design must look futuristic, high-tech, and functional. This is for our sci-fi players, who appreciate detailed and believable tech. We need a digital painting of the device. It must not look like a retro 80s prop or a fantasy item. And it cannot look like a weapon; it's a scanning tool.",
+    "image_checkpoint": [
+      "At least one handheld device or tool is shown in the image",
+      "The device appears futuristic or high-tech",
+      "The device does not appear to be a weapon",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions handheld device, scanning tool, gadget, or related terms",
+      "The prompt mentions futuristic, high-tech, sci-fi, or related terms",
+      "The prompt excludes weapon, gun, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_74",
+    "task": "Our art director for Project Ebon-Flame is rejecting all the 3D modelers drafts. We need the final concept art for the Legendary Hero's main weapon. It needs to look ancient and powerful. This is for our hardcore fantasy RPG fans, so it has to look unique and epic. We need a game prop design. It absolutely must not look like a generic, simple medieval sword. And no sci-fi elements.",
+    "image_checkpoint": [
+      "At least one sword or blade weapon is shown in the image",
+      "The sword appears ancient, ornate, or legendary",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions sword, legendary sword, blade, or related terms",
+      "The prompt mentions ancient, ornate, legendary, epic, unique design, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_75",
+    "task": "This is the final assignment for your Art History 301 course, worth 40% of your grade. I need you to create a digital oil painting. The theme must be the transience of life. It needs to be somber and symbolic. This must look like a 17th-century European masterpiece. It absolutely must not look like a bright, modern painting. And no simple sketches; I want to see rich textures and lighting.",
+    "image_checkpoint": [
+      "At least one object is shown in the image",
+      "The composition is a still life",
+      "The image is not bright or highly saturated",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions objects, still life, or related terms",
+      "The prompt mentions still life, vanitas, Dutch still life, or related terms",
+      "The prompt excludes bright colors or mentions dark, somber, muted lighting",
+      "The prompt specifies digital painting, oil painting style, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_76",
+    "task": "Our client, Apex Kicks, is launching their Volt-Prime limited-edition drop next month. The agency needs the main hero image for the marketing page. The design must scream hype and exclusivity. This is for their sneakerhead audience, so it has to look premium and futuristic. We need a 3D-style render of the product in a dynamic, floating pose against a simple background. It must not look like a normal, boring sneaker photo. And no flat side-on views.",
+    "image_checkpoint": [
+      "At least one sneaker or shoe is shown in the image",
+      "The sneaker is in a dynamic or floating pose",
+      "The background is simple or minimal",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions sneaker, shoe, footwear, or related terms",
+      "The prompt mentions dynamic pose, floating, angled view, or related terms",
+      "The prompt mentions simple background, minimal background, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_77",
+    "task": "The lead environment artist for our new vampire game, Blood-Loom, needs the hero prop concept art for the throne room. We need a single piece of ornate, gothic-style furniture. It must look ancient and menacing. This is for our gothic horror fans, so it has to be detailed. We need it isolated for a concept art sheet. It must not look like a modern, simple chair. And it has to look aged no new, clean wood.",
+    "image_checkpoint": [
+      "At least one piece of furniture is shown in the image",
+      "The furniture appears gothic or ornate in style",
+      "The furniture appears aged or weathered",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions furniture, throne, chair, or related terms",
+      "The prompt mentions gothic, ornate, elaborate, or related terms",
+      "The prompt mentions aged, weathered, ancient, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_78",
+    "task": "Our industrial design firm is presenting the Hyperion concept to the board next week. This is our one shot. We need the main 3D product render of our new concept vehicle. It must look sleek, aerodynamic, and luxurious. This is for the executives, so it must look premium and innovative. Emphasize the polished materials. It must not look like a retro or current-day vehicle. And it needs to be a clean studio shot, no dirt or street backgrounds.",
+    "image_checkpoint": [
+      "At least one motorcycle or vehicle is shown in the image",
+      "The vehicle appears futuristic or concept-style",
+      "The background is clean or studio-style",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions motorcycle, vehicle, concept vehicle, or related terms",
+      "The prompt mentions futuristic, sleek, aerodynamic, or related terms",
+      "The prompt mentions clean background, studio lighting, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_79",
+    "task": "Our art director for Project Umbra is stuck on the main quest item, which the player finds in the Forbidden Archive. We need the 'hero prop' concept art for this specific forbidden spellbook. The book itself must look ancient and feel like it holds dangerous, forbidden knowledge. It must not look like a new, clean book. No cartoony skulls or bright magical glows; the power should feel subtle and dark.",
+    "image_checkpoint": [
+      "At least one book is shown in the image",
+      "The book appears ancient or weathered",
+      "No bright glowing effects are visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions book, spellbook, tome, or related terms",
+      "The prompt mentions ancient, weathered, old, or related terms",
+      "The prompt excludes bright glow, bright magical effects, or mentions subtle, dark atmosphere",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_80",
+    "task": "I'm an author, and my publisher needs a cover brief for my new sci-fi novel, Icefall. The art department needs the concept for the object at the center of the plot. It's an ancient ice core sample, drilled from the iceberg under the polar station. The image needs to convey isolation and high-technology. This is for sci-fi readers who appreciate mystery. Avoid military vibes—it's a scientific discovery, not a weapon.",
+    "image_checkpoint": [
+      "At least one ice core sample or cylindrical ice object is shown in the image",
+      "The composition is a close-up of the object",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions ice core, ice sample, cylindrical ice, or related terms",
+      "The prompt mentions close-up, product shot, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_81",
+    "task": "The lore book for 'Titan Wars' goes to print next week, and the director is still unhappy with the Mecha-Kaiju design. He says the previous concepts looked like 'generic toy store action figures' and lack believability. For this illustration, he wants to prove these creatures are genuinely alive, not just walking robots. He keeps using phrases like 'biological nightmare' and 'disturbingly plausible'. The image needs to reveal the internal fusion of organic flesh and mechanical components in a way that feels clinical and scientific, like something from a classified research file. The aesthetic should be gritty and detailed, almost like a medical diagram, but darker. Our audience is hardcore sci-fi fans who care about realism, so simple cartoon drawings or colorful comic book illustrations won't work here.",
+    "image_checkpoint": [
+      "At least one creature or monster is shown in the image",
+      "The creature shows both biological and mechanical components",
+      "The composition shows internal anatomy or cross-section view",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions creature, monster, kaiju, bio-mechanical, or related terms",
+      "The prompt mentions biological and mechanical, organic and machine parts, or related terms",
+      "The prompt mentions anatomy, cross-section, internal view, schematic, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_82",
+    "task": "The marketing team for the 'Poseidon' luxury liner launch is panicking because the current brochure feels too cold and corporate. They want a hero image that screams 'endless possibilities' and captures the variety of experiences onboard. The creative director keeps referencing Wes Anderson films and how they show multiple spaces at once with this symmetrical, dollhouse-like quality. She wants people to feel the energy and liveliness of the ship, almost like it's a floating city full of life. The image should be vibrant and bustling, appealing to families planning their dream vacation. It's crucial that it doesn't look claustrophobic or dark, and she specifically said no more boring exterior shots of the ship on the ocean. We need something that feels inviting and full of wonder.",
+    "image_checkpoint": [
+      "At least one ship or cruise ship interior is shown in the image",
+      "Multiple rooms or levels are visible in a cutaway or cross-section view",
+      "At least three human figures are shown in the image",
+      "The image has bright or vibrant lighting",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions cruise ship, ship interior, or related terms",
+      "The prompt mentions cutaway, cross-section, multiple levels, dollhouse view, or related terms",
+      "The prompt mentions people, passengers, bustling, or related terms",
+      "The prompt mentions bright, vibrant lighting or excludes dark, claustrophobic atmosphere",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_83",
+    "task": "Our educational app is losing kids' attention fast, and the 'Habitats' chapter has terrible engagement metrics. The product manager wants a visual that makes children stop scrolling and go 'whoa'. She keeps talking about capturing the wonder of discovering a hidden world beneath the surface. The lead educator insists it needs to be scientifically accurate, while the UX designer is worried about it looking too much like those depressing old textbook diagrams from the 1980s. The image should reveal the complexity and organization of the colony in a way that feels like a premium nature documentary. It's for elementary students, but please avoid anything muddy, scary, or overly dark. We're testing this with focus groups on Friday and need something that balances education with visual impact.",
+    "image_checkpoint": [
+      "The scene shows an underground or below-surface environment",
+      "An ant colony structure with tunnels is visible in the image",
+      "Ants or insects are visible in the image",
+      "The composition shows a cutaway or cross-section view",
+      "The image is not dark or muddy",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions underground, below surface, or related terms",
+      "The prompt mentions ant colony, tunnels, chambers, or related terms",
+      "The prompt mentions ants or related terms",
+      "The prompt mentions cutaway, cross-section, or related terms",
+      "The prompt mentions bright, clear lighting or excludes dark, muddy atmosphere",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_84",
+    "task": "The crowdfunding campaign for our Elder Wand replica is struggling, and backers keep asking why they should pay premium prices for what looks like 'just a stick'. To justify the craftsmanship, we need an illustration that communicates ancient mysticism and meticulous attention to detail. The prop designer wants it to feel like a lost schematic from centuries ago, something a wandmaker would have drawn. Someone suggested channeling the aesthetic of Leonardo da Vinci's notebooks, with that aged parchment quality and intricate linework, but magical rather than mechanical. Modern glowing effects or CGI renders are completely off the table for this. It needs to emphasize the heritage and the care that goes into making these items. We're relaunching the campaign on Monday.",
+    "image_checkpoint": [
+      "At least one wand or staff is shown in the image",
+      "The composition shows a schematic or technical diagram view",
+      "The image has an aged or vintage appearance",
+      "No modern glowing effects are visible in the image",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions wand, magic wand, staff, or related terms",
+      "The prompt mentions schematic, diagram, blueprint, technical drawing, or related terms",
+      "The prompt mentions aged, vintage, parchment, old paper, or related terms",
+      "The prompt excludes glowing effects, modern CGI, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_85",
+    "task": "The CEO just tore apart our pitch deck for tomorrow's VC meeting. He says Slide 4 looks like a 'college presentation' and lacks the confidence needed to convince investors we're the market leader. He wants a visual that instantly communicates our dominant position without him having to explain it. He keeps using phrases like 'visual authority' and 'effortless superiority'. The designer mentioned using some kind of matrix or positioning chart, but it needs that Silicon Valley minimalist aesthetic—clean lines, premium typography, and ample whitespace. Default Excel garbage or generic consulting firm PowerPoint templates are exactly what he doesn't want to see. The goal is to make competitors look insignificant in comparison. We present at 9 AM tomorrow and this is our last missing piece.",
+    "image_checkpoint": [
+      "A matrix, chart, or diagram is shown in the image",
+      "Text or typography elements are visible in the image",
+      "The composition has a clean or minimalist design",
+      "The visual style is vector art or flat design"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions matrix, chart, positioning diagram, or related terms",
+      "The prompt mentions text, typography, labels, or related terms",
+      "The prompt mentions clean, minimalist, whitespace, or related terms",
+      "The prompt specifies vector art, flat design, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_86",
+    "task": "The cafe owner wants a mural for the back wall that tells the story of our coffee sourcing, but she keeps rejecting drafts for being 'too corporate' or looking like 'Starbucks training materials'. She wants something that feels romantic and makes customers emotionally connect with the coffee's journey from origin to cup. She showed me a photo of a chalkboard menu from a Brooklyn cafe around 2014 and said she wants 'that energy'. The design should feel artisanal and hand-crafted, like it was drawn with chalk on a rough blackboard surface. It needs to appeal to our hipster clientele who value authenticity. Rigid flowcharts or industrial supply chain diagrams are the opposite of what she's looking for. The muralist starts installation next Thursday.",
+    "image_checkpoint": [
+      "Coffee beans, coffee plants, or coffee-related items are visible in the image",
+      "The composition shows a process or journey diagram",
+      "Text or typography elements are visible in the image",
+      "The image has a chalkboard or hand-drawn appearance",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions coffee, coffee beans, coffee journey, or related terms",
+      "The prompt mentions process, journey, flow, stages, or related terms",
+      "The prompt mentions text, labels, typography, or related terms",
+      "The prompt mentions chalkboard, chalk drawing, hand-drawn, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_87",
+    "task": "The social media manager says our character reveals are getting zero engagement because Gen Z wants 'lore-heavy content', not just another pretty portrait. For the 'Neon Edge' character launch, she wants to focus on showing identity through possessions—what defines this character as a street samurai. The creative director loved the idea and said it should feel 'ritualistic, like preparing for a mission'. Someone referenced those high-end fashion editorial flat-lays from Vogue, but weaponized for a cyberpunk setting. The lighting needs to be moody with neon accents to scream 'underground' and 'illicit'. The brand team is nervous it might look too edgy and alienate mainstream gamers. The arrangement should feel deliberate and sharp, not messy or cluttered. We're launching this character next week.",
+    "image_checkpoint": [
+      "Multiple weapons or cyberpunk equipment items are visible in the image",
+      "Items are arranged in a flat-lay or knolling composition",
+      "The image has moody lighting with neon accents",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions weapons, cyberpunk gear, samurai equipment, or related terms",
+      "The prompt mentions flat-lay, knolling, organized arrangement, or related terms",
+      "The prompt mentions moody lighting, neon accents, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_88",
+    "task": "The art director for our new RPG supplement is rejecting all traditional character portraits because they're 'boring and overdone'. She wants to show the Alchemist class through their belongings rather than their face, saying it's about 'what they carry, not what they look like'. She keeps referencing environmental storytelling and how objects can convey personality and profession. The image should evoke forbidden knowledge and the weight of arcane secrets. The lead writer is concerned it might look too abstract for players who just want to see a cool wizard. It needs a rich, painterly aesthetic that feels authentic to a high-fantasy setting. Video game UI icons or simple shopping lists won't cut it for this—we need something with atmosphere. The publisher needs a full-page illustration by Friday.",
+    "image_checkpoint": [
+      "Multiple alchemist items or potion bottles are visible in the image",
+      "Items are arranged in a flat-lay or knolling composition",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions alchemist items, potions, spell books, magical ingredients, or related terms",
+      "The prompt mentions flat-lay, knolling, organized arrangement, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_89",
+    "task": "The Fall collection drops in five days and our Instagram strategy is falling apart. The brand manager says our test posts look 'cheap and desperate', and she wants something that radiates exclusivity and makes people feel like they can't afford it. She wants to ditch the models entirely and just showcase the pieces as 'objects of desire'. Someone mentioned those Comme des Garçons lookbook spreads with their stark, avant-garde presentation. The image needs to feel like museum-quality editorial work, not a commercial product shot. The CEO is worried it might look too pretentious and alienate our streetwear base. Depop listings or Grailed screenshots are exactly the aesthetic we're trying to avoid. We're shooting tomorrow and need a concept that screams hype culture.",
+    "image_checkpoint": [
+      "Multiple clothing items or fashion accessories are visible in the image",
+      "Items are arranged in a flat-lay or knolling composition",
+      "The background is clean or minimal",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions clothing, fashion items, streetwear, or related terms",
+      "The prompt mentions flat-lay, knolling, organized arrangement, or related terms",
+      "The prompt mentions clean background, minimal, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_90",
+    "task": "The UI designer for our mystery game built a clean minimalist menu, but the creative director says it 'has no soul' and 'could be from any indie game'. He wants the Case Files screen to feel like stepping into a 1940s detective's obsession. He showed us scenes from L.A. Noire and True Detective Season 1 as reference for that film noir atmosphere. Someone mentioned it should have that 'conspiracy theory wall' energy—chaotic but purposeful. The programmer is worried about readability, especially on mobile. The image needs to suggest a desperate investigation through the arrangement of evidence and clues. Modern technology like smartphones or laptops can't appear anywhere in the scene. We're locking the build on Monday and this is the last missing asset.",
+    "image_checkpoint": [
+      "Multiple evidence items, documents, or photos are visible in the image",
+      "Items are arranged in a flat-lay or organized layout",
+      "No modern technology items are visible in the image",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions evidence, clues, documents, photos, detective items, or related terms",
+      "The prompt mentions flat-lay, organized layout, evidence board, or related terms",
+      "The prompt excludes modern technology, smartphones, laptops, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_91",
+    "task": "For the magical girl anime fanzine cover, the editor wants to capture the essence of the transformation sequence without showing the character herself. She wants the image to focus on the magical items that define the protagonist's identity. The concept is to arrange these precious objects in a dreamy, carefully curated composition. The color palette should be an explosion of pastel pinks, purples, and sparkles to match that kawaii aesthetic. It needs to feel like a spread from a magical teen fashion magazine, full of whimsy and wonder. The whole vibe should be precious and enchanting, appealing to fans of the magical girl genre. Dark colors, heavy shadows, or gritty textures would completely miss the mark here. We're going to print next Tuesday.",
+    "image_checkpoint": [
+      "Multiple magical items or accessories are visible in the image",
+      "Items are arranged in a flat-lay or knolling composition",
+      "The image has bright or pastel colors",
+      "The visual style is anime or cel-shaded"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions magical items, wands, accessories, transformation items, or related terms",
+      "The prompt mentions flat-lay, knolling, organized arrangement, or related terms",
+      "The prompt mentions pastel colors, bright colors, or excludes dark atmosphere",
+      "The prompt specifies anime, cel-shaded, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_92",
+    "task": "I'm updating my photography portfolio website and want the header image to immediately signal obsessive professionalism to potential clients. The concept is to showcase my essential equipment arranged in perfect 'knolling' style—everything aligned at precise 90-degree angles on a clean surface. The composition should satisfy a perfectionist's eye and demonstrate the quality of gear I work with. It needs to look like the kind of meticulously organized setup that serious photographers would appreciate. The target audience is other tech-savvy professionals who value precision and attention to detail. The equipment needs to look photorealistic and high-end. Anything cluttered, tilted, or haphazard would undermine the entire concept. I'm launching the new site next month.",
+    "image_checkpoint": [
+      "Multiple photography equipment items are visible in the image",
+      "Items are arranged in a knolling composition with 90-degree alignment",
+      "The background is clean or minimal",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions photography equipment, cameras, lenses, or related terms",
+      "The prompt mentions knolling, 90-degree alignment, precise arrangement, or related terms",
+      "The prompt mentions clean background, minimal, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_93",
+    "task": "The spring campaign for our outdoor retail store is all about 'The Call of the Wild', and the creative team wants to focus on the gear rather than models. We need a hero image showing the essentials of adventure in a way that inspires people to go outside. The art director wants a carefully curated flat-lay arrangement on a natural surface, shot in warm morning light. It should look both rugged and thoughtfully composed, like something from a premium outdoor lifestyle magazine. The image needs to make people feel the urge to pack up and head into nature. Sterile inventory checklists against white backgrounds or messy piles of equipment won't achieve that feeling. We're finalizing the campaign next week.",
+    "image_checkpoint": [
+      "Multiple camping or outdoor equipment items are visible in the image",
+      "Items are arranged in a flat-lay or knolling composition",
+      "The background appears natural or outdoor-related",
+      "The image has warm lighting",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions camping gear, outdoor equipment, hiking items, or related terms",
+      "The prompt mentions flat-lay, knolling, organized arrangement, or related terms",
+      "The prompt mentions natural surface, wood, outdoor background, or related terms",
+      "The prompt mentions warm lighting, morning light, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_94",
+    "task": "For the 'Basics' chapter opener in our new French pastry cookbook, the art director wants to evoke the precision and zen of proper mise-en-place. She wants the core baking ingredients arranged in a satisfying, organized grid on a pristine marble surface. The image should be bright, airy, and high-key, emphasizing the purity and quality of each ingredient. It needs to feel therapeutic and inspiring, showing that French baking is about discipline and preparation. Our readers are serious home bakers who appreciate the craft. The composition should look ready for action, perfectly prepped. Any mess, flour dust clouds, or chaotic working surfaces would contradict the entire philosophy of mise-en-place. The book goes to print in three weeks.",
+    "image_checkpoint": [
+      "Multiple baking ingredients are visible in the image",
+      "Items are arranged in a grid or knolling composition",
+      "The background is marble or clean surface",
+      "The image has bright or airy lighting",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions baking ingredients, flour, eggs, butter, or related terms",
+      "The prompt mentions grid, knolling, organized arrangement, or related terms",
+      "The prompt mentions marble surface, clean surface, or related terms",
+      "The prompt mentions bright, airy, high-key lighting, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_95",
+    "task": "The Art Academy's admissions office needs a recruitment poster that represents creativity as a disciplined craft, not just chaos. They want to showcase traditional art supplies arranged in a way that suggests both spectrum and flow—maybe organized by color or type. The image should be colorful and inspiring while maintaining a sense of professional order. The message they want to convey to prospective students is that art requires dedication and proper tools, not just wild inspiration. The composition should feel balanced and intentional. A single isolated object or a messy, paint-splattered studio floor won't communicate the right message. The poster needs to be finalized for the fall recruitment season.",
+    "image_checkpoint": [
+      "Multiple art supplies or tools are visible in the image",
+      "Items are arranged in an organized or knolling composition",
+      "The image has colorful elements",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions art supplies, brushes, paints, pencils, or related terms",
+      "The prompt mentions organized arrangement, knolling, color-coordinated, or related terms",
+      "The prompt mentions colorful, vibrant, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_96",
+    "task": "The antique camera repair shop owner wants a piece of wall art that celebrates the mechanical beauty of old film cameras. He's fascinated by how things fit together and wants an 'exploded view' showing all the components floating apart to reveal the assembly. He wants people to appreciate the craftsmanship of these precision instruments. The aesthetic should be technical yet artistic, highlighting the textures of brass, glass, and leather. It needs to look like high-end technical illustration that honors the engineering. He specifically hates modern digital cameras and wants to focus on vintage mechanical film equipment. Contemporary electronic devices are exactly the opposite of what he's looking for. He wants this ready for the shop's anniversary next month.",
+    "image_checkpoint": [
+      "At least one vintage camera is shown in the image",
+      "Camera components are shown in an exploded or separated view",
+      "No modern digital cameras are visible in the image",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions vintage camera, film camera, old camera, or related terms",
+      "The prompt mentions exploded view, disassembled, components separated, or related terms",
+      "The prompt excludes modern camera, digital camera, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_97",
+    "task": "For the launch of our new 'Cloud-Runner' performance shoe, marketing wants to highlight the proprietary cushioning technology inside. A standard product photo won't communicate the innovation. They want a deconstructed view showing the shoe broken down into its component layers, almost like an explosion diagram. The image should emphasize the engineering and make the technology visible—the cushion foam, the outsole, the breathable upper mesh. It needs to look lightweight and aerodynamic with a clean, clinical background to focus attention on the materials. This is for serious performance athletes who care about the technical specs. Casual lifestyle photos or simple side-view product shots won't appeal to this audience. The product page launches next Tuesday.",
+    "image_checkpoint": [
+      "At least one sneaker or shoe is shown in the image",
+      "Shoe components or layers are shown in an exploded or separated view",
+      "The background is clean or minimal",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions sneaker, shoe, running shoe, or related terms",
+      "The prompt mentions exploded view, deconstructed, layers separated, or related terms",
+      "The prompt mentions clean background, minimal, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_98",
+    "task": "The environment artist for our sci-fi factory level needs background assets, but the current placeholder art looks too cartoonish. We need a blueprint-style visualization showing the construction of an industrial robotic arm. The image should have that technical schematic quality, revealing the internal components and how they fit together. The aesthetic needs to be functional and industrial, like something engineers would actually use in the near future. It should look like heavy, manufactured machinery with visible hydraulic systems and metallic joints. Magical constructs or fantasy aesthetics would be completely wrong for this hard sci-fi setting. We need assets ready for the level build next week.",
+    "image_checkpoint": [
+      "At least one robotic arm or mechanical arm is shown in the image",
+      "The composition shows a schematic or blueprint view",
+      "Internal components or mechanical parts are visible",
+      "The visual style is vector art or flat design"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions robotic arm, mechanical arm, industrial robot, or related terms",
+      "The prompt mentions schematic, blueprint, technical diagram, or related terms",
+      "The prompt mentions internal components, mechanical parts, hydraulics, or related terms",
+      "The prompt specifies vector art, flat design, technical illustration, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_99",
+    "task": "The digital menu board for our burger restaurant needs to be more eye-catching to drive sales. The owner wants to showcase the freshness and quality of our ingredients in a dramatic way. The concept is to show our signature burger deconstructed vertically, with each layer floating in mid-air to reveal what goes into it. The image needs to look incredibly juicy and appetizing with vibrant, saturated colors. It should make customers hungry the moment they see it. The photography needs to be hyper-realistic and professional, like high-end food advertising. Plastic toys or cheap 3D renders won't have the mouth-watering impact we need. We're updating the menu boards next week.",
+    "image_checkpoint": [
+      "At least one hamburger or burger is shown in the image",
+      "Burger ingredients or layers are shown in an exploded or floating view",
+      "The image has vibrant or saturated colors",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions hamburger, burger, or related terms",
+      "The prompt mentions exploded view, floating layers, deconstructed, or related terms",
+      "The prompt mentions vibrant colors, saturated, juicy, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_100",
+    "task": "Our physics blog for elementary students is way too text-heavy and kids are losing interest. We need to break up the content with something fun and engaging. The concept is a short comic strip featuring an adorable, chubby cat that 'teaches' the concept of gravity through mischief. The sequence should show the cat's interaction with an object that demonstrates the principle in a funny way. The style needs to be hand-drawn and approachable for young readers, with expressive characters and clear visual storytelling. It should make learning feel playful rather than intimidating. Dry technical diagrams or scientific illustrations would defeat the entire purpose. We're updating the site next month.",
+    "image_checkpoint": [
+      "At least one cat or cat character is shown in the image",
+      "The composition shows multiple panels in a comic or sequential format",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions cat, cute cat, cartoon cat, or related terms",
+      "The prompt mentions comic strip, sequential panels, multiple panels, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_101",
+    "task": "The lifestyle section of our recipe website needs a header image for the cookie baking page, and the current stock photo feels lifeless. We want a manga-style sequence that sets a cozy, wholesome mood. The concept shows a cheerful character going through the baking process in a few simple panels. It should have that warm 'slice of life' anime feeling that makes people want to bake along. The aesthetic needs to be cute and illustrative with soft colors and inviting compositions. Our audience loves that comforting, kawaii vibe. Photorealistic styles or Western cartoon approaches won't resonate with them. The page redesign launches next week.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "The human figure is engaged in baking or cooking activity",
+      "The composition shows multiple panels in a comic or sequential format",
+      "The visual style is anime or cel-shaded"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person, character, girl, or related terms",
+      "The prompt mentions baking, cooking, making cookies, or related terms",
+      "The prompt mentions comic strip, sequential panels, manga-style, or related terms",
+      "The prompt specifies anime, cel-shaded, manga, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_102",
+    "task": "The social media manager for our pet brand wants a relatable comic strip for the weekend post that will resonate with dog owners. The concept is simple and classic: a peaceful dog gets startled by the vacuum cleaner and has an over-the-top reaction. The sequence should be funny and shareable, with exaggerated expressions that capture the dog's dramatic personality. The style should be simple and appealing, like a popular webcomic that people would want to share. It needs to feel lighthearted and goofy, the kind of humor that makes people tag their friends. Scary imagery, sad tones, or dark atmospheres would be completely wrong for this. We're posting this on Saturday.",
+    "image_checkpoint": [
+      "At least one dog is shown in the image",
+      "A vacuum cleaner is visible in the image",
+      "The composition shows multiple panels in a comic or sequential format",
+      "The visual style is anime or cel-shaded"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions dog or related terms",
+      "The prompt mentions vacuum cleaner or related terms",
+      "The prompt mentions comic strip, sequential panels, or related terms",
+      "The prompt specifies anime, cel-shaded, cartoon, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_103",
+    "task": "For our corporate LinkedIn page, we need content that resonates with the reality of remote work. The concept is a multi-panel comic showing a professional trying to maintain composure during a video call while chaos erupts in the background. It should capture that relatable 'this is fine' energy that everyone working from home understands. The character should have that forced, painful smile while everything falls apart around them. The style should be office-appropriate but genuinely funny, the kind of thing people would share with their coworkers. We want it to feel like a shared struggle we can laugh about together, not something that makes remote work seem unbearable or depressing. We're posting this next Tuesday.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "The human figure is in a video call or at computer",
+      "The scene is set in a home office or residential environment",
+      "The composition shows multiple panels in a comic or sequential format",
+      "The visual style is anime or cel-shaded"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person, professional, worker, or related terms",
+      "The prompt mentions video call, computer, working from home, or related terms",
+      "The prompt mentions home office, home, residential setting, or related terms",
+      "The prompt mentions comic strip, sequential panels, multi-panel, or related terms",
+      "The prompt specifies anime, cel-shaded, cartoon, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_104",
+    "task": "The action director is planning the rooftop chase sequence for our film, and the camera crew needs to understand the movement and pacing before we shoot. We need a storyboard that captures the frantic energy and flow of the scene. The sequence should show the desperate sprint across rooftops, the terrifying gap jump, and the panic of being pursued. The style should be loose and sketchy, emphasizing motion and camera angles rather than polished artwork. It needs to communicate speed and danger effectively. Series of static poses or formal portrait compositions won't help the camera team understand the action flow. We start shooting this sequence in two weeks.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "The scene is set on rooftops or elevated buildings",
+      "The composition shows multiple panels in a sequential format",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person, character, or related terms",
+      "The prompt mentions rooftops, rooftop chase, running, parkour, or related terms",
+      "The prompt mentions storyboard, sequential panels, multiple frames, or related terms",
+      "The prompt specifies digital painting, sketch, storyboard style, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_105",
+    "task": "The screenwriter is struggling to communicate the emotional tone of the farewell scene at the train station, and the lighting team needs visual references. We need a sequence of cinematic keyframes that capture this heartbreaking moment. The image should show the progression from the wide establishing shot through to the intimate moment of separation and the final departure. The color palette should be cold blues and grays, with rain adding to the melancholic atmosphere. It needs to feel like it belongs in an emotional indie drama. Uplifting, happy, or resolved tones would completely contradict the script. We're blocking this scene next week.",
+    "image_checkpoint": [
+      "At least two human figures are shown in the image",
+      "The scene is set at a train station",
+      "Rain or rain-related elements are visible in the image",
+      "The composition shows multiple panels in a sequential format",
+      "The image has cold or blue-gray color tones",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions two people, characters, or related terms",
+      "The prompt mentions train station or related terms",
+      "The prompt mentions rain or related terms",
+      "The prompt mentions cinematic keyframes, sequential panels, storyboard, or related terms",
+      "The prompt mentions cold colors, blue-gray tones, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_106",
+    "task": "The animation team for our fantasy game needs reference material for the combat system's timing and weight. We need a storyboard sequence depicting a duel that shows the exchange of blows and defensive maneuvers. The focus should be on conveying the impact and weight of the weapons through the visual flow. The style can be rough concept art since this is for internal reference. It needs to feel dynamic and dangerous, with a real sense of physical force. Turn-based RPG aesthetics where characters just stand around waiting won't help us design an action combat system. We're implementing the combat system next sprint.",
+    "image_checkpoint": [
+      "At least two human figures are shown in the image",
+      "At least one figure is holding a sword or melee weapon",
+      "The figures are engaged in combat or fighting",
+      "The composition shows multiple panels in a sequential format",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions two characters, fighters, warriors, or related terms",
+      "The prompt mentions sword, weapon, blade, or related terms",
+      "The prompt mentions combat, fighting, duel, or related terms",
+      "The prompt mentions storyboard, sequential panels, action sequence, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_107",
+    "task": "For our new mech simulator game, we need to redesign the first-person cockpit interface to make players feel truly immersed. The concept is to show the view from inside the mech, with tactical information overlaid on the cockpit glass. The HUD needs to integrate essential combat data in a way that feels diegetic and military-functional. The color scheme should be amber or tactical blue to evoke real fighter jet interfaces. Everything needs to feel grounded and authentic, like something a real pilot would use. Cluttered screens with meaningless decorative sci-fi graphics or generic video game UI elements won't create that immersive realism. We're presenting this to the publisher next month.",
+    "image_checkpoint": [
+      "The view is from inside a cockpit or first-person perspective",
+      "HUD elements or interface graphics are overlaid on the view",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions cockpit, first-person view, pilot perspective, or related terms",
+      "The prompt mentions HUD, interface, tactical display, overlay, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_108",
+    "task": "Our fantasy RPG's current UI feels too digital and breaks the immersion completely. We want to redesign the inventory screen to feel like a physical object from the game world. The concept is to make it look like an open leather satchel or an ancient tome. The layout should show the character's equipped items and inventory grid using textures like parchment, worn leather, and brass fittings. It needs to pull players into the fantasy setting rather than reminding them they're looking at a computer interface. Modern flat design elements, sans-serif fonts, or contemporary app aesthetics would completely shatter the immersion. We're overhauling the UI next quarter.",
+    "image_checkpoint": [
+      "An inventory interface or menu screen is shown in the image",
+      "The interface has fantasy-themed textures like leather or parchment",
+      "Multiple item slots or inventory grid are visible",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions inventory, UI, interface, menu screen, or related terms",
+      "The prompt mentions leather, parchment, tome, satchel, fantasy textures, or related terms",
+      "The prompt mentions item slots, inventory grid, equipment slots, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_109",
+    "task": "For our investor pitch deck, we need to demonstrate what our AR glasses actually do in a real-world context. The concept is a 'through-the-lens' perspective showing a city street with helpful information seamlessly overlaid. The augmented elements should include navigation guidance, contextual information about nearby places, and ambient data that enhances the environment. It needs to look clean, futuristic, and genuinely useful. The focus should be on making technology feel invisible and helpful rather than intrusive. Cluttered screens, dystopian aesthetics, or anything that resembles Big Brother surveillance would send completely the wrong message to investors. We're presenting to investors next week.",
+    "image_checkpoint": [
+      "The scene is set in a city street or urban environment",
+      "AR elements, HUD graphics, or information overlays are visible",
+      "The image has bright or clean lighting",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions city street, urban environment, or related terms",
+      "The prompt mentions AR, augmented reality, HUD, overlay, information display, or related terms",
+      "The prompt mentions bright, clean lighting or excludes dark, dystopian atmosphere",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_110",
+    "task": "The set designer for our sci-fi hospital scene needs graphics for the background monitors, and the current blank screens look amateur. We need a futuristic medical interface showing a full-body scan with diagnostic data. The screen should display vital signs, anatomical information, and scrolling medical data in a way that looks credible and professional. The aesthetic should be clinical blue-toned and sterile, like something from a 22nd-century hospital. It needs to look like legitimate medical software that doctors would actually use. Generic 'access denied' screens or random tech gibberish won't hold up under scrutiny from our sci-fi audience. We're filming this scene in two weeks.",
+    "image_checkpoint": [
+      "A medical interface or screen display is shown in the image",
+      "A human body scan or anatomical diagram is visible",
+      "Medical data, vital signs, or diagnostic information are visible",
+      "The visual style is vector art or flat design"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions medical interface, medical screen, scan display, or related terms",
+      "The prompt mentions body scan, anatomical diagram, human body, or related terms",
+      "The prompt mentions vital signs, medical data, diagnostic information, or related terms",
+      "The prompt specifies vector art, flat design, UI design, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_111",
+    "task": "We need a product close-up for our smartwatch marketing page that showcases the fitness tracking features. The screen should display a comprehensive dashboard with activity rings, real-time heart rate, and the time, all against a deep black background. The interface needs to be high-contrast and energetic, designed to pop off the screen. It should look like a premium OLED display with vibrant colors and sharp details. The design needs to appeal to fitness enthusiasts who care about data and performance. Low-resolution pixel displays or cheap digital watch aesthetics won't convey the premium quality we're selling. The product page launches next month.",
+    "image_checkpoint": [
+      "At least one smartwatch or wearable device is shown in the image",
+      "The watch screen displays fitness data or activity rings",
+      "The composition is a close-up of the device",
+      "The screen background is dark or black",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions smartwatch, fitness watch, wearable, or related terms",
+      "The prompt mentions fitness data, activity rings, heart rate display, or related terms",
+      "The prompt mentions close-up, product shot, or related terms",
+      "The prompt mentions dark background, black background, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_112",
+    "task": "The prop department for our pirate film needs to design the hero prop: the legendary treasure map that drives the plot. It needs to look authentically ancient, like it's survived decades at sea. The design should be drawn on weathered, stained parchment with burnt edges. It should show the island with distinctive landmarks and the iconic marking of where the treasure lies. The map needs to look hand-inked by a pirate captain, with that aged, worn quality. Any signs of digital printing, modern typography, or fresh reproduction would break the historical authenticity. We start filming with this prop next month.",
+    "image_checkpoint": [
+      "A map is shown in the image",
+      "The map shows an island or islands",
+      "The map appears aged, weathered, or on old parchment",
+      "A treasure location or X mark is visible on the map",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions map, treasure map, or related terms",
+      "The prompt mentions island or related terms",
+      "The prompt mentions aged, weathered, old parchment, burnt edges, or related terms",
+      "The prompt mentions treasure location, X marks the spot, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_113",
+    "task": "For the strategy cutscene in our space game, the military commander needs to be viewing a tactical display. The concept is a 3D holographic map showing a galaxy cluster with star systems and strategic routes. The visual should be composed entirely of translucent blue light and data particles, giving it that ethereal quality. It needs to look high-tech and immaterial, like it's made of pure light rather than solid matter. The aesthetic should feel advanced and military-tactical. Solid physical models or traditional map projections would contradict the futuristic hologram concept. We're capturing this cutscene next week.",
+    "image_checkpoint": [
+      "A holographic display or projection is shown in the image",
+      "A galaxy, star systems, or space map is visible",
+      "The hologram appears translucent or made of light",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions holographic, hologram, projection, or related terms",
+      "The prompt mentions galaxy, star systems, space map, or related terms",
+      "The prompt mentions translucent, light-based, ethereal, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_114",
+    "task": "For the inside cover of our steampunk novel, the author wants a map that immediately establishes the setting's Victorian industrial atmosphere. It should mimic the style of 19th-century copperplate engravings with dense, precise linework. The map needs to show the fictional city with its factories, airship docks, and rail networks in meticulous detail. The paper should have that aged sepia tone that makes it feel like a historical artifact. The whole aesthetic needs to transport readers to that era. Modern map symbols or contemporary digital illustration styles won't achieve that authentic period feel. The book goes to print in six weeks.",
+    "image_checkpoint": [
+      "A map is shown in the image",
+      "The map shows a city with industrial structures or steampunk elements",
+      "The map has an aged or sepia-toned appearance",
+      "The visual style is digital painting or painted illustration"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions map, city map, or related terms",
+      "The prompt mentions city, factories, airship docks, steampunk, industrial, or related terms",
+      "The prompt mentions aged, sepia tone, vintage, 19th century style, or related terms",
+      "The prompt specifies digital painting or illustration as the style"
+    ]
+  },
+  {
+    "task_id": "oe_115",
+    "task": "The creative director for our sparkling water campaign is rejecting all the current headline treatments because they look too flat and static. For the word that represents our brand, she wants the letters formed entirely from splashing water and droplets. It needs to be hyper-realistic, capturing light refraction through water, bubbles, and the frozen motion of fluid dynamics. The background should be pure white to make the water stand out. The whole image needs to feel refreshing and alive with movement. Solid blue glass, gel, or simple glow effects won't capture that dynamic liquid quality. The campaign launches in three weeks.",
+    "image_checkpoint": [
+      "Text or typography is shown in the image",
+      "The text is formed from water, liquid, or water splashes",
+      "The background is white or light-colored",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions text, typography, letters, word, or related terms",
+      "The prompt mentions water, liquid, splashing water, water droplets, or related terms",
+      "The prompt mentions white background, light background, or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_116",
+    "task": "We need a key visual for our new spicy snack brand that immediately communicates intense heat. The concept is to craft the brand name from actual fire, glowing embers, and charred elements. The letters shouldn't just be orange text with effects—the structure itself needs to be defined by flames and ash. The background should be dark to make the fire luminous and threatening. It needs to look genuinely dangerous and searingly hot. Cheap Photoshop glow effects or simple orange gradient text would completely undermine the intensity we're going for. The packaging design is due next month.",
+    "image_checkpoint": [
+      "Text or typography is shown in the image",
+      "The text is formed from fire, flames, or burning elements",
+      "The background is dark",
+      "The visual style is 3D render"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions text, typography, letters, word, or related terms",
+      "The prompt mentions fire, flames, embers, burning, or related terms",
+      "The prompt mentions dark background or related terms",
+      "The prompt specifies 3D render, CGI, or related terms as the style"
+    ]
+  },
+  {
+    "task_id": "oe_117",
+    "task": "The current character design for our fantasy game's Ice Queen feels too soft and approachable. We need a portrait that radiates absolute cold and makes her feel genuinely otherworldly. The focus should be on texture and temperature—frost forming on every surface, skin that looks like translucent ice, visible breath in the frigid air. The lighting should be harsh and cold. She needs to feel majestic but terrifyingly unapproachable, more force of nature than human. Generic fantasy pin-ups or friendly character designs won't convey the inhuman coldness she needs to embody. The character reveal is scheduled for next month.",
+    "image_checkpoint": [
+      "At least one female human or humanoid figure is shown in the image",
+      "The figure has ice, frost, or frozen elements on skin or clothing",
+      "The figure is shown in portrait or close-up composition",
+      "The image has cold or harsh lighting",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions female character, Ice Queen, woman, or related terms",
+      "The prompt mentions ice, frost, frozen, icy skin, or related terms",
+      "The prompt mentions portrait, close-up, headshot, or related terms",
+      "The prompt mentions cold lighting, harsh lighting, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_118",
+    "task": "For my academic paper on transhumanism, I need an illustration that captures the visceral reality of cybernetic enhancement. The image should focus on the boundary where human flesh meets technological implant. I want to see the irritation, the scarring, the uncomfortable integration of metal into living tissue. It needs to look gritty and uncomfortably realistic, showing the physical toll of augmentation. The goal is to make people think about the real implications of body modification. Clean, airbrushed android aesthetics or smooth sci-fi fantasies would completely miss the point of the research. I'm presenting this research next semester.",
+    "image_checkpoint": [
+      "At least one human body part is shown in the image",
+      "Cybernetic implants or mechanical parts are integrated with human flesh",
+      "The composition is a close-up showing the flesh-machine boundary",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions human body, flesh, skin, or related terms",
+      "The prompt mentions cybernetic implants, mechanical parts, augmentation, metal implants, or related terms",
+      "The prompt mentions close-up, detail shot, boundary, integration point, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_119",
+    "task": "The curator for our 'Survival' photography exhibition needs a portrait that tells a story of endurance and adaptation to harsh environments. The subject should be someone whose face shows the marks of years in the desert. The focus needs to be on weathering—deep sun wrinkles, sand embedded in skin, cracked lips, the coarse texture of protective fabric. The gaze should be intense and experienced. It needs to be hyper-realistic, like a National Geographic portrait that captures the raw reality of the environment. Retouched, glamorous, or staged fashion shoot aesthetics would completely contradict the authentic survival story. The exhibition opens in two months.",
+    "image_checkpoint": [
+      "At least one human figure is shown in the image",
+      "The figure's face shows weathering, wrinkles, or signs of harsh environment exposure",
+      "The figure is shown in portrait or close-up composition",
+      "The visual style is photorealistic"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions a person, desert nomad, survivor, or related terms",
+      "The prompt mentions weathered face, wrinkles, sun damage, harsh environment, or related terms",
+      "The prompt mentions portrait, close-up, headshot, or related terms",
+      "The prompt specifies photographic or photorealistic as the style"
+    ]
+  },
+  {
+    "task_id": "oe_120",
+    "task": "I'm writing a satirical article about the nightmare of assembling flat-pack furniture, and I need a header image that captures that specific frustration. The concept is to show a simple piece of furniture in an exploded view, with all the components separated but aligned to show how they're supposed to fit together. It should look clean and technical, like the instruction diagrams that come with the product but somehow never make sense. The image needs to evoke that feeling of organized chaos and impending frustration. Messy piles of random parts or completely assembled pieces won't communicate that specific assembly anxiety. The article publishes next week.",
+    "image_checkpoint": [
+      "At least one piece of furniture is shown in the image",
+      "Furniture components or parts are shown in an exploded or separated view",
+      "Components are arranged in an organized or knolling layout",
+      "The visual style is vector art or flat design"
+    ],
+    "prompt_checkpoint": [
+      "The prompt mentions furniture, chair, table, or related terms",
+      "The prompt mentions exploded view, disassembled, components separated, or related terms",
+      "The prompt mentions organized arrangement, knolling, aligned parts, or related terms",
+      "The prompt specifies vector art, flat design, technical diagram, or related terms as the style"
+    ]
+  }
+]

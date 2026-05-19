@@ -1,0 +1,31 @@
+{
+  "mode": "diffusers",
+  "task_types": ["co", "oe", "im"],
+  "input_dirs": {
+    "co": "../input/co_input",
+    "oe": "../input/oe_input",
+    "im": "../input/im_input"
+  },
+  "output_dirs": {
+    "co": "../output/co_output",
+    "oe": "../output/oe_output",
+    "im": "../output/im_output"
+  },
+  "recursive": true,
+  "resume": true,
+  "num_images": 4,
+  "prompt_field": "generated_prompt",
+  "debug_save_response": true,
+  "diffusers": {
+    "model_path": "<LOCAL_MODEL_PATH>",
+    "device": "<DEVICE>",
+    "auto_fallback_to_cpu": false,
+    "torch_dtype": "<TORCH_DTYPE>",
+    "height": 1024,
+    "width": 1024,
+    "num_inference_steps": 30,
+    "guidance_scale": 7.5,
+    "seed_mode": "random",
+    "output_model_dir": "<OUTPUT_MODEL_TAG>"
+  }
+}

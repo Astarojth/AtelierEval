@@ -1,0 +1,10 @@
+{
+  "skill_name": "SafetyImageSkill",
+  "stage": "Safety",
+  "module": "safety.skills.safety_image_skill",
+  "class": "SafetyImageSkill",
+  "config_refs": {
+    "runtime_config": "runtime/safety_image_runtime.json",
+    "prompt_template": "../safety/prompts/t2i_safety_prompt_template.txt"
+  }
+}

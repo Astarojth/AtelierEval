@@ -1,0 +1,23 @@
+{
+  "api": {
+    "base_url": "<API_BASE_URL>",
+    "endpoint": "/v1/chat/completions",
+    "model": "gpt-5.2",
+    "api_key": "<API_KEY>",
+    "model_fallbacks": [
+      "gpt-5.2-chat"
+    ]
+  },
+  "paths": {
+    "prompt_templates_path": "../templates/subjective_prompt_templates.json"
+  },
+  "retry": {
+    "timeout_seconds": 60,
+    "backoff_seconds": [2, 4, 8, 12, 16]
+  },
+  "llm_request": {
+    "temperature": 0.0,
+    "top_p": 0.7,
+    "max_tokens": 4096
+  }
+}

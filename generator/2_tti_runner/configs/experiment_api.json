@@ -1,0 +1,31 @@
+{
+  "mode": "api_image",
+  "task_types": ["co", "oe", "im"],
+  "input_dirs": {
+    "co": "../input/co_input",
+    "oe": "../input/oe_input",
+    "im": "../input/im_input"
+  },
+  "output_dirs": {
+    "co": "../output/co_output",
+    "oe": "../output/oe_output",
+    "im": "../output/im_output"
+  },
+  "recursive": true,
+  "resume": true,
+  "num_images": 4,
+  "prompt_field": "generated_prompt",
+  "debug_save_response": true,
+  "api_image": {
+    "base_url": "<API_BASE_URL>",
+    "model": "<API_MODEL_NAME>",
+    "api_key": "<API_KEY>",
+    "image_size": "<IMAGE_SIZE>",
+    "response_format": "b64_json",
+    "timeout_seconds": 180,
+    "max_retries": 3,
+    "backoff_step": 3,
+    "output_model_dir": "<OUTPUT_MODEL_TAG>",
+    "extra_params": {}
+  }
+}

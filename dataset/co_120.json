@@ -1,0 +1,2082 @@
+[
+  {
+    "task_id": "co_01",
+    "title": "Iced Tea Social Media Ad",
+    "task": "Our creative agency is producing an Instagram ad for 'PureLeaf' iced tea. The client requires this main visual to feature a fashion model character, conveying a 'professional' and 'minimalist' lifestyle aesthetic, aimed at attracting 'high-end consumers'. This needs to be a 'product photography style' illustration. Note, the client's brand guidelines explicitly state that the visual 'must not include any plastic items'.",
+    "pairing": "The model's one hand must hold the iced tea can. The model's second hand must hold a single mint leaf.",
+    "layout": "",
+    "quantity": "Exactly two hands must be visible in the frame.",
+    "text": "The text 'PureLeaf' must be clearly printed on the can.",
+    "constraint": "The image must use ONLY three colors: peach, mint green, and beige. Black may be used ONLY for text on the can.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_02",
+    "title": "Energy Drink Poster",
+    "task": "Our marketing team is launching a new 'Volt' energy drink, and we need a dynamic and intense poster for indoor gyms. The target audience is serious athletes. It's a promotional poster, so it needs to be eye-catching. Make sure the design does not show any sugary foods or desserts.",
+    "pairing": "The athlete silhouette must be dark gray. The lightning effects must be neon green.",
+    "layout": "An athlete silhouette must be in the center of the poster. Lightning effects must be visible in the background, behind the athlete.",
+    "quantity": "",
+    "text": "The brand name 'VOLT' must be clearly visible on an energy drink can.",
+    "constraint": "The poster must use ONLY black, neon green, and silver colors.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Vector_Flat",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_03",
+    "title": "Eco Campaign Poster",
+    "task": "A non-profit needs a 'hopeful' and 'gentle' illustration for their new environmental campaign, aimed at the 'general public'. We need a character representing 'Mother Earth' as the main visual, in a 'watercolor illustration' style. It is crucial that the image 'does not include any plastic-related symbols or trash'.",
+    "pairing": "This 'Mother Earth' character must be holding a small model of the Earth in a pair of cupped hands.",
+    "layout": "A single young tree sprout must be growing from the top of the Earth model.",
+    "quantity": "Exactly one tree sprout must be visible.",
+    "text": "",
+    "constraint": "The illustration must use ONLY green, blue, and brown colors.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Portrait_CloseUp",
+      "#Traditional_Media",
+      "#Fantasy_Mythic"
+    ]
+  },
+  {
+    "task_id": "co_04",
+    "title": "Children's Book Cover Illustration",
+    "task": "I'm self-publishing a children's bedtime story and need a dreamy and calm cover illustration. This is for young children (ages 3-5), so it must be a watercolor style. Please make sure there are no adult figures or cityscapes in the image.",
+    "pairing": "A small child character must be sitting inside a boat that is made of a cloud.",
+    "layout": "The cloud boat must be floating in a night sky. A large crescent moon must be in the top-right corner.",
+    "quantity": "Exactly five (5) stars must be visible in the sky.",
+    "text": "",
+    "constraint": "The image must use ONLY pastel purple, navy, and cream colors.",
+    "category": [
+      "#Character",
+      "#Environment",
+      "#Full_Body_Shot",
+      "#Traditional_Media",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_05",
+    "title": "Dog Rescue Flyer",
+    "task": "Our animal shelter needs a happy and welcoming image for our upcoming adoption event flyer. The goal is to attract local families. We want a hand-drawn sketch for the main visual. It's very important that the flyer does not include any cats.",
+    "pairing": "The dog must be golden brown. The house must be beige.",
+    "layout": "A happy-looking dog must be sitting on the grass in the foreground. A small house must be in the background.",
+    "quantity": "",
+    "text": "The words 'Find a Friend' must be written in a sketch-style font at the top of the flyer.",
+    "constraint": "The entire illustration must use ONLY brown and beige colors. Black may be used ONLY for text and sketch outlines.",
+    "category": [
+      "#Character",
+      "#Environment",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Traditional_Media",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_06",
+    "title": "Music Festival Poster",
+    "task": "We're promoting a live music event, 'RockRevival', and need a bold, vintage poster. The target audience is classic rock fans. This is a rock poster, so it needs that specific feel. It is critical that the design has no futuristic or cyberpunk elements.",
+    "pairing": "A band silhouette must be shown. Two members must be holding electric guitars.",
+    "layout": "The band must be centered on a stage. A crowd silhouette must be at the bottom. Stage lights must be shining down from the top.",
+    "quantity": "",
+    "text": "The text 'RockRevival' must be at the top in a distressed, vintage font.",
+    "constraint": "The poster must use ONLY red, black, and cream colors.",
+    "category": [
+      "#Character",
+      "#Environment",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Vector_Flat",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_07",
+    "title": "Mental Health Mascot",
+    "task": "Our social campaign requires a mascot character for mental health awareness. It needs to feel 'calm' and 'supportive'. This is for a 'general audience'. We want a 'clean, flat illustration' style. It is essential that the poster 'has no motivational quotes or long text blocks'.",
+    "pairing": "",
+    "layout": "The character's head must be a stylized brain icon with a stylized heart icon positioned beside it at the same level. A supportive hand icon must be positioned directly underneath both the brain and heart icons.",
+    "quantity": "Exactly one heart icon and one brain icon must be visible.",
+    "text": "The word 'CARE' must be written in a simple font at the bottom.",
+    "constraint": "The image must use ONLY light blue, lavender, and white colors. Dark blue may be used ONLY for text.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_08",
+    "title": "Fitness Challenge Poster",
+    "task": "Our gym is running a new fitness challenge and we need a 'high-contrast', 'dynamic' poster for promotion. The audience is our 'current gym members'. The style should be a 'photo manipulation'. Please make sure the design 'does not include any sports equipment like dumbbells or kettlebells'.",
+    "pairing": "The athlete silhouette must be black. The flame elements must be red.",
+    "layout": "An athlete silhouette must be the central element. A stopwatch must be in the bottom-left corner. Flame elements must be in the top-right corner.",
+    "quantity": "",
+    "text": "The text 'THE CHALLENGE' must be written vertically along the left edge.",
+    "constraint": "The poster must use ONLY black, red, and metallic silver.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Photorealistic",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_09",
+    "title": "Brand Mascot",
+    "task": "We are designing a new brand mascot for our e-commerce company. It must be a cute and friendly character to appeal to online shoppers. The style must be a simple cartoon. Please ensure the design features only the panda and no other animals.",
+    "pairing": "The panda character must be wearing a t-shirt. The panda must be holding one white shopping bag.",
+    "layout": "",
+    "quantity": "Exactly one panda and one shopping bag must be visible.",
+    "text": "The letter 'S' must be printed in white on the panda's t-shirt.",
+    "constraint": "The entire mascot must use ONLY black and white colors.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_10",
+    "title": "Animated Character Turnaround Sheet",
+    "task": "Our animation studio is developing a new character, and we need a clean character turnaround sheet for the 3D modelers. This is for animation professionals, so it must be clear. The style is cartoon cel shading. Please ensure there are no backgrounds or props included.",
+    "pairing": "The character's body must be cyan. The character's outfit accents must be coral.",
+    "layout": "The image must show the front view, side view, and back view of the same character. The three views must be arranged in a single horizontal row.",
+    "quantity": "Exactly three views must be shown.",
+    "text": "",
+    "constraint": "The character must use ONLY cyan, coral, and cream colors.",
+    "category": [
+      "#Character",
+      "#Schematic_Diagram",
+      "#Cel_Shaded",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_11",
+    "title": "Cute Mascot Toy Figure",
+    "task": "Our toy company is designing a new collectible mascot figure. We need a playful and cute 3D cartoon design that will appeal to collectible toy fans. It must look high-quality. The character must not be holding any weapons or dangerous items.",
+    "pairing": "The character must have an oversized head and a small body. The character must be wearing a small yellow hat.",
+    "layout": "",
+    "quantity": "Exactly one character must be shown.",
+    "text": "The letter 'T' must be visible on the hat.",
+    "constraint": "The design must use ONLY pastel pink, mint green, and cream. Yellow must be used ONLY for the hat accessory. Black may be used ONLY for the letter 'T' on the hat.",
+    "category": [
+      "#Character",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#3D_Render",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_12",
+    "title": "Anime Magical Girl Render",
+    "task": "We need a 3D character asset for our new anime-style mobile game. The character is a magical girl, so she should look dynamic and energetic. The style is cel-shaded 3D. The target audience is mobile game players. The character must not have wings.",
+    "pairing": "The character must have long pink hair and wear a frilly dress. She must be holding an ornate staff with a glowing crystal.",
+    "layout": "The character must be in a mid-air pose, floating above a glowing magical circle.",
+    "quantity": "",
+    "text": "A single rune symbol must be visible on the magical circle.",
+    "constraint": "The main colors must be pink, lavender, and white. Gold must be used ONLY for small accents on the staff and dress.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Data_Element",
+      "#Full_Body_Shot",
+      "#Cel_Shaded",
+      "#3D_Render",
+      "#Fantasy_Mythic"
+    ]
+  },
+  {
+    "task_id": "co_13",
+    "title": "Anime Character Hero Render",
+    "task": "We're creating the main hero for a new sci-fi JRPG. We need a full-body 3D render of this heroic and confident character. The style must be cel-shaded 3D. The target audience is JRPG players. The character must not have a helmet, so his face is visible.",
+    "pairing": "The character must have spiky blue hair and wear futuristic armor. The armor's main color must be white.",
+    "layout": "",
+    "quantity": "Exactly one character must be visible, holding one glowing sword.",
+    "text": "The roman numeral 'VII' must be engraved on the glowing sword blade.",
+    "constraint": "The main colors must be blue and white. Silver must be used ONLY for small accents on the armor.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Cel_Shaded",
+      "#3D_Render",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_14",
+    "title": "A Person with Freckles",
+    "task": "A skincare brand needs an authentic portrait for their website, aimed at promoting natural beauty to everyday consumers. We need a close-up portrait for this. The person must not be wearing any visible makeup, especially foundation or mascara.",
+    "pairing": "The person must have brown hair. The person must have visible freckles across their nose and cheeks.",
+    "layout": "This must be a centered, close-up portrait. The focus must be sharp on the eyes.",
+    "quantity": "",
+    "text": "The word 'Natural' must be discreetly placed in the bottom-left corner.",
+    "constraint": "The background must be ONLY a solid neutral gray with soft, subtle blur.",
+    "category": [
+      "#Character",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_15",
+    "title": "Professional Businesswoman Portrait",
+    "task": "A corporate client needs a photorealistic headshot for their company website. The portrait must look professional and trustworthy, suitable for business professionals. This is a studio photorealism shot. The subject must not be wearing any distracting jewelry.",
+    "pairing": "The woman must be wearing a navy blue suit jacket. She must be wearing a white blouse underneath.",
+    "layout": "",
+    "quantity": "Only one person must be in the frame.",
+    "text": "The text 'CEO' must be discreetly placed in the bottom-right corner.",
+    "constraint": "The background must be ONLY a solid, plain light gray.",
+    "category": [
+      "#Character",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_16",
+    "title": "Family Picnic Stock Image",
+    "task": "We need a generic stock photo for a lifestyle blog, illustrating a wholesome family activity. The image should feel happy and casual, aimed at a general audience. This is a casual lifestyle photography shot. The scene must not show any modern technology, like phones or tablets.",
+    "pairing": "A food basket must be placed on a picnic blanket.",
+    "layout": "A family must be sitting on the blanket, in a park.",
+    "quantity": "",
+    "text": "The text 'Family Fun Day' must be embroidered on the picnic blanket.",
+    "constraint": "The picnic blanket must be ONLY a red and white gingham pattern.",
+    "category": [
+      "#Character",
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Photorealistic",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_17",
+    "title": "Fitness Workout Stock Image",
+    "task": "We're building a website for a new health app and need a clean stock photo for the 'Stretching' section. The image needs to look bright and healthy, aimed at fitness beginners. This is a studio photography shot. Please make sure the person is not using any heavy weights.",
+    "pairing": "",
+    "layout": "The woman must be stretching on a yoga mat. A water bottle must be placed on the mat, beside her.",
+    "quantity": "Exactly one woman and one water bottle must be visible.",
+    "text": "The brand name 'FitStart' must be visible on the water bottle label.",
+    "constraint": "The yoga mat must be ONLY neon pink.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_18",
+    "title": "Detective in Rainy Alley",
+    "task": "A film production needs a concept piece for a cinematic neo-noir scene. The mood must be mysterious and tense, for a mature audience. This is a photorealistic, cinematic shot. The scene must not have any sunlight and must not include any bystanders or crowds.",
+    "pairing": "A male detective must be wearing a dark trench coat. A woman must be holding a red umbrella.",
+    "layout": "The detective must be standing in a doorway on the left. The woman must be in the center of the alley. The ground must be wet asphalt.",
+    "quantity": "Exactly two people must be visible in the scene.",
+    "text": "",
+    "constraint": "The scene must use ONLY black, dark blue, and red colors.",
+    "category": [
+      "#Character",
+      "#Environment",
+      "#Full_Body_Shot",
+      "#Photorealistic",
+      "#Horror_Dark"
+    ]
+  },
+  {
+    "task_id": "co_19",
+    "title": "Video Game Character - Dragon Warrior",
+    "task": "Our game studio needs the final concept art for our main character, the 'Dragon Warrior'. She needs to look heroic and powerful for our fantasy RPG players. This is a full-body concept art piece. She must not be wearing a helmet.",
+    "pairing": "",
+    "layout": "She must be holding a golden spear in her right hand. She must be holding a silver shield in her left hand.",
+    "quantity": "Exactly one warrior must be visible.",
+    "text": "A dragon emblem must be visible on the silver shield.",
+    "constraint": "The background must be ONLY solid white.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Data_Element",
+      "#Full_Body_Shot",
+      "#Photorealistic",
+      "#Fantasy_Mythic"
+    ]
+  },
+  {
+    "task_id": "co_20",
+    "title": "Band on Stage",
+    "task": "An event organizer needs a simple flat vector illustration for a concert poster. It needs to feel energetic and lively. It's for a general, all-ages audience. The style must be a simple vector, so it is critical that there is no realistic shading. The poster must also not contain any speech bubbles or narrative text.",
+    "pairing": "The guitarist must be wearing a red outfit. The singers must be wearing blue outfits.",
+    "layout": "A guitarist must be on the far left. A drummer must be in the back, behind the singers.",
+    "quantity": "",
+    "text": "The text 'ROCK ON' must be at the top of the poster, written in a bold, white font.",
+    "constraint": "The stage lights must be ONLY blue and purple.",
+    "category": [
+      "#Character",
+      "#Environment",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_21",
+    "title": "Football Player Jersey",
+    "task": "Our sports apparel brand 'Axiom' needs a photorealistic action shot for our new catalog. This is for soccer players and fans. The shot must be from behind to focus on the jersey design. Make sure there are no other players in the shot, and no faces are visible.",
+    "pairing": "The player must be wearing a blue jersey. The player must be wearing white shorts.",
+    "layout": "",
+    "quantity": "Only one player must be visible in the frame.",
+    "text": "The number '10' must be on the back of the jersey. The text 'AXIOM' must be written above the number.",
+    "constraint": "The image must show ONLY the single player from behind.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Photorealistic"
+    ]
+  },
+  {
+    "task_id": "co_22",
+    "title": "Person Walking Dogs",
+    "task": "A pet adoption agency wants a simple cartoon illustration for their website. It needs to be friendly and welcoming to appeal to families. The style is a simple cartoon. It is very important that the image does not include cats or cars.",
+    "pairing": "",
+    "layout": "A woman must be in the center, holding leashes for both dogs.",
+    "quantity": "There must be exactly two dogs.",
+    "text": "The text 'ADOPT ME!' must be visible on a small tag attached to one of the dog's collars.",
+    "constraint": "The background must be ONLY solid white.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_23",
+    "title": "Baker in the Kitchen",
+    "task": "We need a photorealistic interior shot for a magazine article about baking from scratch. The mood should be warm and authentic, for an audience of home bakers. This is a photorealistic shot. The image must show the process, so make sure there is no finished bread or cakes, and no other people.",
+    "pairing": "",
+    "layout": "A bowl of flour must be on the table to the left of the baker. A rolling pin must be on the table to the right of the baker.",
+    "quantity": "Exactly one baker must be visible in the scene.",
+    "text": "The text 'Home Baked Goodness' must appear in a rustic font on a small, visible chalkboard in the background.",
+    "constraint": "The scene must ONLY show the baker's hands and torso; the baker's face must not be visible.",
+    "category": [
+      "#Character",
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#Photorealistic"
+    ]
+  },
+  {
+    "task_id": "co_24",
+    "title": "Office Meeting",
+    "task": "Our B2B company needs a corporate vector illustration for our website's homepage. It needs to look professional and polished, for a corporate audience. The style is flat design. The illustration must be clean, so do not include any windows, computers, or decorative text.",
+    "pairing": "",
+    "layout": "The man must be standing in front of a whiteboard. The woman must be sitting at a table to his left. The whiteboard must contain a simple bar chart.",
+    "quantity": "Exactly two people must be in the scene.",
+    "text": "The text 'Strategy' must be clearly written on a nametag on the table.",
+    "constraint": "The illustration must use ONLY the colors blue, gray, and white.",
+    "category": [
+      "#Character",
+      "#Environment",
+      "#Data_Element",
+      "#Typography",
+      "#Full_Body_Shot",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_25",
+    "title": "Dining Room for Holiday Setup",
+    "task": "Our furniture brand needs a render for its winter campaign. The scene must be cozy and classic, aimed at homeowners. This is a photorealistic interior render. The image must not contain any food or people.",
+    "pairing": "A wooden dining table must have a centerpiece on it. A wreath must be on the wall.",
+    "layout": "The table must be in the center of the room. The wreath must be on the wall directly behind the table.",
+    "quantity": "Exactly two candles must be visible on the table.",
+    "text": "",
+    "constraint": "The room must use ONLY burgundy, pine green, and cream colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_26",
+    "title": "Cozy Reading Nook",
+    "task": "We need a promotional render for a social media post about 'unplugging'. The vibe is warm and cozy cottagecore, for a general audience. This is an interior render. The scene must not include any electronic screens or modern lighting fixtures.",
+    "pairing": "A teacup must be resting on a small table next to the armchair.",
+    "layout": "An armchair must be in the corner. A bookshelf must be next to the armchair. A floor rug must be in front of the armchair.",
+    "quantity": "Exactly one armchair must be visible.",
+    "text": "",
+    "constraint": "The scene must use ONLY forest green, soft brown, and cream colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_27",
+    "title": "Futuristic Hotel Concept Art",
+    "task": "A game studio needs concept art for a futuristic hotel. It needs to look advanced and sleek, aimed at sci-fi game players. This is photorealistic concept art. It is critical that you exclude all trees and plants.",
+    "pairing": "",
+    "layout": "A tall skyscraper must be the central focus. A pool must be visible on the rooftop of the skyscraper.",
+    "quantity": "Exactly three flying vehicles must be in the sky.",
+    "text": "The hotel's name, 'Aetherium Grand', must be subtly visible on the side of the skyscraper in a futuristic font.",
+    "constraint": "The image must use ONLY silver and turquoise colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_28",
+    "title": "Luxury Bathroom Interior",
+    "task": "Our marketing team needs a render of a luxury hotel suite bathroom. It must look modern and luxurious, aimed at affluent travelers. This is a photorealistic render. The image must look pristine, so do not include any towels or personal hygiene items.",
+    "pairing": "",
+    "layout": "A round mirror must be mounted on a marble wall, above a sink.",
+    "quantity": "Exactly one bathtub must be visible.",
+    "text": "The hotel's logo, a subtle 'Monarch Suites' in a golden script, must be etched into the mirror glass itself.",
+    "constraint": "The room must use ONLY black, gold, and white (including marble) colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_29",
+    "title": "Contemporary Kitchen Design",
+    "task": "We need a render for an apartment brochure, showcasing a sleek, contemporary kitchen. This is for modern apartment hunters. The style is photorealistic. The kitchen must look clean, so do not include any hanging utensils or food items.",
+    "pairing": "The island counter must be charcoal gray. The surrounding cabinetry must be white.",
+    "layout": "An induction stove must be built into the island counter. Bar stools must be placed at the island.",
+    "quantity": "There must be exactly two bar stools.",
+    "text": "",
+    "constraint": "The room must use ONLY white, charcoal gray, and stainless steel colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_30",
+    "title": "Industrial Loft Office",
+    "task": "We need a marketing render for our new coworking space. It must look industrial and minimal, to attract tech startups. The style is industrial interior photography. The space must look clean, so do not include any paper clutter.",
+    "pairing": "The desk must be black metal. The chair must be black metal.",
+    "layout": "The desk must be placed in front of an exposed brick wall. A single pendant light must hang directly above the desk.",
+    "quantity": "Exactly one desk must be visible.",
+    "text": "",
+    "constraint": "The scene must use ONLY brick red, black, and concrete gray colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_31",
+    "title": "Luxury Hotel Lobby Interior",
+    "task": "Our firm is visualizing a luxury hotel lobby. It must look elegant and sophisticated, aimed at affluent guests. The style is modern art-deco. This is a photorealistic visualization. The lobby must be empty, so do not include any luggage or visible guests.",
+    "pairing": "The lounge chairs must be navy. The reception desk must be ivory.",
+    "layout": "A large brass chandelier must be in the center of the ceiling.",
+    "quantity": "",
+    "text": "The text 'GRAND HOTEL' must be visible in brass letters on the wall behind the reception desk.",
+    "constraint": "The lobby must use ONLY navy, brass, and ivory colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Corporate_Clean",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_32",
+    "title": "Studio Apartment Layout",
+    "task": "We need a visual for a real estate listing of a studio apartment. It needs to show an efficient and cozy layout for first-time renters. The style is Scandinavian interior design. This is a photorealistic render. The layout must be open, so do not include any closed doors or separate rooms.",
+    "pairing": "The bed must be light wood. The small sofa must be soft gray.",
+    "layout": "A kitchenette must be on the far wall. An open wardrobe must be next to the bed.",
+    "quantity": "Exactly one bed must be visible.",
+    "text": "",
+    "constraint": "The apartment must use ONLY light wood, white, and soft gray colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_33",
+    "title": "Meditation Room Interior",
+    "task": "Our wellness brand 'Aura' needs a promotional image for a new meditation app. The image must feel serene and tranquil, aimed at users seeking calm. The style is Zen-inspired minimalist interior. This is a photorealistic render. It is critical that there are no electronics or furniture above waist height.",
+    "pairing": "The low table must be earth brown. The floor mat must be sand colored.",
+    "layout": "A low table must be in the center of the room. A floor mat must be in front of the low table.",
+    "quantity": "",
+    "text": "A wall scroll must be on the back wall, showing the single character '静' (Quiet).",
+    "constraint": "The room must use ONLY earth brown, sand, and muted green colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Abstract_Conceptual",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_34",
+    "title": "Futuristic Workspace Concept",
+    "task": "We need an interior visualization for a new tech office building. The design should feel sleek and futuristic, to attract innovative tenants. The style is photorealistic sci-fi interior. This is a concept piece. The room must be clean, so do not include any visible cables or traditional furniture.",
+    "pairing": "",
+    "layout": "A glass desk must be in the center. A digital wall must be behind it.",
+    "quantity": "Exactly one floating chair must be visible.",
+    "text": "The text 'Welcome to Sector 4' must be displayed on the digital wall.",
+    "constraint": "The room must use ONLY silver, turquoise, and matte black colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_35",
+    "title": "Minimalist Studio Layout",
+    "task": "An interior design blog needs a simple sketch for an article on minimalism. It must feel clean and organized, for readers interested in small-space living. The style is hand-drawn sketch. The sketch must not include any complex patterns or decorative details.",
+    "pairing": "The sofa must be beige. The coffee table must be white.",
+    "layout": "A sofa must be on the left. A coffee table must be in the center. A floor lamp must be on the right.",
+    "quantity": "The sofa must have exactly two cushions on it.",
+    "text": "",
+    "constraint": "The sketch must use ONLY black (for lines), white, and beige colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Traditional_Media",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_36",
+    "title": "Vintage Library Interior with Plants",
+    "task": "A university needs a warm, vintage illustration of its main library for a promotional brochure. The audience is prospective students. This is an architectural illustration. The library must not show any people.",
+    "pairing": "",
+    "layout": "Long wooden tables must be in the center. Bookshelves must line both sides of the hall.",
+    "quantity": "Exactly two brass lamps must be on each long table.",
+    "text": "The word 'Knowledge' must be carved in the wood above the main doorway.",
+    "constraint": "The illustration must use ONLY deep brown wood, forest green, and brass gold colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#Traditional_Media",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_37",
+    "title": "Isometric Eco-Friendly House Plan",
+    "task": "We need an architectural infographic for a sustainability website. It needs to look clean and informative for a general audience. The style is an isometric cutaway. The image must not include any cars or fences.",
+    "pairing": "Solar panels must be on the roof of the house. A rainwater tank must be next to the house.",
+    "layout": "",
+    "quantity": "Exactly four solar panels must be visible on the roof.",
+    "text": "The text 'ECO HOME' must be written in a clean font at the top-right corner.",
+    "constraint": "The illustration must use ONLY forest green, cream, blue-gray, and black (for text and lines) colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Isometric_View",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_38",
+    "title": "Chinese Restaurant Dining Hall",
+    "task": "A client needs an interior visualization for their new Chinese restaurant. The style should feel traditional with modern touches, aimed at diners seeking an authentic experience. This is a traditional Chinese interior render. The scene must not include any windows or outside views.",
+    "pairing": "",
+    "layout": "Hanging lanterns must be above the tables.",
+    "quantity": "Exactly three round tables must be visible.",
+    "text": "The chinese character '福' (Fortune) must be visible on the carved wooden panels.",
+    "constraint": "The scene must use ONLY deep red, gold, and dark wood tones.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_39",
+    "title": "Rooftop Garden Cafe",
+    "task": "Our cafe, 'SkyBloom', needs a visualization for our new rooftop garden. The atmosphere should feel relaxed and inviting, to attract young professionals. The style is urban outdoor cafe design. This is an exterior cafe render. The image must not show any people.",
+    "pairing": "",
+    "layout": "Potted plants must surround the seating area. The city skyline must be visible in the background.",
+    "quantity": "Exactly three parasols must be visible.",
+    "text": "The cafe name 'SkyBloom' must be written on a small sign.",
+    "constraint": "The scene must use ONLY green, terracotta, and natural wood colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_40",
+    "title": "Children's Reading and Study Room",
+    "task": "A furniture company needs a render for their new 'Play & Learn' kids' collection. The style is playful and cozy, for parents. This is an interior design render. The image must not include any computers or tablets.",
+    "pairing": "",
+    "layout": "Child-sized desks must be by the window. Bean bags must be in the center.",
+    "quantity": "Exactly two bean bags must be visible.",
+    "text": "The wall art must show animals and the word 'READ'.",
+    "constraint": "The room must use ONLY soft pastel blue, yellow, white, and natural wood.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_41",
+    "title": "Isometric City Night Map",
+    "task": "We need an editorial infographic illustration for a magazine about urban nightlife. The design should feel modern and sleek, for city dwellers. The style is isometric vector. The map must not include any vehicles or humans.",
+    "pairing": "",
+    "layout": "A train station must be on the left. A rooftop billboard must be on the right. Street lights must line the streets.",
+    "quantity": "Exactly three street lights must be visible.",
+    "text": "The text 'METRO' must be on the train station building. The text 'CITY' must be on the rooftop billboard.",
+    "constraint": "The illustration must use ONLY neon blue, black, and purple.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#Isometric_View",
+      "#Vector_Flat",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_42",
+    "title": "Beach Picnic Setup",
+    "task": "A lifestyle brand needs a bright, realistic render for a summer promotion. It needs to look appealing and relaxing, aimed at families and beachgoers. This is a beach lifestyle scene. The scene must not include any people or animals.",
+    "pairing": "",
+    "layout": "The blanket must be on the sand. The ocean must be in the background.",
+    "quantity": "Exactly two glasses of orange juice must be on the blanket.",
+    "text": "A small beach towel with the text 'SUMMER' must be next to the basket.",
+    "constraint": "The image must use ONLY blue, yellow, and tan colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_43",
+    "title": "Garden Tea Party",
+    "task": "We need an elegant photorealistic render for a wedding invitation company. The style is elegant and classic, for brides-to-be. The style is garden party photography. This is an outdoor lifestyle scene. The scene must not include any food, only drinks.",
+    "pairing": "",
+    "layout": "Chairs must be placed around the round tea table. The scene must be set in a garden with greenery.",
+    "quantity": "Exactly three white chairs must be shown.",
+    "text": "A small decorative sign with the word 'Love' must be visible.",
+    "constraint": "The scene must use ONLY green, pink, and white colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#Typography",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_44",
+    "title": "Rooftop Lounge Scene",
+    "task": "A luxury apartment complex needs an evening photorealistic render for its marketing materials. It must look relaxing and high-end, aimed at affluent residents. The style is evening rooftop photography. This is a lifestyle visualization. The image must not include any people.",
+    "pairing": "The sofa must be dark blue. The table must be black.",
+    "layout": "A sofa and a table must be in the center. The city skyline must be in the background.",
+    "quantity": "Exactly three candles must be glowing on the table.",
+    "text": "",
+    "constraint": "The scene must use ONLY blue, orange, and black colors.",
+    "category": [
+      "#Environment",
+      "#Object",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_45",
+    "title": "Marathon Event Poster",
+    "task": "We are promoting the annual city marathon and need a poster. It must look clean and professional, for a general audience. The style is flat design. The poster must not include any landscape photos.",
+    "pairing": "",
+    "layout": "A runner icon must be shown crossing a finish line. A stopwatch icon must be in the top-left corner.",
+    "quantity": "Exactly three runner icons must be visible.",
+    "text": "The text 'CITY MARATHON' must be at the top.",
+    "constraint": "The poster must use ONLY green, navy, and white colors.",
+    "category": [
+      "#Character",
+      "#Data_Element",
+      "#Typography",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_46",
+    "title": "Bakery Logo",
+    "task": "A new bakery called 'Honey Crumbs' needs a logo. It should feel wholesome and sweet, for local customers. The style is flat logo design. The logo must not include any bees.",
+    "pairing": "Wheat stalks must be crossed behind a central honeycomb icon.",
+    "layout": "",
+    "quantity": "Exactly six hexagons must be visible in the honeycomb icon.",
+    "text": "The text 'Honey Crumbs' must be in a script font below the icon.",
+    "constraint": "The logo must use ONLY yellow and brown colors.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_47",
+    "title": "Sushi Restaurant Logo",
+    "task": "A new high-end sushi restaurant needs a refined and elegant logo. The audience is sophisticated diners. This is a minimalist logo design. The design must not include any animals, only the sushi itself.",
+    "pairing": "The salmon nigiri must be orange. The chopsticks must be black.",
+    "layout": "A single salmon nigiri icon must be in the center. A pair of chopsticks must be crossed behind the nigiri icon.",
+    "quantity": "",
+    "text": "The text 'SUSHI' must be written in a minimal font below the icon.",
+    "constraint": "The logo must use ONLY black, white, and orange colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_48",
+    "title": "Basketball Team Logo",
+    "task": "A high school basketball team, the 'Titans', needs a new logo. It must be a bold and athletic varsity emblem, suitable for jerseys. This is for the student athletes. The logo must not include any animal mascots.",
+    "pairing": "A basketball icon must be in the center of a shield icon.",
+    "layout": "",
+    "quantity": "Exactly one basketball and one shield must be visible.",
+    "text": "The text 'TITANS' must be written in a bold, arched font above the shield.",
+    "constraint": "The logo must use ONLY orange, black, and white colors.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_49",
+    "title": "Podcast Brand Identity Logo",
+    "task": "We are launching a new tech podcast, 'BitWave', and need a logo. It should feel modern and sleek, for a tech-savvy audience. The style is flat geometric logo. The design must not include any speech bubbles or faces.",
+    "pairing": "A waveform icon must be inside a microphone shape.",
+    "layout": "",
+    "quantity": "Exactly one microphone icon with one waveform inside must be visible.",
+    "text": "The text 'BitWave' must be written below the microphone shape.",
+    "constraint": "The logo must use ONLY black, cyan, and white colors.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Vector_Flat",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_50",
+    "title": "Flat Food Icon Pack",
+    "task": "We need a playful and vibrant flat filled icon set for a food-themed presentation. This is for a general audience. The style is flat filled icon design. The icons must not have any text labels on them.",
+    "pairing": "",
+    "layout": "The icons must be arranged in a grid.",
+    "quantity": "The set must include exactly five icons: pizza slice, apple, cupcake, coffee cup, and fork-and-knife pair (as one combined icon).",
+    "text": "Each icon must have a thin black outline.",
+    "constraint": "The icons must use ONLY orange, brown, black (outlines only), and white colors.",
+    "category": [
+      "#Object",
+      "#Knolling_Layout",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_51",
+    "title": "Education Icon Set",
+    "task": "An educational app developer needs a new icon set. The icons should feel soft and friendly, aimed at young students. This is a pastel flat icon set. All shapes must be rounded, with no sharp edges allowed.",
+    "pairing": "The book must be pastel blue. The laptop must be beige. The graduation cap must be green.",
+    "layout": "",
+    "quantity": "The set must include exactly five icons: book, pencil, laptop, graduation cap, and blackboard.",
+    "text": "The blackboard icon must have the text 'ABC' written on it in white.",
+    "constraint": "The icons must use ONLY pastel blue, beige, green, and white colors. Black may be used ONLY for outlines.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Knolling_Layout",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_52",
+    "title": "Communication & Teamwork Icons",
+    "task": "Our corporate HR department needs icons for a teamwork presentation. They must look professional and cohesive, for internal employees. This is a flat icon set. The designs must not use any color gradients.",
+    "pairing": "The 'handshake' icon must show two hands. The 'group of people' icon must show three figures. The 'speech bubble' and 'eye' icons must be navy.",
+    "layout": "The icons must be arranged in a single horizontal row.",
+    "quantity": "The set must include exactly five icons: speech bubble, group of people, handshake, thumbs up, and eye.",
+    "text": "",
+    "constraint": "The icons must use ONLY light gray, navy, and white colors.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Knolling_Layout",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_53",
+    "title": "Fitness Tracker App Icon",
+    "task": "A startup is launching a fitness app and needs a bold icon. It must look dynamic and energetic, for athletes. This is a flat app icon. The design must exclude all food or weight scale imagery.",
+    "pairing": "The running figure must be black. The heartbeat line must be red.",
+    "layout": "A running figure icon must be in the center. A heartbeat line must be in the background, behind the figure. A stopwatch icon must be in the bottom-right corner.",
+    "quantity": "",
+    "text": "The text 'GO' must be written on the stopwatch face.",
+    "constraint": "The icon must use ONLY black, red, and white colors.",
+    "category": [
+      "#Character",
+      "#Data_Element",
+      "#Typography",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_54",
+    "title": "Music Streaming App Icon",
+    "task": "Our new music streaming service 'AudioFlow' needs an app icon. It must look colorful and abstract, for a general audience. This is a flat icon. It must not include any images of instruments.",
+    "pairing": "The musical note must be purple. The waveform shapes must be teal.",
+    "layout": "A musical note must be in the center. Abstract waveform shapes must be in the background, behind the note.",
+    "quantity": "",
+    "text": "The text 'A' must be part of the central musical note.",
+    "constraint": "The icon must use ONLY purple, teal, and white colors.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Vector_Flat",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_55",
+    "title": "Spring Season Floral Stickers",
+    "task": "We need a seasonal sticker pack for Spring. The stickers should feel fresh and cheerful, for a general audience. The style is soft watercolor pastel. Please do not include any snow elements or winter imagery.",
+    "pairing": "The flowers must be pink. The butterfly must be lilac. The sun must be light green.",
+    "layout": "The sun icon must be in the top-left corner. The butterfly icon must be in the bottom-right corner.",
+    "quantity": "The set must show exactly four stickers: flowers, butterfly, raindrop, and sun.",
+    "text": "",
+    "constraint": "The stickers must use ONLY light green, pink, lilac, and gray (for outlines) colors.",
+    "category": [
+      "#Object",
+      "#Knolling_Layout",
+      "#Traditional_Media",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_56",
+    "title": "New Year Celebration Stickers",
+    "task": "We need a sticker set for a New Year's Eve event promotion. The stickers should feel glamorous and celebratory, for party-goers. The style is shiny metallic flat. Avoid any large confetti explosion effects.",
+    "pairing": "The clock must be silver. The fireworks must be gold.",
+    "layout": "The stickers must be arranged in a 2x2 grid.",
+    "quantity": "",
+    "text": "The clock sticker must show the time as '11:59'. The '2025' sticker must be in a bold, gold font.",
+    "constraint": "The stickers must use ONLY gold, silver, and black colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Knolling_Layout",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_57",
+    "title": "3D Burger Shop Icon",
+    "task": "A new fast-food shop, 'BurgerHub', needs a logo icon. It must look appetizing and playful, for a general audience. The style is glossy 3D cartoon render. The icon must not include any drinks or fries.",
+    "pairing": "The burger must have a sesame seed bun, a yellow cheese slice, a green lettuce leaf, and a red tomato slice.",
+    "layout": "",
+    "quantity": "Exactly one burger must be visible with all four layers.",
+    "text": "The letter 'H' must be branded onto the top bun.",
+    "constraint": "The icon must use ONLY brown, yellow, green, and red colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#3D_Render",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_58",
+    "title": "3D Shopping Cart Icon",
+    "task": "An e-commerce platform, 'ShopEasy', needs an app icon. It must look soft and friendly for online shoppers. The style is a 3D clay-style icon. It is forbidden to use any text or currency symbols.",
+    "pairing": "A white coin must be shown going into a light blue shopping cart.",
+    "layout": "",
+    "quantity": "Exactly one shopping cart and one coin must be visible.",
+    "text": "The brand name 'ShopEasy' must be embossed.",
+    "constraint": "The icon must use ONLY light blue, white, and gray colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#3D_Render",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_59",
+    "title": "3D Headphones Icon",
+    "task": "A music app, 'Bassline', needs a new icon. It must look sleek and premium, for audiophiles. The style is 3D product icon. The design must not include any music notes.",
+    "pairing": "The headphones must be black. The ear cushions must be red. The accents must be silver.",
+    "layout": "",
+    "quantity": "Exactly one pair of headphones must be visible.",
+    "text": "The brand name 'B' must be visible on the headband.",
+    "constraint": "The icon must use ONLY black, red, and silver colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#3D_Render",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_60",
+    "title": "3D Delivery Box Icon",
+    "task": "A logistics and delivery app needs a new icon. It must look clean and recognizable for e-commerce customers. The style is an isometric 3D render. The icon must not have any vehicles or company logos on it.",
+    "pairing": "A closed cardboard box (kraft brown) must be sealed with yellow tape.",
+    "layout": "A blank white label must be on the front face of the box. The box must be in an isometric view.",
+    "quantity": "Exactly one box must be visible.",
+    "text": "",
+    "constraint": "The icon must use ONLY kraft brown, yellow, and white colors.",
+    "category": [
+      "#Object",
+      "#Portrait_CloseUp",
+      "#Isometric_View",
+      "#3D_Render",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_61",
+    "title": "3D Finance Dashboard Icons",
+    "task": "A new finance app needs a dashboard icon set. The icons should feel modern and approachable, for general users. The style is claymorphic 3D. The icons must not have any text or logos on them.",
+    "pairing": "The wallet must be teal. The piggy bank must be yellow. The safe box must be white.",
+    "layout": "The icons must be arranged in a 2x2 grid.",
+    "quantity": "The set must include exactly four icons: wallet, piggy bank, bar chart, and safe box.",
+    "text": "",
+    "constraint": "The icons must use ONLY teal, yellow, and white colors.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Knolling_Layout",
+      "#3D_Render",
+      "#Cute_Pop",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_62",
+    "title": "Canned Soda Billboard",
+    "task": "We need an outdoor advertisement for a new soda brand, 'ZAP'. It needs to feel vibrant and bold, for a young audience. The style is pop-art billboard design. Do not show any glass bottles.",
+    "pairing": "The soda can must be red. The splash effect must be blue.",
+    "layout": "A soda can must be in the center. A splash effect must be behind the can.",
+    "quantity": "",
+    "text": "The text 'ZAP' must be in a bold, dynamic font.",
+    "constraint": "The ad must use ONLY red, white, and blue colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_63",
+    "title": "Fruit Beverage Transit Ad",
+    "task": "Our beverage company needs a bus stop advertisement for a new natural fruit drink. It must look fresh and appetizing, for health-conscious commuters. This is a 3D product render. The ad must not include any text like 'artificial' or 'sweetened'.",
+    "pairing": "A cold can must be shown with condensation on it.",
+    "layout": "The can must be centered with fruit slices around it.",
+    "quantity": "Exactly two orange slices and one lime slice must be visible.",
+    "text": "",
+    "constraint": "The ad must use ONLY orange, lime green, and white colors.",
+    "category": [
+      "#Object",
+      "#Portrait_CloseUp",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_64",
+    "title": "Japanese Restaurant Poster",
+    "task": "A traditional Japanese restaurant needs a new wall poster. It must feel authentic and traditional, for diners. The style is ink brush and watercolor art. It must not include any Western food items like burgers or fries.",
+    "pairing": "The ramen bowl must be black. The cherry blossoms must be red.",
+    "layout": "A ramen bowl must be in the center. Cherry blossoms must frame the top corners.",
+    "quantity": "",
+    "text": "Japanese calligraphy for 'Ramen' (ラーメン) must be visible.",
+    "constraint": "The poster must use ONLY black, white, and red colors.",
+    "category": [
+      "#Object",
+      "#Environment",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#Traditional_Media",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_65",
+    "title": "Coffee Shop Banner",
+    "task": "A cafe needs a promotional banner for its website. The design should feel nostalgic and warm, for a general audience. The style is retro 1950s advertisement. The banner must not contain any modern devices like smartphones.",
+    "pairing": "The coffee cup must be red. The croissant must be cream.",
+    "layout": "A coffee cup must be on the left. A croissant must be on the right.",
+    "quantity": "",
+    "text": "The text 'Fresh Coffee' must be in a retro font in the center.",
+    "constraint": "The banner must use ONLY red and cream colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Knolling_Layout",
+      "#Vector_Flat",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_66",
+    "title": "Teenage Birthday Bash Poster",
+    "task": "We need a poster for a teenage birthday party. It must feel edgy and energetic, for a teenage audience. The style is urban neon pop art. Do not use any cartoon-like icons.",
+    "pairing": "The disco ball must be neon purple. The headphones and skateboard must be electric blue.",
+    "layout": "A disco ball must be at the top. Headphones must be in the bottom-left. A skateboard must be in the bottom-right.",
+    "quantity": "",
+    "text": "The text 'BIRTHDAY BASH' must be in a neon-effect font in the center.",
+    "constraint": "The poster must use ONLY neon purple, black, and electric blue.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Knolling_Layout",
+      "#Vector_Flat",
+      "#SciFi_Cyberpunk",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_67",
+    "title": "School Graduation Poster",
+    "task": "A high school needs a formal poster for its graduation ceremony. The design should feel dignified and celebratory, for students and parents. The style is ceremonial poster design. Do not use any casual emojis.",
+    "pairing": "The graduation cap must be navy. The diploma scroll must be gold.",
+    "layout": "A graduation cap icon must be at the top. A diploma scroll icon must be at the bottom. Confetti must be in the background.",
+    "quantity": "",
+    "text": "The text 'CLASS OF 2025' must be in the center in a bold, gold font.",
+    "constraint": "The poster must use ONLY navy, gold, and white colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_68",
+    "title": "Charity Run Poster",
+    "task": "We need an inspiring poster for a charity run. The design should feel hopeful and uplifting, aimed at the general public. The style is minimalist poster design. It must not include any commercial or brand logos.",
+    "pairing": "The heart icon must be coral. The sneakers must be sky blue.",
+    "layout": "A heart icon must be at the top. A pair of sneakers must be at the bottom, on a running path.",
+    "quantity": "",
+    "text": "The text 'Run for Hope' must be written inside the heart icon.",
+    "constraint": "The poster must use ONLY sky blue, white, and coral colors.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_69",
+    "title": "Art Club Exhibition Poster",
+    "task": "Our university art club is having a student showcase. We need a creative and experimental poster for the event. This is for university students. The style is collage art. The poster must not include any realistic portraits.",
+    "pairing": "A paint palette icon must be next to a brush icon.",
+    "layout": "",
+    "quantity": "Exactly three primary colors (red, blue, yellow) must be used on the palette.",
+    "text": "The text 'ART SHOW' must be in a cutout-style font.",
+    "constraint": "The poster must use ONLY the primary colors red, blue, and yellow.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#Traditional_Media",
+      "#Abstract_Conceptual"
+    ]
+  },
+  {
+    "task_id": "co_70",
+    "title": "School Club Sign-Up Poster",
+    "task": "Our school needs a colorful poster for the club recruitment day. It needs to be fun and inviting for students. The style is flat design poster. The poster must not include any photos.",
+    "pairing": "",
+    "layout": "A header banner must be at the top. A grid of icons must be at the bottom.",
+    "quantity": "The grid must contain exactly three icons: books, a smiley face, and confetti.",
+    "text": "The text 'JOIN A CLUB!' must be in a large font in the center.",
+    "constraint": "The poster must use ONLY green, orange, and blue colors.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Knolling_Layout",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_71",
+    "title": "Winter Cafe Branding Poster",
+    "task": "A local cafe needs a poster for its seasonal winter drink menu. It must feel warm and cozy, for customers. The style is photorealistic still life photography. It must not show any people or pastries.",
+    "pairing": "A cinnamon stick must be next to a latte. A pinecone must be next to a knitted scarf.",
+    "layout": "All items must be arranged in a still life composition.",
+    "quantity": "Exactly one latte cup must be visible.",
+    "text": "",
+    "constraint": "The poster must use ONLY brown, burgundy, and snow white colors.",
+    "category": [
+      "#Object",
+      "#Portrait_CloseUp",
+      "#Photorealistic",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_72",
+    "title": "Eco-Friendly Takeaway Coffee Cup",
+    "task": "Our coffee shop needs a visualization of our new eco-friendly packaging. It should feel sustainable and natural, for eco-conscious customers. The style is product photography. The image must not include any plastic straws.",
+    "pairing": "The paper cup must have a brown cardboard sleeve and a white lid.",
+    "layout": "The cup must be angled on a neutral tabletop.",
+    "quantity": "",
+    "text": "A green eco-friendly logo (a leaf) must be on the cardboard sleeve.",
+    "constraint": "The image must use ONLY brown kraft, white, and green colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_73",
+    "title": "Beach-Themed Shell Necklace",
+    "task": "A jewelry maker needs a visualization of a new necklace for their online store. The design should feel coastal and natural, for beach lovers. The style is jewelry product photography. The image must not include any people.",
+    "pairing": "A seashell must be the main pendant. A small starfish charm must be attached to the rope string.",
+    "layout": "The necklace must be placed on a sandy surface. The ocean must be visible in the soft-focus background.",
+    "quantity": "Exactly one necklace must be visible.",
+    "text": "",
+    "constraint": "The image must use ONLY pearl white, sandy beige, and turquoise colors.",
+    "category": [
+      "#Object",
+      "#Environment",
+      "#Portrait_CloseUp",
+      "#Photorealistic",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_74",
+    "title": "Galaxy Bracelet",
+    "task": "A fashion accessory brand needs a cosmic-themed render for a new product launch. The design should feel mystical and enchanting, for a young audience that likes fantasy themes. This is a photorealistic 3D render. The image must not contain any planets or moons.",
+    "pairing": "The beaded bracelet must be midnight blue. The bracelet must have silver star motifs on it.",
+    "layout": "",
+    "quantity": "Exactly three glowing orbs (violet color) must be floating around the bracelet.",
+    "text": "The brand logo 'G' must be engraved on one bead.",
+    "constraint": "The image must use ONLY midnight blue, violet, and silver colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Fantasy_Mythic",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_75",
+    "title": "Macro Dewdrop on Leaf",
+    "task": "We need a hyper-realistic macro photo for a nature documentary website. The image should feel delicate and pristine, for nature enthusiasts. This is macro nature photography. The image must not show the ground or sky.",
+    "pairing": "A small insect (like a ladybug) must be on the large leaf.",
+    "layout": "The shot must be an extreme close-up of the leaf surface. Multiple dewdrops must be visible on the leaf.",
+    "quantity": "Exactly three large dewdrops must be in sharp focus.",
+    "text": "",
+    "constraint": "The image must use ONLY green and translucent white/clear colors.",
+    "category": [
+      "#Character",
+      "#Environment",
+      "#Object",
+      "#Portrait_CloseUp",
+      "#Photorealistic"
+    ]
+  },
+  {
+    "task_id": "co_76",
+    "title": "Gourmet Dessert Close-Up",
+    "task": "A high-end restaurant needs a hyper-realistic commercial photo for its dessert menu. The presentation should feel decadent and indulgent, for gourmet food lovers. This is food photography. The image must not include any forks, spoons, or napkins.",
+    "pairing": "A scoop of vanilla ice cream must be next to a chocolate lava cake.",
+    "layout": "The shot must be a tight macro frame, focusing on the chocolate flowing from the cake. Fresh raspberries must be next to the ice cream.",
+    "quantity": "Exactly three fresh raspberries must be visible.",
+    "text": "",
+    "constraint": "The image must use ONLY deep chocolate browns, white, and vibrant red colors.",
+    "category": [
+      "#Object",
+      "#Portrait_CloseUp",
+      "#Photorealistic"
+    ]
+  },
+  {
+    "task_id": "co_77",
+    "title": "High-End Watch Product Shot",
+    "task": "A luxury brand needs a hyper-realistic commercial product shot for a new watch. The design should feel sophisticated and timeless, for high-end consumers. This is luxury product photography. The image must not show any people or hands.",
+    "pairing": "The watch must be titanium (silver color). The strap must be dark blue leather.",
+    "layout": "",
+    "quantity": "Exactly one watch must be visible.",
+    "text": "The time on the watch must be set to exactly 10:10.",
+    "constraint": "The image must use ONLY silver, dark blue, and white colors.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Portrait_CloseUp",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_78",
+    "title": "Sneaker Product Mockup",
+    "task": "A footwear company, 'Aero', needs a bright studio render for a new sneaker mockup. The design should feel clean and modern, for online shoppers and sneaker enthusiasts. This is product visualization. The image must not include the shoebox.",
+    "pairing": "",
+    "layout": "This must be a side view of a single sneaker. The sneaker must be on a plain white surface with soft shadows.",
+    "quantity": "Exactly one sneaker must be visible.",
+    "text": "The brand name 'Aero' must be visible on the side of the sneaker.",
+    "constraint": "The image must use ONLY white, gray, and accent blue colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#3D_Render",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_79",
+    "title": "Office Desk Stock Image",
+    "task": "We need a generic workspace photo for a business blog. It must feel minimal and organized, for a professional audience. The style is flat-lay photography. The image must not include any messy papers or clutter.",
+    "pairing": "The laptop must be black. The notebook must be white.",
+    "layout": "This must be an overhead flat-lay of items on a light wood desk. A laptop must be at the top, a notebook on the left, a coffee cup on the right, and a smartphone at the bottom.",
+    "quantity": "Exactly four items must be visible: laptop, notebook, coffee cup, and smartphone.",
+    "text": "",
+    "constraint": "The image must use ONLY white, black, and light wood colors.",
+    "category": [
+      "#Object",
+      "#Knolling_Layout",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_80",
+    "title": "Custom Birthday Cake",
+    "task": "A custom bakery needs a showcase photo of a birthday cake. It must be clean and professional, for event planners and celebration hosts. The style is product photography. The cake must not have candles, fruit, or sprinkles.",
+    "pairing": "",
+    "layout": "The cake must be a centered three-tier cake.",
+    "quantity": "The cake must have exactly three tiers.",
+    "text": "The text 'HAPPY' must be on the top tier. The text 'BIRTH' must be on the middle tier. The text 'DAY' must be on the bottom tier.",
+    "constraint": "The cake must use ONLY white and light blue colors.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Portrait_CloseUp",
+      "#Photorealistic",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_81",
+    "title": "Transformer Architecture Diagram",
+    "task": "Our research lab needs a technical diagram for a machine learning paper. The diagram must illustrate the core architecture of a Transformer model, aimed at AI researchers. This is a schematic diagram for publication. The diagram must not include any code snippets or mathematical equations.",
+    "pairing": "The Encoder block must have a blue border. The Decoder block must have an orange border. The attention mechanism connectors must be green arrows.",
+    "layout": "The Encoder block must be positioned on the left side of the diagram. The Decoder block must be positioned on the right side. The attention mechanism must be shown as arrows connecting the center space between Encoder and Decoder.",
+    "quantity": "",
+    "text": "The top Encoder module must be labeled 'Multi-Head Attention'. The middle module must read 'Feed Forward'. The bottom must show 'Layer Norm'. The Decoder must have identical labels in the same order.",
+    "constraint": "The entire diagram must use ONLY blue, orange, green, white, and black (for text and component outlines) colors. No gradients, shadows, or 3D effects are permitted. All text must be in sans-serif font only.",
+    "category": [
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_82",
+    "title": "Algorithm Complexity Comparison Chart",
+    "task": "We need a clear visualization for a computer science textbook showing sorting algorithm performance. The chart should be professional and educational, for undergraduate students. This is a bar chart comparison. The chart must not include any pseudocode or implementation details.",
+    "pairing": "Algorithms with O(n log n) complexity must be colored green. Algorithms with O(n²) complexity must be colored red. The single O(n) algorithm must be colored blue.",
+    "layout": "",
+    "quantity": "Exactly five vertical bars must be present: Bubble Sort, Quick Sort, Merge Sort, Heap Sort, and Counting Sort. The Y-axis must show exactly three gridline levels at O(n), O(n log n), and O(n²).",
+    "text": "The Y-axis label must read 'Time Complexity'. Above each bar, the notation must show: 'O(n²)', 'O(n log n)', 'O(n log n)', 'O(n log n)', and 'O(n)' respectively.",
+    "constraint": "The chart must use ONLY green, red, blue, white, and black (for text, axis lines, and gridlines). Gray may be used ONLY for gridlines. No textures or 3D effects are allowed.",
+    "category": [
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_83",
+    "title": "Mitochondrial Electron Transport Chain",
+    "task": "A biology department needs an educational diagram of cellular respiration for their undergraduate course. The illustration must be clear and scientifically accurate, aimed at biology students. This is a biochemical pathway diagram. The diagram must not show the outer mitochondrial membrane or any ATP molecules.",
+    "pairing": "The inner mitochondrial membrane must be purple. All protein complexes must be dark blue and embedded in the membrane. ATP synthase must be gold.",
+    "layout": "The membrane must run horizontally. From left to right: Complex I, Complex II, Complex III, Complex IV, and ATP synthase on the far right.",
+    "quantity": "Exactly four protein complexes plus one ATP synthase must be visible. Exactly five red arrows must show electron flow between components.",
+    "text": "",
+    "constraint": "The illustration must use ONLY purple, dark blue, gold, red, white, and black (for labels and text). No gradients or shading effects are permitted. All labels must be in Arial font.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_84",
+    "title": "Double-Slit Interference Optical Diagram",
+    "task": "Our physics department requires a clean diagram illustrating Young's double-slit experiment for an optics course. The diagram must be precise and educational, for physics undergraduates. This is an optical ray diagram. The diagram must not include any observer figures or measuring devices.",
+    "pairing": "All light rays must be red lines. The barrier must be solid black. The interference pattern on the screen must show alternating black and white bands.",
+    "layout": "From left to right: coherent light source, double-slit barrier in center, detection screen on far right.",
+    "quantity": "",
+    "text": "Near the source, label 'λ = 632 nm'. At the barrier, label 'd = 0.5 mm'. On the screen, label one bright band 'Constructive Interference' and one dark band 'Destructive Interference'.",
+    "constraint": "The diagram must use ONLY red, black, and white. No gray tones except for representing intermediate fringe intensity. Background must be solid white only.",
+    "category": [
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_85",
+    "title": "Esterification Reaction Mechanism",
+    "task": "A chemistry journal needs a reaction mechanism diagram for an organic synthesis paper. The illustration must show electron movement clearly, aimed at organic chemists. This is a curved-arrow mechanism diagram. The diagram must not include 3D models or reaction conditions.",
+    "pairing": "The carbonyl carbon must be marked with a red dot. The alcohol oxygen must be marked with a blue dot. Curved electron-flow arrows must be thick and black.",
+    "layout": "",
+    "quantity": "Exactly three molecular structures must be shown: reactants, tetrahedral intermediate, and products. Exactly two curved arrows must indicate electron movement.",
+    "text": "The overall equation must read 'R-COOH + R'-OH → R-COO-R' + H₂O'. The middle structure must be labeled 'Tetrahedral Intermediate'. All subscripts must be correct.",
+    "constraint": "The diagram must use ONLY red, blue, black, and white. All structures must be in skeletal formula style. No bond highlighting or colored shadows allowed.",
+    "category": [
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_86",
+    "title": "Coronary Artery Cross-Section Comparison",
+    "task": "A medical school needs an educational illustration comparing healthy versus diseased arteries for a cardiovascular pathology course. The diagram must be anatomically accurate, for medical students. This is a cross-sectional anatomical diagram. The illustration must not show longitudinal views or external anatomy.",
+    "pairing": "The normal artery lumen must be red. The plaque must be yellow. The three arterial wall layers must be light pink, medium pink, and dark pink from inner to outer.",
+    "layout": "Two circular cross-sections side-by-side: healthy artery on left, atherosclerotic artery on right. Both must be equal in size and vertically centered.",
+    "quantity": "",
+    "text": "Both cross-sections must be labeled 'Intima', 'Media', 'Adventitia'. The diseased side must additionally show 'Atherosclerotic Plaque' and 'Narrowed Lumen' labels with leader lines.",
+    "constraint": "The illustration must use ONLY red, yellow, three shades of pink, white background, and black (for text and leader lines only). No textures allowed.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_87",
+    "title": "Clinical Decision Flowchart",
+    "task": "A hospital's emergency department needs a flowchart for triage protocol. The flowchart must be clear and professional, for medical staff. This is a clinical decision flowchart. The flowchart must not include patient photos or specific drug names.",
+    "pairing": "Decision nodes must be yellow diamonds. Action nodes must be blue rectangles. Terminal outcome nodes must be green ovals.",
+    "layout": "Start node at top labeled 'Patient Arrival'. Decision nodes branch downward. Four outcome nodes at bottom level.",
+    "quantity": "Exactly two decision diamonds, three action rectangles, and four outcome ovals must be present.",
+    "text": "",
+    "constraint": "The flowchart must use ONLY yellow, blue, green, white, and black (for text and connecting arrows). All text must be in sans-serif font. No curved connectors or decorative elements allowed.",
+    "category": [
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_88",
+    "title": "Software Development Lifecycle Diagram",
+    "task": "An IT consulting firm needs a process diagram for agile methodology documentation. The diagram must be professional and structured, for project managers. This is a process flow diagram. The diagram must not show company logos or proprietary tool names.",
+    "pairing": "",
+    "layout": "Three vertical columns from left to right: Planning, Development, Testing. Arrows must connect phases sequentially across columns.",
+    "quantity": "Exactly three rectangles in Planning column, three in Development column, and two in Testing column must be visible.",
+    "text": "Planning boxes labeled 'Requirements', 'Design', 'Sprint Planning'. Development boxes labeled 'Coding', 'Code Review', 'Integration'. Testing boxes labeled 'Unit Tests', 'QA Testing'.",
+    "constraint": "The diagram must use ONLY purple (Planning), teal (Development), orange (Testing), white background, and black (for text and arrows). All rectangles must be identical in size. Text must be centered and sans-serif only.",
+    "category": [
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_89",
+    "title": "Machine Learning Training Pipeline",
+    "task": "A data science team needs a technical diagram showing their ML training workflow for documentation. The diagram should be clear and technical, for data engineers. This is a pipeline architecture diagram. The diagram must not include vendor-specific platform names or cloud provider logos.",
+    "pairing": "Data processing nodes must be light blue rounded rectangles. Model training nodes must be dark blue rounded rectangles. Evaluation nodes must be green circles.",
+    "layout": "",
+    "quantity": "Exactly one data node at top, three training nodes in middle row arranged horizontally, and one evaluation node at bottom.",
+    "text": "Nodes labeled 'Data Ingestion', 'Train Model A', 'Train Model B', 'Train Model C', 'Ensemble Evaluation'. Arrows labeled with dataset names 'train.csv' and 'test.csv'.",
+    "constraint": "The diagram must use ONLY light blue, dark blue, green, white background, and black (for text and arrows). All text must be in monospace font for technical accuracy. Arrow labels must be italicized.",
+    "category": [
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_90",
+    "title": "Lithium-Ion Battery Cross-Section",
+    "task": "An engineering firm needs a cutaway diagram of a battery cell for a technical manual. The diagram must be precise and educational, for electrical engineers. This is a cross-sectional technical diagram. The diagram must not show external casing or any branding.",
+    "pairing": "The anode must be gray. The cathode must be copper-colored. The separator must be yellow. The electrolyte must be light blue.",
+    "layout": "Vertical cross-section showing layers from left to right: anode, separator membrane, cathode. Electrolyte fills spaces between solid layers.",
+    "quantity": "",
+    "text": "Label with leader lines: 'Anode (Graphite)', 'Separator', 'Cathode (LiCoO₂)', 'Electrolyte'. Chemical formulas must have correct subscripts including 'LiCoO₂'.",
+    "constraint": "The diagram must use ONLY gray, copper, yellow, light blue, white background, and black (for text and leader lines). Leader lines must be thin black arrows pointing precisely to components. No gradient fills allowed.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_91",
+    "title": "Mortise and Tenon Joint Diagram",
+    "task": "An architecture school needs a technical drawing showing traditional Chinese wooden joint construction for a preservation course. The drawing must be precise and educational, for architecture students. This is an exploded isometric view. The drawing must not include nails or modern fasteners.",
+    "pairing": "The mortise piece must be dark brown wood grain. The tenon piece must be light brown wood grain.",
+    "layout": "Isometric exploded view with tenon piece positioned above and separated from mortise piece. Alignment guides must show insertion path downward.",
+    "quantity": "Exactly two wooden pieces visible. Exactly three dashed construction lines indicating alignment.",
+    "text": "",
+    "constraint": "The illustration must use ONLY dark brown, light brown, and black on white background. Wood grain must be shown with parallel lines only. No photorealistic textures or shading allowed.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Schematic_Diagram",
+      "#Isometric_View",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_92",
+    "title": "Turbofan Engine Cross-Section",
+    "task": "An aerospace engineering department needs a cutaway diagram of a jet engine for their propulsion course. The diagram must be technically accurate, for engineering students. This is a longitudinal cross-section. The diagram must not show external nacelle or mounting hardware.",
+    "pairing": "Fan blades must be dark gray. The combustion chamber must be orange-red. Turbine blades must be silver.",
+    "layout": "",
+    "quantity": "Exactly five stages visible: one fan stage, one compressor, one combustor, one turbine, one nozzle.",
+    "text": "Label with leader lines from left to right: 'Fan', 'Axial Compressor', 'Combustion Chamber', 'High-Pressure Turbine', 'Exhaust Nozzle'. Airflow arrows labeled 'Primary Airflow'.",
+    "constraint": "The diagram must use ONLY dark gray, orange-red, silver, white background, and black (for text and leader lines). All leader lines must be straight black arrows pointing to exact component centers. Background must be solid white only.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_93",
+    "title": "Fantasy Knight Character Sheet",
+    "task": "Our game studio needs a character reference sheet for a medieval RPG. The sheet must show the character design clearly, for 3D modelers and concept artists. This is a character design breakdown. The sheet must not include any background scenery or action poses.",
+    "pairing": "The main character must wear silver armor. All three views must show the same silver armor design. The sword detail must have a golden hilt.",
+    "layout": "Center: full-body front view of the knight. Left side: full-body side view. Right side: full-body back view. Bottom: sword and shield detail.",
+    "quantity": "Exactly three full-body views and exactly one weapon detail callout must be visible.",
+    "text": "",
+    "constraint": "The sheet must use ONLY silver, gold, dark blue (for fabric), and white background. All detail boxes must have identical thin black borders. No shading gradients allowed.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Schematic_Diagram",
+      "#Full_Body_Shot",
+      "#Vector_Flat",
+      "#Fantasy_Mythic"
+    ]
+  },
+  {
+    "task_id": "co_94",
+    "title": "Cyberpunk Character Breakdown",
+    "task": "A concept art team needs a character design sheet for a sci-fi game protagonist. The layout must clearly show all equipment details, for the modeling team. This is a character reference sheet. The sheet must not show multiple poses or expressions.",
+    "pairing": "The main figure must have neon blue cybernetic arms. The arm detail callout must show the same neon blue circuitry. The jacket must be black leather.",
+    "layout": "Center: character in neutral standing pose. Left side: cybernetic arm detail. Right side: neural interface port close-up. Bottom: combat boots detail.",
+    "quantity": "",
+    "text": "Each detail box must be labeled: 'Cybernetic Arm V2.1', 'Neural Port (Cervical)', 'Tactical Boots MK3'. The title 'ASSET: GHOST_RUNNER' must appear at top.",
+    "constraint": "The sheet must use ONLY neon blue, black, red (warning lights), white (for text and labels), and dark gray background. All callout boxes must be uniform rectangles. No artistic flourishes or decorative borders permitted.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Full_Body_Shot",
+      "#Cel_Shaded",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_95",
+    "title": "Victorian Dress Design Sheet",
+    "task": "A costume designer needs a fashion plate showing a historical gown for a period drama production. The illustration must show decorative details clearly, for the tailoring team. This is a costume design breakdown. The illustration must not include any models or facial features.",
+    "pairing": "The main dress must be burgundy velvet. The fabric detail must show the same burgundy with visible texture lines. The lace trim must be cream-colored.",
+    "layout": "Center: full dress on a dress form. Upper-right: bodice decorative detail. Lower-right: skirt hem and train detail. Upper-left: sleeve detail showing puffed shoulder.",
+    "quantity": "Exactly one central dress and exactly three decorative detail callouts must be shown.",
+    "text": "",
+    "constraint": "The illustration must use ONLY burgundy, cream, gold (for buttons), and beige background. All detail callouts must have dashed border lines. Fabric texture must be indicated with parallel hatching only.",
+    "category": [
+      "#Object",
+      "#Schematic_Diagram",
+      "#Full_Body_Shot",
+      "#Traditional_Media",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_96",
+    "title": "Steampunk Gadget Blueprint",
+    "task": "An industrial designer needs a technical illustration of a fictional device for a tabletop RPG rulebook. The design must show mechanical details, for game illustrators. This is a technical breakdown illustration. The image must not show the device in use or any human hands.",
+    "pairing": "The main device body must be brass-colored. The gear mechanisms in the detail must be the same brass. The glass viewing port must be transparent blue-tinted.",
+    "layout": "Center: assembled device in isometric view. Top-left: internal gear mechanism exploded view. Bottom-right: control panel detail. A small human silhouette for scale reference must be in the corner.",
+    "quantity": "Exactly one central device, exactly two detail callouts, and exactly one scale reference figure must be present.",
+    "text": "",
+    "constraint": "The sheet must use ONLY brass/copper tones, blue-tinted glass areas, cream background, and black (for lines and labels). No dimension lines or measurements allowed. No photorealistic rendering or shadows allowed.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Schematic_Diagram",
+      "#Isometric_View",
+      "#Vector_Flat",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_97",
+    "title": "Anime Magical Girl Transformation",
+    "task": "An animation studio needs a character transformation reference for a magical girl anime. The sheet must show costume change clearly, for animators. This is an animation reference sheet. The sheet must not include motion lines or effects.",
+    "pairing": "The civilian outfit must be a yellow school uniform. The magical costume must be pink with white ribbons. Both versions must have the same purple hair color.",
+    "layout": "Two full-body figures side-by-side: left showing civilian form, right showing magical form. Below both figures: three accessories arranged in a horizontal row.",
+    "quantity": "",
+    "text": "Label the left figure 'Civilian Form'. Label the right figure 'Magical Form'. Each accessory must be labeled: 'Star Wand', 'Heart Brooch', 'Winged Boots'.",
+    "constraint": "The sheet must use ONLY yellow, pink, white, purple, black (for outlines and text), and light blue background. Both figures must be in identical standing poses. No background patterns or decorative elements allowed.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Full_Body_Shot",
+      "#Cel_Shaded",
+      "#Cute_Pop",
+      "#Fantasy_Mythic"
+    ]
+  },
+  {
+    "task_id": "co_98",
+    "title": "Japanese Tea Ceremony Set Layout",
+    "task": "A cultural museum needs a photographic layout of traditional tea ceremony items for an exhibition catalog. The image must show each item clearly, for educational purposes. This is a museum catalog photograph. The image must not include any hands or people.",
+    "pairing": "The tea bowl must be black ceramic. The tea whisk must be natural bamboo. The tea caddy must be lacquered red.",
+    "layout": "Top-down knolling view on a neutral gray background. Center: tea bowl. Top: tea scoop and whisk arranged horizontally. Right: tea caddy. Left: folded silk cloth.",
+    "quantity": "Exactly five items must be visible and evenly spaced with no overlapping.",
+    "text": "",
+    "constraint": "The photograph must use ONLY natural material colors (black ceramic, bamboo, red lacquer, cream silk) on neutral gray background. Lighting must be soft and even with no harsh shadows. All items must be photographed from directly above at 90 degrees.",
+    "category": [
+      "#Object",
+      "#Knolling_Layout",
+      "#Photorealistic",
+      "#Retro_Vintage",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_99",
+    "title": "Vintage Camera Equipment Flat Lay",
+    "task": "A photography magazine needs a styled flat-lay image of analog photography gear for a retro feature article. The composition must be balanced and aesthetic, for photography enthusiasts. This is editorial product photography. The image must not include any digital devices or modern accessories.",
+    "pairing": "The camera body must be black metal. The leather case must be brown. The film rolls must have yellow Kodak packaging.",
+    "layout": "Overhead 90-degree view on a beige kraft paper background. Center: vintage camera body. Top-left: leather case opened flat. Bottom-right: three film canisters arranged in a row. Top-right: lens cap and cleaning cloth.",
+    "quantity": "Exactly three film rolls must be visible. All items must be arranged with equal spacing and no overlap.",
+    "text": "",
+    "constraint": "The photograph must use ONLY black (camera), brown (leather), yellow (film packaging), silver (metal parts), and beige kraft paper background. No colored filters or editing effects allowed. All items must cast minimal soft shadows only.",
+    "category": [
+      "#Object",
+      "#Knolling_Layout",
+      "#Photorealistic",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_100",
+    "title": "Barista Tools Knolling Layout",
+    "task": "A coffee equipment company needs a clean product photograph for their website homepage. The layout must showcase their professional tools, for cafe owners. This is commercial product photography. The photograph must not include any coffee beans or beverages.",
+    "pairing": "The portafilter must be chrome metal. The tamper must have a wooden handle. The milk pitcher must be stainless steel silver.",
+    "layout": "Overhead 90-degree view. Items arranged in two horizontal rows of three items each.",
+    "quantity": "Exactly six tools must be present: one portafilter, one tamper, one milk pitcher, one knock box, one distribution tool, and one cleaning brush.",
+    "text": "A small light gray card in the top-left corner must read 'PRO BARISTA KIT' in black sans-serif font.",
+    "constraint": "The photograph must use ONLY chrome, stainless steel, wood tones, matte black, light gray (card only), and pure white background. All items must be photographed from directly above at 90 degrees. No reflections or shadows except directly beneath items.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Knolling_Layout",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_101",
+    "title": "Traveler's EDC Flat Lay",
+    "task": "A travel blog needs an overhead shot of essential carry items for a minimalist packing guide. The arrangement must look organized and intentional, for travel enthusiasts. This is lifestyle flat-lay photography. The image must not include any electronic chargers or passport.",
+    "pairing": "The notebook must be brown leather-bound. The pen must be matte black. The sunglasses must have tortoise-shell frames.",
+    "layout": "Bird's eye view on a canvas background. Top row: sunglasses and watch. Middle row: leather notebook opened flat with pen placed diagonally across. Bottom row: wallet and keychain.",
+    "quantity": "",
+    "text": "The opened notebook must show a visible handwritten text reading 'TRAVEL LIGHT' on the left page.",
+    "constraint": "The photograph must use ONLY brown leather tones, black, tortoise-shell amber, silver (watch), and tan canvas background. All items must be arranged in perfect horizontal and vertical alignment. Natural daylight only with no artificial lighting.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#Knolling_Layout",
+      "#Photorealistic",
+      "#Retro_Vintage",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_102",
+    "title": "Skincare Routine Product Layout",
+    "task": "A beauty brand needs a minimalist product photograph for Instagram marketing. The layout must showcase their skincare line, for beauty consumers. This is social media product photography. The photograph must not include any makeup items or brushes.",
+    "pairing": "The serum bottles must be frosted glass. The cream jar must be white ceramic. The packaging boxes must be sage green.",
+    "layout": "Top-down view on a marble surface. Three products arranged in a triangular composition: serum bottle top, cream jar bottom-left, toner bottle bottom-right. Their respective boxes positioned behind each product.",
+    "quantity": "Exactly three glass/ceramic containers and exactly three matching boxes must be visible.",
+    "text": "",
+    "constraint": "The photograph must use ONLY frosted glass (translucent white), white ceramic, sage green (boxes), and white marble background. Soft natural lighting only. No colored gels or dramatic shadows permitted.",
+    "category": [
+      "#Object",
+      "#Knolling_Layout",
+      "#Photorealistic",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_103",
+    "title": "Mechanical Watch Exploded Diagram",
+    "task": "A watchmaking school needs an educational illustration showing watch movement components for their horology course. The diagram must clearly show each part, for watch repair students. This is a technical exploded view diagram. The diagram must not show the watch case or strap.",
+    "pairing": "The base plate must be gold-colored. The gears must be silver. The jewel bearings must be ruby red.",
+    "layout": "Exploded axonometric view showing vertical separation. Bottom: base plate. Middle layer: gear train components suspended above. Top: escapement mechanism. All parts aligned on central axis.",
+    "quantity": "Exactly one base plate, exactly seven gears of varying sizes, and exactly three ruby jewels must be visible.",
+    "text": "",
+    "constraint": "The diagram must use ONLY gold (base plate), silver (gears), ruby red (jewels), and white background. All parts must be rendered in flat technical illustration style. No photorealistic shading or reflections allowed.",
+    "category": [
+      "#Object",
+      "#Schematic_Diagram",
+      "#Isometric_View",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_104",
+    "title": "Lightsaber Hilt Exploded View",
+    "task": "A prop maker needs a technical breakdown of a sci-fi weapon design for a fan film production. The illustration must show internal components, for the fabrication team. This is a prop blueprint illustration. The illustration must not show the blade or any glowing effects.",
+    "pairing": "The outer shell must be gunmetal gray. The kyber crystal chamber must be transparent with blue internal crystal. The grip section must be black rubber texture.",
+    "layout": "Horizontal exploded view from left to right. Components separated along centerline: emitter shroud, focusing lens, crystal chamber, power cell, grip, pommel cap.",
+    "quantity": "",
+    "text": "Each component must be labeled with technical callouts: 'Emitter Matrix', 'Focusing Crystal', 'Kyber Chamber', 'Diatium Power Cell', 'Activation Stud', 'Pommel'. A title block must read 'LIGHTSABER SCHEMATIC MK-VII'.",
+    "constraint": "The illustration must use ONLY gunmetal gray, black, blue (crystal), silver (internal parts), white (for text and labels), and dark blue grid background. All components must be aligned on a single horizontal axis. Labels must use monospace technical font only.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#Typography",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_105",
+    "title": "Burger Layer Explosion Diagram",
+    "task": "A fast-food chain needs a playful illustration showing burger construction for menu signage. The image must clearly show all ingredients, for customers. This is a commercial food illustration. The illustration must not show any hands or plates.",
+    "pairing": "The top bun must be golden brown with sesame seeds. The cheese slice must be orange. The patty must be dark brown with grill marks.",
+    "layout": "Vertical exploded view with ingredients stacked above each other with gaps. From top to bottom: top bun, lettuce, tomato, cheese, patty, pickles, bottom bun.",
+    "quantity": "Exactly seven distinct layers must be visible with equal spacing between each layer.",
+    "text": "",
+    "constraint": "The illustration must use ONLY realistic food colors (brown buns and patty, orange cheese, red tomato, green lettuce, yellow pickles), black (for outlines), on a solid white background. All ingredients must be perfectly centered on a vertical axis. Illustration must be in clean vector style with no gradients.",
+    "category": [
+      "#Object",
+      "#Schematic_Diagram",
+      "#Vector_Flat",
+      "#Cute_Pop",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_106",
+    "title": "Morning Routine Four-Panel Comic",
+    "task": "A lifestyle blog needs a simple comic strip about daily routines for their wellness section. The comic must be relatable and clean, for general readers. This is a slice-of-life comic strip. The comic must not include any speech bubbles inside panels.",
+    "pairing": "The main character must have black hair in all four panels. The character must wear a blue shirt in all panels. The alarm clock must be red.",
+    "layout": "Standard horizontal four-panel layout. Panel 1: character asleep with alarm ringing. Panel 2: character groggily sitting up. Panel 3: character stretching. Panel 4: character smiling while holding coffee mug.",
+    "quantity": "Exactly four panels of equal size arranged horizontally. The same character must appear in all four panels.",
+    "text": "Below each panel, captions must read: 'Panel 1: 6:00 AM', 'Panel 2: Wake up', 'Panel 3: Stretch', 'Panel 4: Ready for the day'.",
+    "constraint": "The comic must use ONLY black (hair and outlines), blue (shirt), red (alarm clock), and white background. All panels must have identical dimensions. Art style must be simple line art with flat colors only.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Sequential_Panel",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_107",
+    "title": "Lost Key Comedy Strip",
+    "task": "A webcomic creator needs a relatable humor strip about everyday frustrations. The strip must be expressive and clear, for webcomic readers. This is a comedy comic strip. The strip must not include any background scenery or furniture.",
+    "pairing": "The protagonist must wear a green jacket in all panels. The keys must have a yellow keychain. The pockets must be clearly visible as part of the green jacket.",
+    "layout": "Four panels in a horizontal row. Panel 1: character looking worried. Panel 2: character frantically searching. Panel 3: character looking defeated. Panel 4: character with surprised expression pulling keys from pocket.",
+    "quantity": "Exactly four square panels arranged horizontally. The same character must appear in all four panels with consistent design.",
+    "text": "Below panels, captions must read: 'Looking for keys', 'Checking everywhere', 'Giving up', 'They were in my pocket'.",
+    "constraint": "The comic must use ONLY green (jacket), yellow (keychain), black (outlines and hair), and white background. Character expressions must be the only variation between panels. No gradient or shading effects allowed.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Sequential_Panel",
+      "#Vector_Flat",
+      "#Cute_Pop"
+    ]
+  },
+  {
+    "task_id": "co_108",
+    "title": "Plant Growth Sequence Comic",
+    "task": "A science teacher needs an educational comic showing plant development for elementary students. The comic must be simple and clear, for young learners. This is an educational sequential illustration. The comic must not include any insects or animals.",
+    "pairing": "The soil must be brown in all four panels. The sprout and mature plant must be green. The seed must be tan-colored.",
+    "layout": "Four panels arranged horizontally showing time progression. Panel 1: seed in soil cross-section. Panel 2: small sprout emerging. Panel 3: young plant with two leaves. Panel 4: full-grown plant with flowers.",
+    "quantity": "Exactly four panels. Each panel must show only one plant at different growth stages.",
+    "text": "",
+    "constraint": "The illustration must use ONLY brown (soil), green (plant parts), tan (seed), yellow (flower), and light blue background. All panels must show the same soil line at identical height. Style must be flat educational illustration with no textures.",
+    "category": [
+      "#Object",
+      "#Environment",
+      "#Sequential_Panel",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_109",
+    "title": "Magic Spell Casting Sequence",
+    "task": "A fantasy game studio needs a spell-casting animation reference for their combat system. The sequence must show clear progression, for game animators. This is a game animation reference sheet. The sheet must not include any enemies or background effects.",
+    "pairing": "The mage character must wear purple robes in all four panels. The magical energy must be cyan blue. The staff must be brown wood with a crystal top.",
+    "layout": "Four panels in a horizontal row. Panel 1: mage standing with staff lowered. Panel 2: raising staff upward. Panel 3: staff fully raised overhead with energy gathering. Panel 4: releasing energy forward.",
+    "quantity": "",
+    "text": "Below the sequence, labels must read 'FRAME 1: Ready', 'FRAME 2: Channel', 'FRAME 3: Charge', 'FRAME 4: Cast'. A title must read 'ARCANE BOLT - ANIMATION FRAMES'.",
+    "constraint": "The sequence must use ONLY purple (robes), cyan (magic effect), brown (staff), white (for text and labels), and gray neutral background. The character must maintain identical design across all frames. No motion blur or speed lines permitted.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Typography",
+      "#Sequential_Panel",
+      "#Cel_Shaded",
+      "#Fantasy_Mythic"
+    ]
+  },
+  {
+    "task_id": "co_110",
+    "title": "Detective Investigation Storyboard",
+    "task": "A film student needs a storyboard sequence for a noir short film. The boards must show camera angles clearly, for a cinematography class. This is a film storyboard. The boards must not include any dialogue or sound effect notations.",
+    "pairing": "The detective must wear a gray trench coat in all panels. The mysterious letter must be cream-colored. The desk lamp must cast yellow light.",
+    "layout": "Three wide panels stacked vertically. Panel 1: wide shot of detective at desk. Panel 2: close-up of detective's face reading. Panel 3: extreme close-up of detective's hands holding the letter.",
+    "quantity": "Exactly three storyboard panels. The detective must appear in all three panels.",
+    "text": "",
+    "constraint": "The storyboard must use ONLY grayscale tones with yellow accent (lamp light only). All three panels must have identical width. Style must be rough sketch with hatching for shadows only.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Sequential_Panel",
+      "#Traditional_Media",
+      "#Horror_Dark"
+    ]
+  },
+  {
+    "task_id": "co_111",
+    "title": "Kung Fu Training Montage Boards",
+    "task": "A martial arts film production needs storyboards for a training sequence. The boards must show action progression clearly, for the fight choreographer. This is an action storyboard sequence. The boards must not show any weapons or multiple characters.",
+    "pairing": "The student must wear a white gi uniform in all three panels. The training courtyard ground must be gray stone. The wooden training dummy must be brown.",
+    "layout": "Three horizontal panels arranged vertically. Panel 1: student practicing stance (wide shot). Panel 2: student striking dummy (medium shot). Panel 3: student's focused expression (close-up).",
+    "quantity": "Exactly three panels with the same character. Only one training dummy must appear in panel 2.",
+    "text": "",
+    "constraint": "The storyboard must use ONLY black ink line art on white background with gray tone shading. Panels must be in standard widescreen format. Motion lines are permitted ONLY in panel 2.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Environment",
+      "#Sequential_Panel",
+      "#Traditional_Media",
+      "#Retro_Vintage"
+    ]
+  },
+  {
+    "task_id": "co_112",
+    "title": "Fitness Tracker Mobile App Dashboard",
+    "task": "A health tech startup needs a clean mobile app interface for their fitness tracking application. The design must be intuitive and modern, for health-conscious users. This is a mobile app UI mockup. The interface must not include any user profile photos or social features.",
+    "pairing": "The step count card must have a blue background. The calorie card must have an orange background. The water intake card must have a cyan background.",
+    "layout": "Mobile screen mockup in portrait orientation. Top: header with date. Middle: three metric cards stacked vertically (steps, calories, water). Bottom: navigation bar with icons.",
+    "quantity": "Exactly three metric cards and exactly four navigation icons must be visible.",
+    "text": "",
+    "constraint": "The interface must use ONLY blue, orange, cyan, white, light gray, and black (for text). All cards must be rounded rectangles with identical corner radius. Font must be sans-serif only throughout.",
+    "category": [
+      "#Data_Element",
+      "#UI_Interface",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_113",
+    "title": "E-commerce Product Page Interface",
+    "task": "An online retailer needs a product detail page design for their mobile app redesign. The layout must be clean and conversion-focused, for online shoppers. This is a mobile app UI mockup. The page must not include any customer reviews or ratings.",
+    "pairing": "The 'Add to Cart' button must be green. The 'Buy Now' button must be orange. The product image placeholder must be light gray.",
+    "layout": "Mobile screen in portrait orientation. Top: large product image area. Below: product title, price, description text, then two action buttons stacked vertically.",
+    "quantity": "",
+    "text": "Product title must read 'PRODUCT NAME'. Price must show '$99.99'. Buttons must be labeled 'ADD TO CART' and 'BUY NOW'.",
+    "constraint": "The interface must use ONLY green, orange, black (text), light gray (image area), and white background. All buttons must be full width. Typography must be sans-serif with consistent sizing.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#UI_Interface",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_114",
+    "title": "Music Player App Interface",
+    "task": "A streaming service needs a now-playing screen design for their music app. The interface must be bold and minimal, for music listeners. This is a mobile app screen mockup. The screen must not include any playlist or queue features.",
+    "pairing": "The play/pause button must be white circle. The progress bar must be red. The album art placeholder must be a purple square.",
+    "layout": "Mobile screen in portrait orientation. Top third: large square album art. Middle: song title and artist name. Bottom third: playback controls with progress bar above and play button centered below.",
+    "quantity": "Exactly one large album art area, one progress bar, and exactly five control buttons (previous, play, next, shuffle, repeat) must be visible.",
+    "text": "",
+    "constraint": "The interface must use ONLY white (buttons and text), red (progress bar), purple (album art area), and black background. Album art must be a perfect square. All control icons must be simple line icons only.",
+    "category": [
+      "#Object",
+      "#Data_Element",
+      "#UI_Interface",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_115",
+    "title": "Banking App Transaction Screen",
+    "task": "A fintech company needs a transaction history interface for their mobile banking app. The design must be trustworthy and clear, for bank customers. This is a financial app UI mockup. The interface must not show any advertisements or promotional banners.",
+    "pairing": "Incoming transactions must have green indicators. Outgoing transactions must have red indicators. The account balance card must have a dark blue background.",
+    "layout": "Mobile screen layout. Top: balance card showing total. Below: scrollable list of transactions, each row showing icon, description, and amount aligned right.",
+    "quantity": "Exactly one balance card at top and exactly five transaction rows must be visible in the list.",
+    "text": "",
+    "constraint": "The interface must use ONLY dark blue (balance card), green (income), red (expense), black (text), and white background. All transaction amounts must be right-aligned. Font must be clean sans-serif throughout.",
+    "category": [
+      "#Data_Element",
+      "#Typography",
+      "#UI_Interface",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_116",
+    "title": "Weather App Home Screen",
+    "task": "A weather service needs a main screen design for their mobile application. The interface must be clear and glanceable, for daily users. This is a weather app UI mockup. The screen must not include any hourly forecasts or weather alerts.",
+    "pairing": "The temperature display must be white text. The weather condition icon must be yellow (sun). The background gradient must transition from light blue at top to darker blue at bottom.",
+    "layout": "",
+    "quantity": "Exactly one large temperature number, one weather icon, one location name, and exactly four daily forecast cards arranged horizontally must be visible.",
+    "text": "Location must show city name. Temperature must display number with degree symbol. Condition must read weather state. Each forecast card must show abbreviated day names.",
+    "constraint": "The interface must use ONLY white (text), yellow (sun icon), and blue gradient background. All text must be centered. Forecast cards must be identical in size and spacing.",
+    "category": [
+      "#Environment",
+      "#Data_Element",
+      "#UI_Interface",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_117",
+    "title": "Recipe App Card Interface",
+    "task": "A cooking app startup needs a recipe browsing interface for their food application. The design must be appetizing and intuitive, for home cooks. This is a recipe discovery UI mockup. The interface must not include any cooking timers or ingredient lists.",
+    "pairing": "The difficulty badge must be green for 'EASY'. The cuisine tag must be orange. Recipe card borders must be light gray.",
+    "layout": "Vertical scrolling layout showing three recipe cards stacked vertically. Each card structure: food image at top (square format), recipe name and details below, tags at bottom. Bottom navigation bar with three icons.",
+    "quantity": "Exactly three recipe cards and exactly three bottom navigation icons must be visible.",
+    "text": "",
+    "constraint": "The interface must use ONLY green (difficulty badges), orange (cuisine tags), light gray (card borders), black (text), and white background. All three cards must be identical in dimensions. Food image areas must be perfect squares.",
+    "category": [
+      "#Object",
+      "#Typography",
+      "#UI_Interface",
+      "#Vector_Flat",
+      "#Corporate_Clean"
+    ]
+  },
+  {
+    "task_id": "co_118",
+    "title": "Anime Shrine Maiden Portrait",
+    "task": "A visual novel studio needs a character portrait for their fantasy game. The portrait must be elegant and detailed, for anime game fans. This is a character illustration for game dialogue scenes. The portrait must not include any background scenery or action effects.",
+    "pairing": "The character must have long white hair with red ribbon. The shrine maiden outfit must be traditional red and white. The eyes must be golden amber color.",
+    "layout": "Portrait composition showing head and shoulders. Character facing slightly toward viewer at three-quarter angle. Hair flowing naturally over one shoulder.",
+    "quantity": "",
+    "text": "",
+    "constraint": "The illustration must use ONLY white (hair), red (outfit and ribbon), gold (eyes), black (for outlines), and soft gradient background from cream to light pink. Cel-shaded anime style only. No photorealistic shading or textures permitted.",
+    "category": [
+      "#Character",
+      "#Portrait_CloseUp",
+      "#Cel_Shaded",
+      "#Fantasy_Mythic"
+    ]
+  },
+  {
+    "task_id": "co_119",
+    "title": "Cyberpunk Netrunner Portrait",
+    "task": "A sci-fi RPG developer needs a character portrait for their hacker class. The portrait must be edgy and high-tech, for cyberpunk fans. This is a character portrait for game UI. The portrait must not show any weapons or hands.",
+    "pairing": "The character must have short cyan-colored hair. Neural interface cables must be neon pink. The jacket must be black leather with reflective panels.",
+    "layout": "Portrait framing showing head and upper shoulders. Character facing forward with slight tilt. Neural cables visible connecting to temple area.",
+    "quantity": "Exactly three neural cables must be visible plugged into the character's temple. Exactly two small holographic icons must float beside the character's head.",
+    "text": "",
+    "constraint": "The portrait must use ONLY cyan (hair), neon pink (cables), black (jacket), green and blue (hologram icons), and dark purple background. Cyberpunk aesthetic with sharp digital edges. No soft gradients allowed.",
+    "category": [
+      "#Character",
+      "#Object",
+      "#Portrait_CloseUp",
+      "#Cel_Shaded",
+      "#SciFi_Cyberpunk"
+    ]
+  },
+  {
+    "task_id": "co_120",
+    "title": "Gothic Vampire Noble Portrait",
+    "task": "A gothic visual novel needs a character portrait for an aristocratic vampire. The portrait must be dramatic and elegant, for dark fantasy fans. This is a character CG illustration. The portrait must not include any blood or fangs prominently displayed.",
+    "pairing": "The character must have pale skin. The hair must be jet black with silver highlights. The Victorian collar must be deep crimson with gold embroidery.",
+    "layout": "Formal portrait composition, head and upper torso visible. Character positioned centrally with regal posture. One hand visible near collar in aristocratic gesture.",
+    "quantity": "Exactly two golden brooches must be visible on the collar. The character must have heterochromia: left eye red, right eye violet.",
+    "text": "",
+    "constraint": "The portrait must use ONLY pale cream (skin), black and silver (hair), crimson and gold (clothing), red and violet (eyes), and dark gradient background from black to deep purple. Oil painting aesthetic with rich color depth. No flat anime styling allowed.",
+    "category": [
+      "#Character",
+      "#Portrait_CloseUp",
+      "#Traditional_Media",
+      "#Fantasy_Mythic",
+      "#Horror_Dark"
+    ]
+  }
+]

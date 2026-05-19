@@ -1,0 +1,2642 @@
+[
+  {
+    "task_id": "co_01",
+    "image_path": "images/co/co_01.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Calm, polished, and aspirational tone comes through via the sleek lounge setting, tailored neutral outfit, and uncluttered styling; overall feels high-end and professional."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal hierarchy with the model and drink action centered, supported by clean negative space and balanced tabletop props (tea glass, citrus) creating a tidy, minimalist product-lifestyle frame."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Soft natural daylight with gentle shadows and a cohesive neutral palette; warm amber tea and citrus provide controlled accent colors that read premium and physically plausible."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall rendering is clean, but the hand/glass interaction and some object edges/material cues (notably around tabletop items and reflections) show minor AI-like inconsistencies on closer inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_02",
+    "image_path": "images/co/co_02.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Intense, high-adrenaline gym vibe with gritty industrial setting, sweat/steam, and aggressive lightning effects that clearly sell power and performance."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Strong foreground hero can with crisp branding, dynamic lightning leading lines, and a well-separated background athlete creating clear depth and an eye-guiding focal hierarchy."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cinematic blue-orange contrast and neon accents with believable specular highlights on the wet can and floor reflections; lighting supports the moody, high-energy tone."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "High-quality commercial rendering with sharp typography, convincing condensation droplets, and clean depth-of-field; minor CG feel in some lightning edges/reflections but not distracting."
+      }
+    }
+  },
+  {
+    "task_id": "co_03",
+    "image_path": "images/co/co_03.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Soft watercolor washes, gentle pose, and the tender cradling of a young plant create an immediately serene, hopeful, nurturing tone with no distracting harsh elements."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "A clear central focal subject with hands and sapling forming a strong secondary focal point; flowing hair/vines frame the figure nicely, though the background is minimal and offers limited depth."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious greens and warm neutrals with subtle highlights around the sapling support an optimistic feel; lighting is soft and consistent, enhancing the watercolor aesthetic."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall rendering is clean and painterly, but the hands/fingers show mild anatomical inconsistencies and slightly awkward overlaps typical of generative artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_04",
+    "image_path": "images/co/co_04.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strongly serene bedtime feeling: soft sleeping animals, glowing moon and stars, gentle expressions, and cozy bedding create an immediately calm, dreamy atmosphere."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal point on the bed and characters, with supporting elements (moon above, lantern and pond left, cottage right) balancing the frame and adding depth; slightly busy but still readable for a cover."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious pastel blues/pinks/purples with warm moon and lantern glow; lighting feels consistent and enhances the tranquil nighttime mood."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean watercolor rendering with cute, consistent character forms and no glaring artifacts; minor softness/texture bleeding typical of watercolor but not distracting."
+      }
+    }
+  },
+  {
+    "task_id": "co_05",
+    "image_path": "images/co/co_05.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Clearly cheerful and welcoming: smiling children, friendly dog interactions (hugging/petting), and an upbeat banner message create a warm community adoption-event vibe."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong central focus on the child hugging the large dog, with supporting family-and-dog groups balanced on both sides and readable background activity; slightly busy but still easy to parse."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive warm, pastel palette with gentle shading that reinforces the friendly sketch style; lighting feels evenly daylight-like, though a bit flat."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean hand-drawn rendering with mostly solid anatomy for people and dogs and minimal artifacts; a few minor proportion/perspective simplifications typical of casual illustration."
+      }
+    }
+  },
+  {
+    "task_id": "co_06",
+    "image_path": "images/co/co_06.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong classic-rock energy: roaring crowd silhouettes, blazing sunset/smoke backdrop, big guitar-hero pose, and distressed print texture create an immediate 1970s concert-poster vibe with no futuristic/cyberpunk cues."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Clear hierarchy and focal point: large RockRevival header, centered guitarist as the main subject, supporting drum kit/amps framing the scene, and well-structured banded typography guiding the eye from top to date line."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive warm palette (burnt orange, red, cream, black) and posterized lighting fit the vintage aesthetic; contrast is strong and readable, though the lighting is more graphic than nuanced."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean overall rendering with intentional grain/distress; typography is mostly crisp and legible, and illustration details read well, with only minor roughness in small textures consistent with screenprint wear."
+      }
+    }
+  },
+  {
+    "task_id": "co_07",
+    "image_path": "images/co/co_07.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The pastel green mascot with a soft smile, rosy cheeks, and gentle wave creates an immediately calm, friendly, supportive feel; small hearts and a simple flower reinforce warmth without clutter."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear central focal character with ample negative space and small accent icons balanced around it; composition is clean and readable, though largely straightforward/centered."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive pastel palette (soft greens, light blues, warm yellow accents) supports the soothing tone; flat illustration lighting is consistent and pleasant but not especially nuanced."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "Crisp vector-like edges, consistent line weight, and clean shapes with no visible artifacts or distortions; anatomy and details (paw, face) are intentionally stylized and well-executed."
+      }
+    }
+  },
+  {
+    "task_id": "co_08",
+    "image_path": "images/co/co_08.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Very high-energy, motivational feel with aggressive paint-splash accents, intense athletic poses, and bold typography that reads as a dynamic fitness promo."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong central hero figure with supporting athletes creating depth; large headline type anchors the bottom well, though some background elements feel slightly crowded behind the main text."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive high-contrast palette (black/white with saturated red, yellow, and blue) and punchy lighting that enhances muscle definition; a bit stylized but consistent with photo-manip poster design."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall sharp rendering and convincing cutout/composite edges, but some smaller details (hands/props and a few transitions between subjects and background effects) look slightly artificial on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_09",
+    "image_path": "images/co/co_09.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The image perfectly captures the requested 'cute and friendly' tone. The panda's expression is warm, cheerful, and approachable, making it an ideal candidate for a brand mascot."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "The composition is clean and well-balanced, placing the subject centrally against a plain background. This effectively minimizes clutter and focuses entirely on the character, fulfilling the 'minimalistic' requirement."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "The color palette is pleasing, with the soft mint background contrasting nicely against the black and white subject. The shading is excellent, providing volume and a professional 'finished illustration' look."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "The rendering is flawless with crisp lines and smooth gradients. There are no visible artifacts, anatomical distortions, or inconsistencies; it looks like a professionally drawn vector asset."
+      }
+    }
+  },
+  {
+    "task_id": "co_10",
+    "image_path": "images/co/co_10.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, neutral turnaround-sheet presentation with a friendly cartoon vibe; the tone is professional and consistent with a modeler-facing reference."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Front/profile/back views are clearly separated and evenly spaced in a straightforward row, making the silhouette and proportions easy to read; minor limitation is the lack of grid/labels for stricter production clarity."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive cel-shaded palette (warm neutrals with blue jeans) and consistent, simple shading that supports form readability without distracting highlights."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Linework and cel shading are mostly clean and consistent across views, but there are small proportional inconsistencies between angles (notably head/neck and limb thickness) and subtle rendering oddities in shoe/hand shapes that reduce model-sheet precision."
+      }
+    }
+  },
+  {
+    "task_id": "co_11",
+    "image_path": "images/co/co_11.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Immediately cheerful and welcoming: big sparkling eyes, open smile, rosy cheeks, and a waving paw create a playful, cute mascot vibe with no aggression."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clean studio background with a centered, full-body character and a clear focal point; the raised paw and tail add dynamism, though the framing is fairly standard."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious palette (warm orange/cream balanced by bright blue hoodie) with soft, even studio lighting that gives pleasing volume and glossy toy-like highlights."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "Smooth high-quality 3D render with consistent materials, clean edges, accurate anatomy/proportions for a stylized toy, and no visible artifacts or distortions."
+      }
+    }
+  },
+  {
+    "task_id": "co_12",
+    "image_path": "images/co/co_12.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong magical-girl energy comes through immediately via the action pose, bright star/sparkle effects, and swirling aura, creating a lively, upbeat atmosphere suited to a mobile anime game."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal subject with a dynamic diagonal pose and circular magical trails that guide the eye; framing is strong though the V-sign hand is close to the edge and slightly crowds the upper-right."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Vibrant, cohesive pink/blue palette with readable cel-shaded lighting and well-placed glow accents that enhance depth and motion without muddying the character silhouette."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean cel-shaded rendering with solid anatomy and costume detailing; minor stiffness in hand/gesture and some edge tangents around effects, but no major artifacts and no wings present."
+      }
+    }
+  },
+  {
+    "task_id": "co_13",
+    "image_path": "images/co/co_13.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "The upright stance, broad shoulders, and large sci-fi sword read as heroic and confident, matching a JRPG protagonist vibe; the neutral backdrop keeps the tone clean but slightly less dramatic than it could be."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Full-body, centered framing with clear silhouette and strong readability; the oversized sword adds shape variety and interest, though the pose and camera are fairly straightforward with limited depth."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive blue/white/gold palette with controlled saturation feels on-brand for cel-shaded JRPG armor; lighting is soft and even with clear edge definition, but not especially cinematic or high-contrast."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean cel-shaded linework and consistent materials with solid anatomy and proportions; minor issues include slightly simplified fabric folds/armor segmentation and somewhat flat surface shading in places."
+      }
+    }
+  },
+  {
+    "task_id": "co_14",
+    "image_path": "images/co/co_14.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Soft, intimate close-up feel with calm, approachable energy; the overall vibe reads gentle and natural, fitting a skincare brand’s “everyday beauty” intent."
+      },
+      "Visual Composition": {
+        "score": 3,
+        "note": "Tight crop creates a clear subject focus, but the framing feels a bit awkward with heavy negative space and much of the head out of frame, reducing balance and polish."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Warm, window-like light is plausible and flattering, with a cohesive neutral background; tones are consistent though slightly warm-leaning overall."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Generally clean rendering with believable hair strands and skin areas, but there are minor softness/blur issues and some edge transitions (hair/ear) that look a bit processed."
+      }
+    }
+  },
+  {
+    "task_id": "co_15",
+    "image_path": "images/co/co_15.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Reads as a polished, professional corporate portrait with a calm, trustworthy studio feel and minimal distractions."
+      },
+      "Visual Composition": {
+        "score": 3,
+        "note": "Subject is framed in a standard head-and-shoulders crop, but the large visible softbox at frame left and slightly tight top framing reduce the clean corporate look."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Soft, flattering key light with natural-looking falloff and a neutral gray background gradient; muted wardrobe colors feel cohesive and believable."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall sharp and well-rendered clothing/hair, but the visible studio modifier and some slightly unnatural edge transitions around hair/shoulder suggest minor compositing/generation artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_16",
+    "image_path": "images/co/co_16.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The image perfectly captures the requested wholesome, happy vibe. The expressions are joyful and genuine, and the warm atmosphere fits the 'lifestyle stock photo' intent flawlessly."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "The grouping of the family is balanced and creates a strong focal point. The use of depth of field (blurred background) effectively separates the subjects from the environment."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "The lighting is excellent, simulating soft, dappled sunlight in a park. The color palette is natural, warm, and cohesive, enhancing the positive emotional tone."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "The rendering is high-quality overall, but there are minor issues: the object being held (presumably the kite) is somewhat ambiguous in shape, and the father's hand gripping it lacks distinct finger definition."
+      }
+    }
+  },
+  {
+    "task_id": "co_17",
+    "image_path": "images/co/co_17.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Bright, calm, and encouraging wellness vibe; the relaxed stretching pose and clean studio setting feel beginner-friendly and aligned with a health app tone."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal subject with a strong diagonal body line and good use of negative space; framing is slightly tight at the extended hand/foot edge but remains balanced and readable."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Soft, high-key lighting with a neutral background and harmonious pastel/gray wardrobe; illumination looks natural and flattering with gentle shadows and good detail."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall clean rendering with convincing fabric texture and anatomy; minor edge/texture softness and small artifacts around fine details (hair/hand edges) on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_18",
+    "image_path": "images/co/co_18.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong neo-noir tension with heavy rain, wet reflective pavement, deep shadows, and dense blue haze; the lone silhouetted figure and empty street create an immediately mysterious, suspenseful feel with no daylight cues."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal subject in the foreground with strong depth created by receding streetlights and converging alley lines; the neon signage adds a vertical anchor, though the central placement feels slightly conventional."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive cool-blue palette punctuated by saturated neon reds; artificial light sources read plausibly and carve out atmospheric volume via mist, with convincing specular reflections on the rain-slick ground."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall photoreal rendering with convincing rain, reflections, and fog; minor softness and some signage/building texture ambiguity on close inspection, but no major artifacts that break the scene."
+      }
+    }
+  },
+  {
+    "task_id": "co_19",
+    "image_path": "images/co/co_19.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "The image successfully conveys a heroic and powerful tone suitable for a fantasy RPG. The character looks determined and majestic. While the prompt requested 'dynamic posing' and the result is a static standing pose, this is standard for concept art and does not detract significantly from the intended atmosphere of strength."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "The subject is perfectly centered and framed, which is ideal for character concept art. The sword and flowing cloth provide a nice visual balance. The lack of a background focuses attention entirely on the character design, fulfilling the functional requirements of the task."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "The color palette of dark purples, golds, and browns is cohesive and regal, fitting the 'Dragon Warrior' theme. The lighting is clean and effectively highlights the textures of the armor and skin, rendering materials convincingly."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "The rendering is exceptionally clean with no visible generative artifacts. Anatomy is consistent, the face is symmetrical and expressive, and intricate details like the armor filigree and hair are sharp and well-defined."
+      }
+    }
+  },
+  {
+    "task_id": "co_20",
+    "image_path": "images/co/co_20.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "High-energy concert vibe is immediate: jumping crowd silhouettes, dynamic band poses, musical notes and waveform motifs, and explosive radiating shapes create a lively, all-ages celebratory atmosphere."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal band across the midline with crowd framing the bottom, strong left-to-right rhythm and balanced speaker elements; slightly busy with many competing accents, but still readable and poster-like."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Bold, vibrant neon palette (pinks, oranges, teals, blues) feels cohesive and energetic; lighting is intentionally flat vector with clear color blocking, though overall saturation is intense and can feel visually noisy."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean vector-style edges and shapes with no realistic shading or text/speech bubbles; minor simplifications/oddities in instrument details and some tangents/overlaps, but no major artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_21",
+    "image_path": "images/co/co_21.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Stadium floodlights, shallow depth-of-field crowd, and the athlete’s poised stance create a tense, game-ready atmosphere that fits a soccer catalog action vibe, though the moment reads more like a pre-play pause than peak action."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong centered framing from behind clearly emphasizes the jersey name/number, with good background separation and stadium context; however, the subject is very symmetrically placed, making it feel slightly static rather than dynamically composed."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive cool-blue kit against vivid green pitch with believable stadium lighting; highlights and rim light define fabric folds and body volume cleanly without blowing out key details like the 'Axiom' text."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Main player anatomy and jersey text look solid, but the image violates the constraint of 'no other players'—two additional players are visible in the background, which makes it unusable for the specified requirement."
+      }
+    }
+  },
+  {
+    "task_id": "co_22",
+    "image_path": "images/co/co_22.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm, welcoming family-friendly vibe with smiling pets, gentle body language, heart accents, and a cozy park setting that feels inviting and wholesome."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear central focus on the group and larger dog, with balanced framing by the two trees and clustered pets creating a stable, readable scene; depth is present but fairly simple."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive pastel palette (peach, coral, soft greens) with even, soft lighting that supports the friendly tone and keeps all subjects clearly visible."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean cartoon rendering with consistent outlines and solid anatomy for animals; only minor stylization oddities (e.g., simplified hands/overlaps) but nothing distracting."
+      }
+    }
+  },
+  {
+    "task_id": "co_23",
+    "image_path": "images/co/co_23.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm, inviting morning/afternoon feel from sunlit window, natural wood textures, and casual flour mess strongly evokes authentic home baking with no people present."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal area on the floured work surface with bowls and tools, pleasing depth from foreground countertop to softly blurred shelves; slightly right-heavy with the large bowl but still balanced."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive warm neutral palette (wood, cream ceramics) with believable directional window light creating soft highlights and shadows that enhance texture on flour and bowls."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall photoreal and clean with convincing materials and perspective; minor telltales include slightly overly smooth/idealized ceramics and a few ambiguous utensil edges, but no major artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_24",
+    "image_path": "images/co/co_24.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Professional, collaborative tone comes through clearly via business attire, confident gestures, and abstract strategic arrows; overall feels corporate and polished though not especially distinctive."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Group is well-centered with clear focal interaction, balanced left-to-right character distribution, and supportive geometric framing; background shapes are a bit busy but still readable and cohesive."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive palette of deep blues, greys, and whites fits the brief and maintains strong contrast; lighting is intentionally flat and consistent with vector style."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean vector rendering with consistent edges and proportions, no obvious artifacts, and generally solid anatomy; a few small shape overlaps/tangents in the background add slight visual noise."
+      }
+    }
+  },
+  {
+    "task_id": "co_25",
+    "image_path": "images/co/co_25.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong cozy winter ambiance: crackling fireplace, warm lamp glow, layered throws, and frosted/snowy window view create an immediately inviting, classic homeowners’ feel with no people or food present."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal point on the fireplace and mantel, with sofa/armchair grouping and coffee table forming a comfortable conversational layout; good depth and balance, though the framing is fairly conventional."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious warm lighting from fire and lamps contrasts nicely with the cool winter window; muted burgundy/forest green/beige palette reads cohesive and physically plausible with pleasing highlight/shadow modeling."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall photoreal and clean with convincing materials and textures (fabric, wood, firelight); only minor CGI hints in some fabric edges/candle glow and slightly uniform styling, but no distracting artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_26",
+    "image_path": "images/co/co_26.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong warm, cozy cottagecore feel: crackling stone fireplace, soft sunlight through the window, knitted blankets, flowers, books, candles and an oil lantern all reinforce a tranquil “unplugging” vibe with no visible screens."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Balanced, inviting layout with clear focal areas (coffee table vignette in foreground and fireplace as secondary anchor); good depth via layered seating, table, and background shelves, though the text overlay slightly competes with the table focal point."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive amber-gold palette with believable mixed lighting from sun + fire + candles/lantern; pleasing contrast and gentle shadows create volume and a cinematic cozy glow."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "High-quality render with convincing textures (stone, wood, knit) and clean edges; only minor stylized/AI smoothness in some fabrics and small object details, but nothing distracting or unusable."
+      }
+    }
+  },
+  {
+    "task_id": "co_27",
+    "image_path": "images/co/co_27.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong high-tech, sleek sci-fi mood with glossy materials, neon accents, and futuristic aircraft, creating an immersive advanced-hotel atmosphere."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal point on the sweeping hotel facade with layered curves and good depth from the forecourt/landing pad; slightly centered and conventional but well-balanced."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive cool blue/steel palette with convincing dusk lighting, strong specular reflections on wet surfaces, and well-placed interior glows that add volume."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean photoreal rendering with consistent perspective and materials; minor signage/edge crispness and some slightly synthetic reflections suggest small generative artifacts, but nothing distracting."
+      }
+    }
+  },
+  {
+    "task_id": "co_28",
+    "image_path": "images/co/co_28.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Warm, high-end spa-like ambiance with soft indirect lighting, premium materials, and an overall serene luxury feel; slightly less \"wow\" due to a somewhat showroom-generic styling."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong focal point on the freestanding tub with balanced framing between the vanity/mirror on the left and glass partition on the right; good depth via reflections and layered spaces, though the lower-left basket adds minor distraction."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive neutral palette (beige/stone/black accents) with believable recessed and cove lighting; reflections read plausibly, but lighting is a bit uniformly soft, limiting dramatic contrast."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall clean photoreal render, but the scene violates the 'no towels/personal items' constraint (visible towel in mirror, rolled towels in basket, bottles on vanity), and a few small details (fixture edges/reflections) feel slightly CG on close look."
+      }
+    }
+  },
+  {
+    "task_id": "co_29",
+    "image_path": "images/co/co_29.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Bright, calm, upscale-modern feel with clean lines and an inviting, airy ambience; slightly undercut by visible staged items (fruit bowl/boards) that reduce the intended spotless minimalism."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Balanced wide-angle view clearly shows layout (wall cabinetry + island seating) with strong symmetry and clear focal area around the island and cooktop; composition is a bit static/centered but brochure-functional."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive neutral palette (white cabinetry, light wood floor, dark hood) with believable soft daylight from the window and subtle ceiling downlights; lighting is clean though slightly flat in shadow modeling."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall high-quality render, but there are minor realism issues: some materials read slightly synthetic (cabinet/wood), and there is prohibited clutter (fruit, cutting boards, bowls/plate) that makes it less compliant for the brief."
+      }
+    }
+  },
+  {
+    "task_id": "co_30",
+    "image_path": "images/co/co_30.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Bright, airy industrial loft feel with exposed brick, high ceiling, and clean minimalist furniture; reads professional and tech-startup-friendly with no visible paper clutter."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong depth from the receding row of windows and desks; foreground workstation anchors the scene, though the framing is a fairly straightforward wide-angle interior shot without a particularly striking hero focal point."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Neutral, cohesive palette (concrete gray, black metal, warm wood) with believable soft daylight from large windows; lighting is clean but slightly even/flat rather than dramatic."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall high-quality render with consistent perspective and materials; minor telltales include slightly synthetic textures and small object details (chairs/desk accessories) that don’t look perfectly photographic on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_31",
+    "image_path": "images/co/co_31.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The image perfectly captures the requested elegant and sophisticated mood. The grandeur of the high ceilings and the emptiness of the space evoke a serene, high-end luxury atmosphere that aligns precisely with the prompt."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "The composition demonstrates masterful use of one-point perspective and symmetry. The chandelier and floor patterns guide the eye naturally toward the focal point at the rear, creating immense depth and a sense of scale."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "The lighting is cinematic and warm, effectively highlighting the gold accents and wood textures. The reflections on the polished marble floor are stunning and physically plausible, enhancing the feeling of volume and luxury."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "The rendering is exceptionally clean with no visible artifacts. Geometric lines are straight, reflections align correctly with the environment, and textures (marble, velvet, brass) are rendered with photorealistic precision."
+      }
+    }
+  },
+  {
+    "task_id": "co_32",
+    "image_path": "images/co/co_32.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Bright natural light, warm neutrals, and soft textiles create a cozy Scandinavian feel suited to an inviting first-renter studio, though it’s slightly more calm than distinctly “cozy.”"
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Well-balanced open-plan view with clear zoning (kitchen left, living right) and a readable focal area around the sofa/coffee table; depth is good but the sleeping area isn’t visible, reducing the ‘studio layout’ storytelling."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive Scandinavian palette (white, light wood, soft grays) with believable window-driven illumination, gentle shadows, and pleasing highlight roll-off."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall clean photoreal rendering with consistent materials and perspective; minor CGI cues in some textures/edges (e.g., cabinetry and soft furnishings) but no major artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_33",
+    "image_path": "images/co/co_33.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Serene Zen-like calm is immediate: soft daylight through sheer curtains, warm neutral tones, gentle shadows, uncluttered space, and grounding elements (floor cushion, bonsai, stones) create a tranquil, meditative mood."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Balanced, minimalist layout with strong negative space; the round cushion provides a clear focal point while the low table/bonsai on the left and tray/vase on the right counterweight the frame. Slightly static/advertorial but clean and cohesive."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious beige/wood palette with believable natural window light; soft directional highlights and subtle shadow patterns add depth without breaking the calm, and the exposure feels physically plausible."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Photorealistic rendering with convincing materials (fabric cushion, wood grain, plaster wall). Only minor signs of CG smoothness in some textures and edges, but no distracting artifacts; constraints are respected (no electronics, all objects low)."
+      }
+    }
+  },
+  {
+    "task_id": "co_34",
+    "image_path": "images/co/co_34.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Sleek, high-tech ambience is clear through glossy curved architecture, integrated strip lighting, and holographic-style displays; feels futuristic and clean, though slightly more like a sci-fi control room than an office leasing concept."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong depth and flow from the foreground interactive table to the mid-ground workstation and background glass wall/city view; balanced left/right masses with leading ceiling lines, though the frame lacks a single dominant focal point."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive cool palette (whites/greys with cyan UI accents) and well-controlled, physically believable lighting; reflections and highlights on floors and curved surfaces add cinematic volume without washing out detail."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Rendering is very clean with convincing materials and reflections; minor conceptual mismatch with the 'no traditional furniture' constraint due to visible desk/workstation-like elements, but few obvious generative artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_35",
+    "image_path": "images/co/co_35.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The sparse pencil sketch, abundant negative space, and uncluttered furniture convey a calm, clean minimalist mood immediately."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Balanced layout with the sofa anchoring the left and side table/shelf items on the right; clear, readable room perspective and tidy spacing, though overall depth is fairly simple."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Monochrome pencil tones fit the hand-drawn brief; light shading suggests gentle illumination without muddy areas, albeit with intentionally minimal lighting drama."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean linework and coherent perspective with only minor sketchy irregularities; objects read well and there are no distracting artifacts or unwanted decorative details."
+      }
+    }
+  },
+  {
+    "task_id": "co_36",
+    "image_path": "images/co/co_36.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm sepia watercolor/ink treatment and serene campus setting create a welcoming, nostalgic academic mood; no people appear, keeping the scene calm and brochure-appropriate."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "The library is a clear central focal point with symmetrical framing and foreground walkways/steps adding depth; composition is strong but fairly straightforward and centered."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive vintage palette (sepia, gold, earth tones) with believable soft daylight; shadows and highlights give the facade and columns convincing volume."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Rendering is clean with consistent architectural lines and textures; only minor illustration-style softness/texture that slightly reduces crispness in fine details."
+      }
+    }
+  },
+  {
+    "task_id": "co_37",
+    "image_path": "images/co/co_37.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Bright, clean, professional infographic feel with greenery and warm interior lighting that supports an accessible sustainability theme, though the smoky exhaust plume slightly undermines the eco-positive tone."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear isometric cutaway with well-layered interior rooms and rooftop systems; callout lines create an informative layout, though some labels feel scattered and the left-side driveway area pulls attention away from the main cutaway."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Balanced palette (greens, whites, blues) with consistent daylight and warm interior glow; good contrast for readability, but highlights are a bit uniformly bright, reducing depth in some surfaces."
+      },
+      "Technical Flawlessness": {
+        "score": 2,
+        "note": "Notable compliance and clarity issues: a car is clearly present in the driveway (disallowed), perimeter fencing is visible (disallowed), and much of the small label text appears garbled/unreadable, reducing usability as an infographic."
+      }
+    }
+  },
+  {
+    "task_id": "co_38",
+    "image_path": "images/co/co_38.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm, intimate, upscale ambience is strongly conveyed through the lantern glow, rich dark wood, red/deep gold seating, and traditional calligraphy/artwork—feels authentically Chinese with modern refinement."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Strong central symmetry and depth: the foreground round table anchors the scene, lattice screens and ceiling beams create leading lines into the back dining area, and the bar on the right balances the frame without clutter."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive palette of amber lighting, dark woods, and red/gold accents; lighting feels believable (lanterns + recessed lights) with good shadowing and gentle contrast that enhances textures and mood."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall photoreal and clean with consistent perspective and materials; minor repetitiveness/CG uniformity in some place settings and upholstery/wood surfaces keeps it just shy of flawless."
+      }
+    }
+  },
+  {
+    "task_id": "co_39",
+    "image_path": "images/co/co_39.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm string lights, golden-hour sky, plush seating, and abundant greenery create a clearly relaxed, inviting rooftop lounge vibe that fits the young-professional urban cafe intent; no people are present."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong focal points (glowing SkyBloom sign and pergola seating area) with good depth toward the skyline; framing is balanced, though the left signage area is slightly dominant compared to the seating clusters."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive warm/cool contrast (amber bulbs and sunset tones against the blue city dusk) with believable light falloff and pleasing highlights on wood/metal textures and plants."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall clean, realistic render with consistent perspective and materials; only minor CG-like uniformity in some plant clusters and a slightly idealized glow on the signage."
+      }
+    }
+  },
+  {
+    "task_id": "co_40",
+    "image_path": "images/co/co_40.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm daylight, soft textiles, rounded furniture, and playful decor (stars/moon, rainbow) create a cozy, inviting, parent-friendly kids’ room atmosphere."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Adult eye-level view with the table/chairs as a clear focal point, balanced by the reading nook left and storage wall right; good depth, though slightly front-centered and catalog-standard."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious warm neutrals with gentle pastel accents; natural window light reads believable and enhances softness with pleasing, controlled shadows."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean, realistic render with consistent materials and edges; only minor CGI smoothness/repetition in textures (rug/fabric) on closer inspection, no obvious artifacts, and no forbidden screens/devices."
+      }
+    }
+  },
+  {
+    "task_id": "co_41",
+    "image_path": "images/co/co_41.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong neon-nightlife vibe with glowing signage, rooftop lounges, and a futuristic after-dark city mood; feels sleek and magazine-ready."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Well-balanced isometric layout with a clear central entertainment district and surrounding towers creating depth; slightly busy with many similarly weighted buildings competing for attention."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive midnight blue/purple base with electric cyan and magenta accents; lighting reads as believable emissive neon with good contrast and clarity."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean vector-like rendering and consistent isometric perspective with no visible humans/vehicles; minor small-text/signage illegibility and a few edges/glows feel a bit overly uniform."
+      }
+    }
+  },
+  {
+    "task_id": "co_42",
+    "image_path": "images/co/co_42.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Bright, calm, and inviting beach-resort vibe with clear skies, gentle surf, and relaxing lounge setup that strongly fits a summer promotion."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong foreground focal point (umbrella and loungers) with pleasing depth into the shoreline and distant palms; framing by palm fronds helps, though the scene is fairly conventional."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Crisp, sunlit lighting with believable shadows; harmonious turquoise water, warm sand tones, and natural greens create an appealing, realistic palette."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall clean, realistic rendering with coherent textures (thatch, sand, water); only minor potential CG smoothness in some surfaces, but no obvious artifacts or distortions."
+      }
+    }
+  },
+  {
+    "task_id": "co_43",
+    "image_path": "images/co/co_43.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Bright, airy garden-party elegance comes through clearly via dappled sunlight, lush white florals, crisp linens, and sparkling champagne—strongly aligned with upscale bridal/wedding invitation mood."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "The invitation card is a clear focal point framed by flutes and the floral arrangement, with pleasing depth and bokeh; slightly busy tableware competes a bit with the stationery suite."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive palette of whites, greens, warm golds, and rosé tones; sunlight feels natural and cinematic with believable highlights on glass and soft shadow falloff."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall photoreal and clean rendering (glass, linen, flowers), but the invitation text is not fully legible/realistic at close look and a few edges/textures have slight generative softness."
+      }
+    }
+  },
+  {
+    "task_id": "co_44",
+    "image_path": "images/co/co_44.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Serene, upscale evening ambiance is immediately conveyed through warm lanterns/recessed lighting, a glowing fire feature, and a calm twilight skyline backdrop; feels distinctly relaxing and high-end."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong foreground-to-background depth with lounge chairs leading toward the seating/fire pit focal area and city skyline; overall balanced, though the heavy right-side overhang slightly weights the frame."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive blue-hour palette with warm practical lights creates pleasing contrast; reflections on the polished stone and believable falloff from lanterns/fire pit give cinematic realism."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Materials (stone tile, upholstery, glass railing) render cleanly with convincing reflections and edges; only minor CG uniformity in some surfaces/foliage and slightly idealized lighting keeps it from flawless."
+      }
+    }
+  },
+  {
+    "task_id": "co_45",
+    "image_path": "images/co/co_45.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Energetic, upbeat tone conveyed through runners in mid-stride and sporty color accents; overall feels professional and event-focused, though not especially distinctive beyond standard marathon promotion."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear hierarchy with large headline and date centered above, ample negative space, and a strong lower-band action scene; balanced runner group and skyline provide depth without clutter."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive teal-and-orange palette pops against soft grey-blue skyline; subtle shading/gradients add separation while maintaining a clean flat-design look."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall clean vector-style rendering, but there are minor anatomy/prop inconsistencies (notably around the wheelchair and some limb/shape transitions) that read slightly awkward on closer inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_46",
+    "image_path": "images/co/co_46.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm, wholesome bakery feel is immediate: friendly rounded type, bread loaf and honey-drip motif convey sweetness and comfort without feeling harsh or corporate."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear central badge layout with strong hierarchy (script 'Honey' over bold 'CRUMBS'), balanced by the loaf on the left and honey drizzle on the right; slightly top-heavy but still cohesive."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive warm palette of honey yellows, browns, and cream matches the brief; subtle highlights on honey add appeal, though lighting is mostly flat as expected for a flat logo."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean vector-like edges and legible text with no obvious artifacts; minor concern that small crumb dots may lose clarity at very small sizes, but overall rendering is solid."
+      }
+    }
+  },
+  {
+    "task_id": "co_47",
+    "image_path": "images/co/co_47.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "The black/white layout with subtle gold accents and ample negative space conveys a premium, restrained, high-end feel appropriate for sophisticated diners."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "A clean, grid-like brand mockup with clear focal points (main mark and stationery) feels balanced and easy to scan, though it reads more like a presentation board than a single logo lockup."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Neutral beige background, crisp blacks, and muted gold create a cohesive luxury palette; soft shadows and even lighting keep the elements legible and refined."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Rendering is generally clean, but some typography appears slightly garbled/incorrect (e.g., inconsistent letterforms in \"SUSHI\" and other text), which is a noticeable generative artifact for a logo context."
+      }
+    }
+  },
+  {
+    "task_id": "co_48",
+    "image_path": "images/co/co_48.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Bold, competitive varsity energy comes through immediately via the heavy block lettering, shield shape, and dynamic angular accents; clearly athletic and jersey-ready with no mascot/animal elements."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Strong centered emblem with clear hierarchy (TITANS dominant, basketball as secondary icon, BASKETBALL banner tertiary); symmetrical, well-balanced silhouette that reads cleanly at a glance."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive navy/white/orange palette matches basketball themes and provides strong contrast; lighting/shading is simple but effective, with mild gradients adding depth without hurting readability."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "Crisp vector-like edges, clean typography, consistent outlines, and no visible artifacts or distortions; looks production-ready for print/embroidery."
+      }
+    }
+  },
+  {
+    "task_id": "co_49",
+    "image_path": "images/co/co_49.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "The purple-to-cyan gradient and clean geometric mark feel modern, sleek, and tech-forward, fitting a tech podcast brand well."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Centered icon with balanced negative space and a clear focal point; the wordmark sits neatly below, creating a stable, logo-like hierarchy."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive neon gradient palette with smooth transitions that reads contemporary; lighting/shading is subtle and supportive without muddying the flat feel."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall clean vectors, but the icon resembles a speech bubble/tail shape (violating the constraint) and some inner curves/edges look slightly inconsistent in thickness."
+      }
+    }
+  },
+  {
+    "task_id": "co_50",
+    "image_path": "images/co/co_50.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Bright, rounded, cheerful food icons on a clean white background create a playful, vibrant tone that fits a general-audience presentation."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Icons are arranged in a clear, evenly spaced grid with consistent sizing and ample whitespace; it’s balanced and easy to scan, though not especially dynamic."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive, saturated palette (reds/yellows/greens/oranges) reads well and feels lively; minimal highlight accents add clarity while staying mostly flat."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "Clean vector-like edges, consistent style across items, no visible artifacts or text, and recognizable silhouettes throughout."
+      }
+    }
+  },
+  {
+    "task_id": "co_51",
+    "image_path": "images/co/co_51.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Icons feel clearly soft, friendly, and kid-oriented (smiling lightbulb and star faces, gentle rounded forms) with a consistently comforting, approachable tone."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clean grid layout with even spacing and consistent icon scale makes the set easy to scan; composition is straightforward and functional rather than especially dynamic."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious pastel palette (peach, mint, sky blue, lavender) with subtle, soft shading that adds mild depth without breaking the flat-friendly style or introducing harsh contrast."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Rendering is crisp with smooth edges and no obvious artifacts; minor inconsistency in shading/highlight intensity between icons, but overall clean and production-usable."
+      }
+    }
+  },
+  {
+    "task_id": "co_52",
+    "image_path": "images/co/co_52.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Conveys a clear, professional teamwork tone through universally positive symbols (handshake, gears, network, chat, puzzle, shared goal/flag) with consistent corporate simplicity."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Well-balanced 2x3 grid with good spacing and clear readability per icon; each element is centered and distinct, though the set is straightforward rather than dynamically composed."
+      },
+      "Color & Lighting": {
+        "score": 2,
+        "note": "Palette is cohesive (navy/teal/gray), but several icons show gradient-like shading/soft light falloff and the background has a subtle vignette, conflicting with the 'no gradients or shading' requirement."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean edges and legible shapes with no obvious artifacts or distortions; minor issue is the unintended shading/gradient effect that reduces strict flat-icon compliance."
+      }
+    }
+  },
+  {
+    "task_id": "co_53",
+    "image_path": "images/co/co_53.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Highly energetic and athletic—sprinting figure, sharp motion streaks, and lightning motif create an immediate sense of speed, power, and intensity."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear central subject with strong diagonal movement and supporting elements (bolt and pulse line) guiding the eye; slightly busy with multiple streaks but still readable at icon scale."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Vibrant red-to-navy gradient with high-contrast yellow/orange accents feels sporty and bold; lighting is stylized rather than realistic but cohesive for a flat icon."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean vector-like rendering with crisp edges and no obvious artifacts; minor anatomical stiffness/simplification in the runner’s limbs consistent with the stylized approach."
+      }
+    }
+  },
+  {
+    "task_id": "co_54",
+    "image_path": "images/co/co_54.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Vibrant, modern, and energetic feel created by bold abstract waves and glossy gradients—well-suited to a colorful music streaming brand without implying specific instruments."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Centered rounded-square icon with flowing layered shapes creates a clear focal flow and good balance, though the internal forms are fairly symmetrical/standard rather than deeply dynamic."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Highly cohesive neon-to-warm gradient palette (cyan/blue to magenta/orange/yellow) with consistent soft shading that gives pleasing depth while staying icon-friendly."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean edges, smooth gradients, and no obvious artifacts; minor concern that subtle highlights/shadows push toward a semi-3D/gloss look rather than strictly flat, but execution remains polished."
+      }
+    }
+  },
+  {
+    "task_id": "co_55",
+    "image_path": "images/co/co_55.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Soft pastel watercolor treatment and cute spring motifs (blooms, butterflies, bunnies, greenery, sun) create a distinctly fresh, cheerful, whimsical vibe with no winter/snow cues."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Sticker pack layout is well-spaced and readable with a pleasing variety of sizes/shapes; slightly dense in the center but overall balanced and easy to scan."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious pastel palette (pinks, greens, yellows, soft blues) with gentle watercolor gradients; lighting feels airy and consistent, supporting the spring mood."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Edges and white sticker outlines are clean and most elements are well-rendered; a few details (some animals/foliage forms) look a bit soft/ambiguous on close inspection but no major artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_56",
+    "image_path": "images/co/co_56.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Clearly glamorous and celebratory: champagne, disco ball, midnight clock, fireworks, and metallic party hats convey a luxe New Year’s Eve party vibe without feeling cluttered."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Stickers are well-spaced and easy to parse with consistent outlines and scale; layout is balanced across the set, though it’s a straightforward grid-like arrangement without much dynamic flow."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Gold/silver/platinum palette is cohesive and reads as shiny metallic with strong highlights; lighting is consistent, though some elements lean slightly more glossy/3D than strictly 'flat metallic.'"
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean edges, crisp details, and legible typography; minor texture/perspective inconsistencies in metallic reflections and the disco ball tiling keep it from feeling perfectly uniform."
+      }
+    }
+  },
+  {
+    "task_id": "co_57",
+    "image_path": "images/co/co_57.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Playful, appetizing vibe is immediate: glossy, bouncy cartoon burger with juicy layers and friendly rounded typography; no distracting elements like fries/drinks."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear central focus with the burger stacked above the wordmark; balanced, logo-like silhouette and good readability, though the layout is fairly standard/centered without much dynamic depth."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Vibrant, cohesive warm palette (bun/cheese/wordmark) contrasted by fresh greens/reds; consistent highlights and shine sell the glossy 3D feel with good volume."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean rendering with smooth edges and consistent materials; minor stylization quirks in patty texture/highlight shapes, but no obvious artifacts or distortions."
+      }
+    }
+  },
+  {
+    "task_id": "co_58",
+    "image_path": "images/co/co_58.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The smiling clay shopping bag character, rounded forms, and cute confetti-like elements create an immediately cheerful, soft, friendly vibe suitable for shoppers."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong central focal subject (bag with face) with well-balanced secondary accents (gift, striped box, star/heart) and clear icon framing; depth is present but fairly straightforward."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious pastel palette with warm peach and soft blues/pinks; gentle, believable lighting and smooth shading give pleasing volume and a cozy, modern feel."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean clay rendering with smooth edges and consistent materials; only minor softness/blur in some small details (e.g., tiny beads/edges) but no obvious artifacts or distortions."
+      }
+    }
+  },
+  {
+    "task_id": "co_59",
+    "image_path": "images/co/co_59.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The image immediately conveys a premium, audiophile-focused mood through its dark, luxurious tones, metallic materials, and dramatic yet restrained lighting, aligning perfectly with the intended sleek and high-fidelity atmosphere."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "The composition is clean and well-balanced, with a clear focal point formed by the speaker and flowing waveform; while mostly centered and straightforward, it effectively uses depth and curvature to avoid feeling flat."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "A cohesive dark metallic palette paired with soft, directional lighting creates strong material definition, believable reflections, and a cinematic sense of depth that enhances the premium feel."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "The rendering is highly polished with smooth surfaces, consistent geometry, and no visible artifacts or distortions, making the icon feel professionally designed and production-ready."
+      }
+    }
+  },
+  {
+    "task_id": "co_60",
+    "image_path": "images/co/co_60.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, friendly, professional feel with minimalist studio-render vibe; clearly fits an e-commerce logistics icon without distractions."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Single clear focal subject (box + floating pin) with strong readability and good negative space; simple but effective centered layout and isometric depth."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Harmonious palette (tan box, bright blue strap, orange pin) and soft, consistent lighting with believable shadows and pleasing specular highlights."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "Smooth geometry, clean edges, consistent materials, and no visible artifacts or distortions; rendering looks polished and icon-ready."
+      }
+    }
+  },
+  {
+    "task_id": "co_61",
+    "image_path": "images/co/co_61.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Soft claymorphic forms, rounded silhouettes, and warm neutral lighting create a modern, friendly, approachable vibe appropriate for a general-user finance app."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clean, balanced grid with consistent centering, scale, and padding makes the set easy to scan; depth is simple but clear via subtle shadows and consistent perspective."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious muted pastels with tasteful accents (peach/yellow/teal/green) and a stable soft key light produce believable highlights and gentle shadows that enhance legibility."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Rendering is clean with cohesive materials and edges; only minor issues like slightly ambiguous icon details (e.g., the receipt has faint line-like marks and the line-graph icon feels a bit abstract) prevent a perfect score."
+      }
+    }
+  },
+  {
+    "task_id": "co_62",
+    "image_path": "images/co/co_62.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Extremely vibrant, high-energy pop-art feel with explosive comic bursts, dynamic typography, and fizzy spray from cans—strongly matches a bold youth-oriented soda ad."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal point on the central “ZAP!” with balanced flanking cans and supporting burst shapes; outdoor billboard context is present but unobtrusive. Slightly busy, but still readable."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Electric blue, hot pink, lime green, and bright yellow are cohesive and punchy; strong contrast and clean highlights on the cans make the design pop against the natural sky."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp edges, clean print-like graphics, and legible text with no obvious artifacts; minor realism mismatch between illustrated billboard art and real-world lighting/perspective, but not distracting."
+      }
+    }
+  },
+  {
+    "task_id": "co_63",
+    "image_path": "images/co/co_63.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strongly fresh and invigorating: bright fruit, crisp ice, condensation, and dynamic splash convey a clean, appetizing “just-chilled” feeling ideal for health-conscious commuters."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal point on the centered bottle with supportive framing from fruit and splashes; good depth and layering, though the elements are slightly “maximal” and busy at the bottom."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Vibrant yet coherent palette (citrus greens/oranges with red strawberries) and believable highlights on glass, droplets, and ice; lighting reads as bright daylight and enhances freshness."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "High-quality render with sharp details and convincing materials; only minor hints of compositing/CG perfection (overly idealized splash and uniformly crisp droplets) keep it from feeling fully flawless."
+      }
+    }
+  },
+  {
+    "task_id": "co_64",
+    "image_path": "images/co/co_64.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Serene, traditional atmosphere is immediately conveyed through the rice-paper texture, ink wash landscape, cherry blossoms, and calm negative space; feels authentic for a Japanese restaurant poster."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Well-balanced layout with strong calligraphy header as focal anchor, sushi and sake forming a grounded lower band, and blossom branch framing the top-left; slight separation between elements keeps it a bit poster-collage rather than deeply integrated."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive muted palette (ink grays, soft pinks, earthy browns) supports the watercolor look; lighting is gentle and consistent, though somewhat flat with limited shadow depth."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean brushstroke rendering and convincing watercolor gradients with no obvious artifacts; minor issues include slightly stiff/printed-looking calligraphy edges and a few object contours that feel a touch digitally sharpened."
+      }
+    }
+  },
+  {
+    "task_id": "co_65",
+    "image_path": "images/co/co_65.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong nostalgic, warm diner feel with cozy interior details (booths, stools, wall signage, coffee service) and a friendly, inviting scene consistent with a 1950s cafe ad."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal group around the round table, balanced by the counter and stools, with good depth from foreground seating to background fixtures; banner text anchors the bottom effectively."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive pastel palette of reds, creams, and teal with warm, believable indoor lighting; the red pendant lamp and upholstery create pleasing contrast and reinforce the retro mood."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall clean illustration style, but the typography shows noticeable inconsistencies/warping and some small object edges (cups/tableware) look slightly imprecise on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_66",
+    "image_path": "images/co/co_66.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong edgy, high-energy nightlife vibe through neon glow, graffiti splatters, jagged lightning motifs, and a dense urban backdrop that reads instantly as teen-party hype."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear typographic hierarchy (BIRTHDAY PARTY as the focal point, then SATURDAY/8PM) with dynamic diagonals and framing elements; slightly busy edges but still controlled and readable."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive neon pop palette (hot pinks, electric blues, yellows) with convincing glow effects and high contrast that supports the urban night atmosphere and makes text pop."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp rendering and clean poster-style textures with no obvious generative distortions; minor risk of visual noise/clutter from heavy splatter effects but overall polished."
+      }
+    }
+  },
+  {
+    "task_id": "co_67",
+    "image_path": "images/co/co_67.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Deep navy background with gold typography and ornamental flourishes creates a clearly formal, dignified, celebratory feel appropriate for a graduation ceremony."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong central hierarchy (headline top, details centered, imagery anchored at bottom) with balanced laurel framing; slightly bottom-heavy due to the large cap/books cluster."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive blue-gold-white palette with believable highlights on the gold accents and realistic shading on the cap, books, and diploma that enhances the prestige tone."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean rendering and sharp text with well-defined edges; minor signs of synthetic texture/lighting gradients in the background and slight stylization in object materials, but nothing distracting."
+      }
+    }
+  },
+  {
+    "task_id": "co_68",
+    "image_path": "images/co/co_68.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm sunrise, soft rays, and runners moving forward together create an immediately hopeful, uplifting tone that matches a charity-run poster."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Strong leading lines from the road guide the eye to the sun and runner group; balanced trees and clear foreground/background depth make the layout feel intentional and poster-ready."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive natural palette of golds/greens with a clear backlit sun source and long shadows; slightly uniform lighting keeps it from feeling more dimensional or cinematic."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean minimalist rendering with solid silhouettes and no visible artifacts or logos; minor simplification in runner anatomy/edges but not distracting at poster distance."
+      }
+    }
+  },
+  {
+    "task_id": "co_69",
+    "image_path": "images/co/co_69.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Energetic, vibrant collage feel with layered textures and bold geometric fragments conveys a lively, student-showcase vibe; the mood is creative and experimental though slightly muddied by heavier dark areas."
+      },
+      "Visual Composition": {
+        "score": 3,
+        "note": "Central framing provides an obvious anchor, but much of the surrounding collage elements feel evenly scattered with limited hierarchy; the eye doesn’t get guided smoothly beyond the center."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Strong, saturated palette (reds, oranges, teals) with good contrast and varied textures; lighting is largely flat (poster-like), but color relationships feel cohesive and engaging."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Generally clean layering and textures, but some areas show muddy blending and slightly awkward cutout edges/overlaps that read as generative compositing rather than intentional paper collage."
+      }
+    }
+  },
+  {
+    "task_id": "co_70",
+    "image_path": "images/co/co_70.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Highly energetic and welcoming: bright playful typography, celebratory confetti/stars, and friendly club-themed icons create an immediately fun recruitment-day vibe."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear hierarchy with “SCHOOL CLUB” as the focal point and supporting banner/date info below; many surrounding icons add excitement, though the edges feel slightly busy."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Vibrant, cohesive palette (teals, yellows, pinks, oranges) with consistent flat shading that boosts readability and reinforces the upbeat poster style."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean vector-like rendering and legible text with no photo elements; only minor crowding and small icon detailing that could feel a touch cluttered on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_71",
+    "image_path": "images/co/co_71.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm, cozy winter feeling is immediate: soft candlelight, visible steam rising from drinks, rustic table, evergreen branches and pinecones, and a knitted throw in the background reinforce a snug cafe vibe."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Balanced still-life arrangement with clear subject grouping (lattes centered, hot chocolates and teas framing), pleasing depth from foreground greenery to background chair/blanket; slightly busy with many similar cups competing for top focus."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive warm palette (amber teas, creamy coffee tones, golden candlelight) with believable soft window light and gentle shadows; highlights on glass and foam look natural and enhance the cozy mood."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall photorealistic textures (wood grain, foam art, glass reflections) and clean edges; minor quirks like some steam looking a bit stylized/uniform and a few small object details (spices/pinecones) slightly synthetic on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_72",
+    "image_path": "images/co/co_72.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm natural sunlight with soft leaf shadows, earthy kraft textures, and surrounding greenery create a clearly sustainable, natural, eco-conscious feel consistent with product photography."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Cup and bean bag form a clean two-subject layout with beans as a small foreground anchor; balance and focus are strong, though the setup is fairly straightforward without especially dynamic depth/layering."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive earthy palette (browns, beige, greens) and believable directional sunlight produce pleasing contrast and dimensionality; shadows and highlights feel natural and support the eco mood."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall sharp, realistic textures on paper, lid, and wood with convincing depth of field; only minor AI-like smoothness in the bag’s surface and subtle edge rendering imperfections on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_73",
+    "image_path": "images/co/co_73.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Bright, airy coastal feel is immediate: weathered driftwood texture, soft-focus shells, and sea-glass/pearl elements evoke a calm beach atmosphere."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear focal point on the sea glass and shell charms with pleasing shallow depth-of-field; the necklace curves naturally across the frame, though the crop is a bit tight and background blur slightly dominates the upper area."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Warm natural light with believable specular highlights on silver and pearls; cohesive neutral sand/wood palette accented by the soft aqua sea glass."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Materials read convincingly (metal, pearl luster, frosted glass) with clean macro rendering; only minor softness/blur transitions and slight edge artifacts on small metal details on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_74",
+    "image_path": "images/co/co_74.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong mystical, enchanting fantasy vibe created by the starfield/nebula backdrop, floating sparkles, and soft ethereal light beams; overall feels dreamy and youth-oriented."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear foreground product focus with pleasing depth (platform, jewelry, layered background) and good balance between the hanging necklace and the bracelet, though the large centered title text competes slightly with the focal product."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive cosmic palette (purples, blues, pinks) with glossy reflections and well-controlled highlights on the metal and stones; lighting supports the magical mood while keeping the products readable."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean, photorealistic render quality with convincing materials and reflections; minor issues include slightly artificial sparkle particle uniformity and overall composited feel, but no major artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_75",
+    "image_path": "images/co/co_75.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Soft, serene, and pristine feel with delicate dew on a flower petal; the creamy bokeh and gentle highlights evoke intimacy and wonder suited to a nature documentary aesthetic."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong macro framing with the petal forming a clean diagonal leading line and a clear focal point on the large droplet; background blur isolates the subject well, though the composition is fairly straightforward."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Harmonious pastel pinks against a deep green background, with believable soft natural light and pleasing specular highlights on the droplets that add depth without harshness."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp detail in micro-droplets and petal texture with smooth depth-of-field; only minor potential artificial smoothness in some bokeh/texture transitions, but no distracting artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_76",
+    "image_path": "images/co/co_76.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Feels upscale and indulgent with glossy ganache, gold accents, and a clean fine-dining setting; however the brighter, lighter background reads more modern/neutral than deeply luxurious."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear hero dessert centered with pleasing garnish height and shallow depth of field; background elements add context but slightly compete for attention, and the spoon at front-right pulls the eye."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Soft studio lighting creates appetizing specular highlights on chocolate and good separation; color palette (chocolate, berries, gold) is cohesive though the overall scene is a bit bright for a 'dark luxurious' look."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Rendering is sharp and mostly clean, but the image violates constraints by including spoons, and some metallic reflections/edges (spoon and background glassware) look slightly synthetic on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_77",
+    "image_path": "images/co/co_77.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The dark neutral gradient background, restrained reflections, and crisp macro detail create an immediately upscale, refined, timeless luxury-ad mood with no distracting elements."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "The watch is a clear hero subject with strong focus and pleasing diagonal strap flow; slightly tight cropping near the case/strap edges keeps it from feeling maximally spacious or layered."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cinematic, controlled studio lighting with believable specular highlights on brushed steel and a rich blue dial; warm brown strap complements the cool metal/dial for a premium, cohesive palette."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall rendering is very clean with sharp indices, realistic materials, and consistent reflections; minor nitpicks include slightly too-perfect surfaces/edges and subtle CGI smoothness in some transitions."
+      }
+    }
+  },
+  {
+    "task_id": "co_78",
+    "image_path": "images/co/co_78.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Bright, clean studio feel with a modern, minimal product-visualization vibe; overall tone matches an online retail mockup, though it’s not especially distinctive beyond standard e-commerce polish."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Single sneaker is prominently framed with clear focus and ample negative space; the side-profile angle reads well and feels balanced, though the layout is fairly straightforward without much depth or dynamism."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Neutral white/gray palette is cohesive and highlights materials; lighting is even with controlled soft shadowing, providing good readability and plausible studio illumination."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean render with sharp edges and convincing textures (mesh, overlays, midsole); only minor hints of synthetic smoothness and slightly uniform material detailing prevent it from feeling completely flawless."
+      }
+    }
+  },
+  {
+    "task_id": "co_79",
+    "image_path": "images/co/co_79.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Clean white background, neatly arranged essentials (laptop, coffee, notebook, pen, mouse) and ample negative space create a minimal, organized, professional feel with no visible clutter."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Strong central anchor (laptop) with balanced surrounding objects in the corners; spacing is deliberate and easy to scan, maintaining a clear hierarchy and tidy flat-lay structure."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Soft, even lighting with gentle shadows feels natural and supports the minimal look; neutral palette (white, beige, black) is cohesive, though not especially distinctive."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "Crisp edges and realistic textures across objects (keyboard, ceramics, paper, plant) with no noticeable artifacts, distortions, or rendering inconsistencies."
+      }
+    }
+  },
+  {
+    "task_id": "co_80",
+    "image_path": "images/co/co_80.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, premium studio feel with minimal distractions and an elegant, refined cake design that suits professional event-planner marketing."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Centered hero subject on a simple stand with ample negative space; framing is balanced and clear, though fairly straightforward without added depth elements."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Soft diffused lighting and gentle shadows give good volume; neutral background and warm ivory tones are cohesive and true-to-life."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Edges, piping details, and stand geometry look clean with crisp focus; only very minor artificial smoothness in frosting texture and background gradient."
+      }
+    }
+  },
+  {
+    "task_id": "co_81",
+    "image_path": "images/co/co_81.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, professional, publication-style schematic with a neutral technical tone; the overall feel matches an AI research paper diagram."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Well-structured encoder–decoder layout with clear grouping, consistent block hierarchy, and arrows that guide the eye logically from inputs through stacks to outputs."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive muted palette (blues/greys with orange emphasis for attention) and subtle gradients that aid readability without distracting; lighting is effectively flat as expected for a diagram."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "Crisp lines, legible labels, consistent shapes and arrowheads, no visible rendering artifacts or distortions; suitable for publication use."
+      }
+    }
+  },
+  {
+    "task_id": "co_82",
+    "image_path": "images/co/co_82.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The image perfectly captures the requested professional and educational tone, appearing exactly like a high-quality diagram found in a computer science textbook."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "The layout is excellent, with a centered title, clearly aligned axes, and well-spaced bars. The hierarchy of information is distinct and easy to read."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "The colors match the prompt's request (blue, green, red, orange) perfectly, providing high contrast against the white background. The flat, clean style is ideal for data visualization."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "The rendering is flawless. Text generation—often a weak point for AI—is perfect with correct spelling and alignment. Lines are straight, and the data representation is visually plausible."
+      }
+    }
+  },
+  {
+    "task_id": "co_83",
+    "image_path": "images/co/co_83.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, classroom-style scientific infographic feel with clear labeling and neutral tone appropriate for an undergraduate biochemical pathway diagram."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Left-to-right flow (glycolysis → Krebs cycle → ETC) is easy to follow with arrows and clear grouping, though some elements feel slightly cropped/condensed at the edges."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive, restrained palette (blue/orange/green) effectively separates stages; flat lighting is appropriate for a diagram and keeps text legible."
+      },
+      "Technical Flawlessness": {
+        "score": 2,
+        "note": "Major constraint violations: ATP is explicitly shown multiple times (e.g., 'ADP → ATP', '2 ATP', and an 'ATP Synthase' label), making it unsuitable despite generally crisp rendering."
+      }
+    }
+  },
+  {
+    "task_id": "co_84",
+    "image_path": "images/co/co_84.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, textbook-like technical feel with a plain white background and clear labeling; matches an educational optics diagram intent."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Well-structured left-to-right layout (source → slits → screen) with clear separation of components and easily followed ray paths; slightly busy overlap of rays near the slits but still readable."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Limited, coherent palette (red rays, gray barriers, black/gray fringes) enhances clarity; no distracting lighting effects, though the gradient-like fringe rendering is more illustrative than physically luminous."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp lines, legible text, and no obvious generative artifacts; minor conceptual/diagram issues include an extra central barrier segment suggesting three openings and duplicated 'Projection Screen' labeling, which could confuse precision."
+      }
+    }
+  },
+  {
+    "task_id": "co_85",
+    "image_path": "images/co/co_85.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, minimalist, publication-style linework on a white background fits a chemistry journal mechanism diagram; overall tone is professional and clear."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Elements are spaced well with a logical left-to-right/top-to-bottom flow using reaction arrows; the mechanism is easy to follow without crowding, though the lower-left structure feels slightly disconnected in layout."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Monochrome black/gray on white provides high contrast and excellent legibility; no distracting shading or color, consistent with the requested diagram style."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Lines and curved arrows are crisp, but there are scientific/notation issues: an apparent mismatch between N–NH2 and N–CH3 in the product, and some electron-pushing/arrows and charge/lone-pair placement look ambiguous or inconsistent for a rigorous mechanism figure."
+      }
+    }
+  },
+  {
+    "task_id": "co_86",
+    "image_path": "images/co/co_86.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 3,
+        "note": "Clinical/educational tone is generally present with a textbook-like background and labeled anatomy, but the overall feel is muddied by confusing content and unreadable pseudo-text, reducing clarity and confidence."
+      },
+      "Visual Composition": {
+        "score": 2,
+        "note": "Layout is not aligned with the request: it shows a large longitudinal/external anatomy panel on the right and multiple unrelated insets, rather than two clean side-by-side artery cross-sections (healthy vs diseased). The focal intent is unclear."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive warm medical-illustration palette with decent shading and separation of tissues; lighting is consistent and helps volume, though not optimized for crisp layer differentiation in a cross-sectional comparison."
+      },
+      "Technical Flawlessness": {
+        "score": 2,
+        "note": "Major usability issues for medical education: labels are largely illegible/gibberish, anatomical accuracy is questionable for an artery cross-section comparison, and the image violates constraints by including a longitudinal/external view; these are prominent flaws even at a glance."
+      }
+    }
+  },
+  {
+    "task_id": "co_87",
+    "image_path": "images/co/co_87.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, clinical, professional tone with straightforward labeling and standardized flowchart shapes; fits an ED protocol context without distracting elements."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear top-to-bottom hierarchy with well-spaced nodes and mostly unambiguous arrows; the central/right cross-link between decisions adds slight complexity but remains readable."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive, restrained palette (blue structure with red/orange/green for urgency tiers) that supports quick scanning; flat graphic lighting is appropriate for an infographic."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "No visible artifacts; text is crisp and legible, lines/arrows are clean, and shapes are consistently rendered with no distortions."
+      }
+    }
+  },
+  {
+    "task_id": "co_88",
+    "image_path": "images/co/co_88.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Corporate and professional tone with clean infographic styling; overall feels appropriate for project management documentation, though some playful decorative marks slightly reduce the strict “consulting deck” vibe."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear radial/iterative flow centered on a main hub with surrounding nodes and connectors; balanced distribution around the circle, but the many small callouts and thin connector lines make it a bit busy and harder to scan quickly."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive palette of teal/navy/grey with warm orange accents on a light background; contrast is generally good, though orange elements dominate more than requested and add visual noise."
+      },
+      "Technical Flawlessness": {
+        "score": 2,
+        "note": "Noticeable text gibberish and misspellings in the center title and labels (e.g., nonsensical 'AGILE CONSURING...'), plus many micro-text blocks are illegible—significant for a process diagram intended to be read."
+      }
+    }
+  },
+  {
+    "task_id": "co_89",
+    "image_path": "images/co/co_89.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Professional, technical tone with clean vector iconography and clear labeling; feels appropriate for engineering documentation though not especially distinctive."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong left-to-right pipeline flow with consistent box sizing and directional arrows; iteration/retraining loop and hyperparameter tuning branch are readable, though the top loop adds slight visual weight."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive blue/gray/white palette with good contrast for text and icons; subtle gradients add clarity without distraction, lighting is essentially flat but suitable for a schematic."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp edges, legible typography, and clean arrows with no obvious artifacts; minor risk of small-text readability at reduced sizes but overall rendering is clean and usable."
+      }
+    }
+  },
+  {
+    "task_id": "co_90",
+    "image_path": "images/co/co_90.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, instructional technical-manual tone with a neutral white background and schematic labeling; overall feels engineering-oriented, though some incorrect labels reduce the sense of precision."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Centered cutaway with clear internal layering and leader lines pointing to components; spacing is mostly readable, but dense callouts on both sides and overlapping lines make parts of the diagram harder to parse."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive palette (grays, yellows, blues) that separates internal parts well; lighting/shading is consistent and supports legibility, though some glossy gradients feel more illustrative than strictly diagrammatic."
+      },
+      "Technical Flawlessness": {
+        "score": 2,
+        "note": "Noticeable text artifacts and misspellings/garbled labels (e.g., nonsensical component names and repeated/incorrect terms) undermine technical usability; rendering of shapes is mostly clean but labeling errors are prominent."
+      }
+    }
+  },
+  {
+    "task_id": "co_91",
+    "image_path": "images/co/co_91.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clear academic/technical tone with clean linework, restrained shading, and labeled parts; feels appropriate for an educational preservation drawing rather than expressive or dramatic."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Exploded isometric layout is easy to follow with a strong central joint focus, good spacing between components, and readable leader lines; overall balance is solid though slightly right/top weighted by the large cantilever arm."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Monochromatic palette and subtle shading support clarity; lighting is consistent enough to convey form without obscuring joint geometry, though it remains relatively flat as typical for technical plates."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Lines are crisp, perspective is consistent, and wood grain is coherent; labels are mostly clean and legible, with only minor quirks in grain repetition and small geometry simplifications typical of generative drawings."
+      }
+    }
+  },
+  {
+    "task_id": "co_92",
+    "image_path": "images/co/co_92.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, clinical engineering-illustration feel with neutral background and restrained styling; conveys a professional technical tone appropriate for instruction."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Engine is well-centered in a clear longitudinal cutaway with strong left-to-right flow; labels and leader lines are mostly orderly, though the perspective is slightly 3D rather than a pure flat section diagram."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Subtle, coherent color coding (metals with red/blue accents) helps distinguish subsystems; lighting is even and readable without distracting shadows."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Rendering is generally crisp, but several labels appear garbled/incorrect and some internal geometries read more like illustrative detailing than strictly precise component depiction, reducing technical reliability for engineering students."
+      }
+    }
+  },
+  {
+    "task_id": "co_93",
+    "image_path": "images/co/co_93.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Feels like a grounded medieval RPG design sheet—neutral stance, practical gear, and clean presentation keep the tone consistent and professional rather than dramatic."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear front/3-quarters and back views with ample spacing; accessory callouts (weapons, palette swatch) are arranged cleanly on a plain background, making the design easy to read."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive muted palette (leathers, cloth, metal) with even, readable lighting that shows materials and forms without harsh shadows; swatch reinforces the color intent."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall rendering is solid and model-friendly, but some small annotation text is not fully legible and a few costume edges/straps show slight irregularities typical of generation artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_94",
+    "image_path": "images/co/co_94.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, professional military-sci-fi tone with neutral stance and clinical design-sheet presentation; atmosphere is consistent but not especially evocative beyond standard utilitarian sci-fi."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear centered full-body hero on the left with well-organized inset panels and callouts on the right; strong readability and hierarchy, though the sheet includes a rear view panel which violates the 'front view only/no turnaround' constraint."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive grayscale palette with subtle blue visor accents; lighting is consistent and helps define hard-surface forms without obscuring details, though it remains fairly flat/diagrammatic rather than cinematic."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp rendering and materials with solid anatomy and equipment geometry; minor issues include very small/mostly unreadable annotation text at this resolution and some uniformity/simplification in small accessory details typical of generated sheets."
+      }
+    }
+  },
+  {
+    "task_id": "co_95",
+    "image_path": "images/co/co_95.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "The image conveys a refined, period-appropriate elegance with a calm, archival fashion-plate feel; it supports a professional costume design intent without dramatic or distracting mood shifts."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "A clear central full-length gown is supported by multiple surrounding callouts (back views, bodice detail, and understructure sketch), creating a readable breakdown layout with good balance and focus."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Muted dusty-rose, gold, and grey fabrics sit cohesively against a warm neutral background; lighting is soft and consistent, helping trim, seams, and texture remain legible."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Rendering of fabric volume and trim is strong, but some annotation text appears garbled/illegible and a few smaller detail sketches have slightly imprecise linework, reducing strict production-readiness."
+      }
+    }
+  },
+  {
+    "task_id": "co_96",
+    "image_path": "images/co/co_96.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, diagrammatic engineering tone with dense mechanical detail and a neutral white background suits a technical RPG rulebook breakdown; not especially dramatic, but clearly aligned."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong central exploded assembly with parts orbiting around it, clear separation and consistent spacing; the eye reads the main block first, then outward to subcomponents, though some peripheral clusters feel slightly busy."
+      },
+      "Color & Lighting": {
+        "score": 3,
+        "note": "Monochrome line-art with minimal shading; lighting/volume is conveyed via hatching and contour rather than a clear light source—appropriate but visually flat."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall crisp linework and coherent perspective, but several small labels appear as nonsensical pseudo-text and a few micro-details (tiny fasteners/markings) look slightly inconsistent on close inspection."
+      }
+    }
+  },
+  {
+    "task_id": "co_97",
+    "image_path": "images/co/co_97.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, neutral reference-sheet feel on a plain white background; the contrast between school uniform and ornate magical outfit conveys the intended transformation concept without extra effects."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear side-by-side comparison with full-body, front-facing neutral poses and ample whitespace; easy to read silhouettes and costume differences, though it lacks additional turnaround views typical of production sheets."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Flat cel-shaded palette with cohesive, readable colors (navy uniform vs. pink/purple costume); lighting is simple and consistent, supporting line clarity rather than mood."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp linework and mostly solid anatomy/proportions; minor awkwardness in hand shapes and slight stiffness in posture, but no major artifacts and the costume details remain legible for animation reference."
+      }
+    }
+  },
+  {
+    "task_id": "co_98",
+    "image_path": "images/co/co_98.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, serene catalog-like presentation on a white background; the overall feel is calm and appropriately minimalist for an educational museum context."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Items are neatly spaced in a grid-like layout with clear separation and minimal overlap, making each object easy to study; balance is good though slightly weighted by the two larger kettles."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Soft, even studio lighting with gentle shadows gives good material readability (ceramic glazes, metal texture, bamboo) and a cohesive neutral palette without harsh glare."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Textures and edges look convincing with no obvious generative artifacts; minor inconsistencies in reflections/highlights on glossy pieces keep it just shy of perfectly photographic."
+      }
+    }
+  },
+  {
+    "task_id": "co_99",
+    "image_path": "images/co/co_99.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 3,
+        "note": "The dark green textured surface, leather strap, and soft diffused lighting give a subdued retro vibe, but the presence of clearly modern digital devices (a phone-like screen and digital meter) breaks the intended analog-only editorial mood."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong central focal point (rangefinder-style camera) with a tidy, grid-like flat-lay arrangement; items are evenly spaced with pleasing balance and clear readability across the frame."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Harmonious palette of dark green, brown leather, and silver/black metal; lighting appears like soft window light with gentle, believable shadows that add depth without harsh glare."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall rendering is crisp with convincing materials (leather, metal, canvas) and clean edges; only minor oddities in small-device detailing/textures suggest slight generative artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_100",
+    "image_path": "images/co/co_100.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Bright, clean, showroom-like feel with professional stainless-steel equipment presented in a calm, commercial tone suitable for a homepage."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear product lineup with the espresso machine anchoring the left and grinder on the right; accessories are neatly arranged in the foreground, though the left machine is slightly cropped and the layout is fairly straightforward."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Neutral palette (white backdrop, steel, black accents) with soft, even lighting that defines edges and materials well; reflections are controlled and believable."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp rendering and clean edges with convincing metal textures; minor concerns include slightly \"too perfect\" surfaces and small UI/details that look a bit generic, but no major artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_101",
+    "image_path": "images/co/co_101.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Bright, clean flat-lay with soft daylight and tidy spacing creates an aspirational, organized minimalist travel vibe that matches the blog/packing-guide intent."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Strong intentional grid with consistent margins and clear grouping (bags, clothing, reading/writing, accessories). Eye flows naturally across rows; negative space is well controlled."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "Cohesive neutral palette (greys, creams, tan accents) with a believable overhead light source and soft shadows; highlights are clean without harsh glare."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall crisp and realistic materials, but there are minor questionable items relative to constraints: a small black rectangular object that reads like a power bank/phone and a stick-like item that resembles a charger/cable accessory; otherwise rendering is clean with no obvious artifacts."
+      }
+    }
+  },
+  {
+    "task_id": "co_102",
+    "image_path": "images/co/co_102.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The image perfectly captures the requested 'clean, luxury beauty' aesthetic. The serene, minimalist atmosphere with soft dappled lighting fits the Instagram marketing intent precisely."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "The arrangement is professionally balanced with a pleasing rhythm of product heights and shapes. The use of negative space and shadow adds depth, creating an editorial look."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "The neutral palette (whites, beiges, gold, amber) is harmonious and sophisticated. The lighting is physically plausible and enhances the premium textures of the packaging."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "The rendering of materials (glass, plastic, reflections) is high-quality and sharp. The only notable flaw is the hallucinated/gibberish text on the labels (e.g., 'skinccare'), which is a common AI artifact."
+      }
+    }
+  },
+  {
+    "task_id": "co_103",
+    "image_path": "images/co/co_103.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clear, textbook-like technical feel with neutral background and clean labeling; atmosphere is appropriately instructional rather than dramatic."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Well-structured exploded view with parts aligned along a vertical axis and consistent spacing; leader lines and labels are readable, though the keyless works group on the right slightly breaks the central-axis symmetry."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Neutral metallic palette with distinct jewel colors and subtle shading that supports legibility; lighting is even and non-distracting, though somewhat flat."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp lines, clean geometry, and legible text with minimal artifacts; minor simplifications/illustrative abstraction in parts and shading keep it from feeling fully precision-engineering exact."
+      }
+    }
+  },
+  {
+    "task_id": "co_104",
+    "image_path": "images/co/co_104.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Reads strongly as a technical prop blueprint with a clean, utilitarian sci-fi engineering vibe; the atmosphere is consistent and purpose-driven rather than dramatic, fitting the fabrication intent."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Well-structured layout with a dominant side-profile cutaway as the focal element and supporting orthographic views and callouts arranged in tidy panels; overall easy to scan, though some small text areas feel dense."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive off-white paper background with restrained grayscale linework and small orange accents that highlight key mechanisms; lighting is flat as expected for blueprint documentation and keeps details legible."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Rendering of mechanical forms and cutaway detail is mostly clean, but much of the micro-annotation text is illegible/gibberish and some fine linework looks slightly inconsistent, reducing true blueprint usability."
+      }
+    }
+  },
+  {
+    "task_id": "co_105",
+    "image_path": "images/co/co_105.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Bright, playful commercial feel with clean shapes and appetizing styling; overall tone fits menu signage, though the extra surrounding items make it slightly less focused as an instructional exploded view."
+      },
+      "Visual Composition": {
+        "score": 3,
+        "note": "Centered hero burger is clear and readable, but the scene includes multiple additional burgers and floating condiments (e.g., bottle, fries/ketchup cups), which adds clutter and weakens the single clear construction diagram intent."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Vibrant, cohesive palette with pleasing warm highlights and soft shadows that give good separation between layers; lighting is consistent and supports ingredient readability."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Generally clean illustration, but some elements show minor rendering oddities (slightly inconsistent layer geometry, stray specks/crumb-like artifacts, and a few awkward object cutouts), reducing polished signage readiness."
+      }
+    }
+  },
+  {
+    "task_id": "co_106",
+    "image_path": "images/co/co_106.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Consistently calm, cozy wellness vibe across all panels (morning stretch in warm light, mindful meditation, outdoor walk, quiet journaling, evening tea), matching the intended slice-of-life routine."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear multi-panel grid with readable actions and good subject framing in each scene; variety between indoor/outdoor settings keeps flow engaging, though most panels use straightforward centered compositions with limited depth."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Harmonious warm pastel palette with soft, believable lighting (sunlit bedroom, cozy indoor lamps, gentle outdoor daylight) that supports the relaxing tone; not especially dramatic or high-contrast."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Clean linework and consistent minimalist rendering with generally solid anatomy and props; minor stiffness/simplicity in poses and folds, but no distracting artifacts and the no-text/no-speech-bubble constraint is respected."
+      }
+    }
+  },
+  {
+    "task_id": "co_107",
+    "image_path": "images/co/co_107.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "The strip reads as light, everyday frustration: exaggerated facial expressions, argumentative gestures, and reaction beats across panels create a consistent comedic tone."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear multi-panel layout with strong subject focus and readable staging; characters are framed mid-shot with expressive hands and faces guiding the eye, though the repeated similar framing reduces dynamism."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Bright, clean flat colors with consistent simple shading support the webcomic style; lighting is even and readable, though not especially nuanced."
+      },
+      "Technical Flawlessness": {
+        "score": 2,
+        "note": "Speech bubbles contain garbled/incorrect text that undermines clarity and humor; also includes background elements (windows/curtains/table surfaces) despite the no-background constraint."
+      }
+    }
+  },
+  {
+    "task_id": "co_108",
+    "image_path": "images/co/co_108.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Bright, friendly cartoon style with clear growth progression creates an upbeat, kid-appropriate educational tone consistent across all panels."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clean 2x2 panel grid with centered subjects and consistent horizon/ground line makes each stage easy to read; roots panel provides clear instructional focus."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive primary palette (blue sky, green leaves, brown soil) with simple shading that keeps forms legible; lighting is consistent though fairly flat."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "Crisp linework, no visible artifacts, consistent cartoon rendering, and all constraints met (no insects/animals); details like roots and leaves are cleanly drawn."
+      }
+    }
+  },
+  {
+    "task_id": "co_109",
+    "image_path": "images/co/co_109.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "The sequence conveys a clear focused, magical-combat tone through purposeful poses and readable arcane energy, with a clean neutral backdrop that keeps the reference-sheet intent."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Six frames are arranged in a logical grid with strong readability; each pose is clearly silhouetted, labels/arrows guide the eye through anticipation to release and recovery without clutter."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive muted costume palette contrasts well with the bright cyan spell effects, making the action easy to track; lighting is simple but supports clarity."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Linework and rendering are clean and consistent across frames with generally solid anatomy and prop perspective; only minor stiffness and small proportional inconsistencies typical of reference sheets."
+      }
+    }
+  },
+  {
+    "task_id": "co_110",
+    "image_path": "images/co/co_110.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Strong noir tone throughout: rain-slick streets, foggy depth, silhouettes, smoke, and harsh contrasts create a tense, moody atmosphere consistent across all panels."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear, readable storyboard grid with distinct framings (wide establishing, low-angle, high-angle puddle, close-ups, dutch tilt). Depth and leading lines work well, though a few panels feel similarly staged (figure-on-right alley compositions)."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "High-contrast black-and-white lighting is cinematic and coherent: strong key/backlight from streetlamp, venetian-blind shadows, and believable specular reflections on wet pavement with well-controlled chiaroscuro."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Overall clean rendering and linework with convincing textures (rain, smoke, wet ground). Minor stylized grain and a few slightly ambiguous edges/perspective quirks in the alley/doorway panels, but nothing that breaks usability as boards."
+      }
+    }
+  },
+  {
+    "task_id": "co_111",
+    "image_path": "images/co/co_111.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "The bold, high-contrast line art and repeated motion arcs convey energetic, focused training intensity consistent with an action storyboard tone."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Six cleanly framed panels present a readable progression of strikes/blocks/kicks with consistent subject scale and mostly consistent side/front angles, aiding choreographic clarity."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Monochrome black-on-white storyboard styling is cohesive and legible, with strong line contrast and minimal shading appropriate for the requested look."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall anatomy and gesture are solid, but there are minor perspective/line jitter issues and one panel is awkwardly cropped at the edge, reducing clarity of the full movement."
+      }
+    }
+  },
+  {
+    "task_id": "co_112",
+    "image_path": "images/co/co_112.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, calm, health-oriented feel with airy spacing and soft blues/greens; overall modern and user-friendly, though not especially distinctive or evocative."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong central focus on the circular activity summary with clear hierarchy into cards below; balanced layout and effective use of whitespace, but limited depth/visual dynamism beyond standard UI stacking."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive blue/green/white palette with gentle gradients that support readability and a soothing tone; lighting/shadows on the device are believable and unobtrusive."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "Overall sharp render and clean edges, but several UI text labels appear garbled/semantically odd (e.g., unclear metric naming and random currency-like value), reducing polish and real-world usability."
+      }
+    }
+  },
+  {
+    "task_id": "co_113",
+    "image_path": "images/co/co_113.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "Clean, modern retail-app feel with ample whitespace and calm gradients; overall looks conversion-oriented, though the faux/garbled text slightly weakens the professional polish."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear hierarchy (hero product area, pricing/info blocks, CTA region) and balanced spacing; the three-phone presentation is centered and readable, though the rightmost phone is cropped and distracting."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive warm peach palette with soft, consistent lighting and gentle shadows; contrast is generally good, but some text areas look low-contrast due to the light gradient background."
+      },
+      "Technical Flawlessness": {
+        "score": 3,
+        "note": "High-quality device renders and clean edges, but UI text is largely illegible/AI-garbled and some UI elements (icons/nav) appear inconsistent, reducing usability realism."
+      }
+    }
+  },
+  {
+    "task_id": "co_114",
+    "image_path": "images/co/co_114.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Bold, minimal now-playing vibe with a strong synthwave/modern mood; the neon sunset album art and dark UI create an immediate, cohesive atmosphere."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Clear hierarchy: album art as focal point, then title/artist, then timeline and large centered playback controls; spacing is clean and balanced though very standard/centered."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "High-contrast black UI with cohesive neon pink/purple/yellow palette in the artwork; colors feel intentional and visually striking while keeping text and controls legible."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp rendering and clean icons/typography with no obvious artifacts; minor UI realism nitpicks (e.g., timeline/labels and control sizing consistency) keep it from feeling perfectly polished."
+      }
+    }
+  },
+  {
+    "task_id": "co_115",
+    "image_path": "images/co/co_115.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The interface feels secure and professional through ample whitespace, calm blue accents, and clear financial hierarchy (balance prominent, transactions neatly grouped), matching a trustworthy banking mood."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong, readable structure with clear header, filter tabs, balance section, and chronologically grouped transaction list; spacing and alignment are consistent, though the layout is fairly standard for mobile banking UIs."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive palette of blues and neutral grays with good contrast; green for credits and blue for debits supports clarity. Lighting is even and unobtrusive, keeping focus on information."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp rendering and legible text with clean icons and consistent UI elements; no visible generative artifacts or distortions, only minor generic-mockup feel in some iconography."
+      }
+    }
+  },
+  {
+    "task_id": "co_116",
+    "image_path": "images/co/co_116.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 2,
+        "note": "The image fails to achieve the requested 'clean and simple' aesthetic. The interface feels cluttered and busy rather than glanceable, and the visual hierarchy is confusing."
+      },
+      "Visual Composition": {
+        "score": 2,
+        "note": "The layout within the device screens is unbalanced and disorganized. Elements are crammed together (especially the bottom grid on the center phone) with poor spacing and alignment."
+      },
+      "Color & Lighting": {
+        "score": 3,
+        "note": "The color palette is passable, utilizing standard dark-mode tones appropriate for a weather app. The lighting on the device mockups is realistic enough, though not particularly striking."
+      },
+      "Technical Flawlessness": {
+        "score": 2,
+        "note": "There are significant generative artifacts: all text is illegible gibberish, and icons (clouds/sun) are malformed or smeary. Additionally, the design includes rows of icons that strongly resemble the forbidden 'hourly forecasts'."
+      }
+    }
+  },
+  {
+    "task_id": "co_117",
+    "image_path": "images/co/co_117.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "Warm, inviting palette (soft reds/oranges) and appetizing dish photography create a friendly, comforting recipe-discovery feel that fits home cooks."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "Clean, balanced grid of large tappable thumbnails with clear titles; strong hierarchy (header, tabs, cards) and consistent spacing makes browsing intuitive."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Cohesive warm color theme and bright, appetizing lighting across food images; slightly uniform/stock-like lighting keeps it from feeling more premium/cinematic."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "Crisp rendering, legible typography, straight alignment, and no visible artifacts; UI elements look polished and consistent with no forbidden timer/ingredient content."
+      }
+    }
+  },
+  {
+    "task_id": "co_118",
+    "image_path": "images/co/co_118.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 4,
+        "note": "The character design, ornate gold filigree armor, and soft expression cues create an elegant, serene fantasy tone that fits a visual novel portrait, though the overall emotional impact is more calm than striking."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "Strong central framing on the head-and-shoulders with clear silhouette and readable costume details; however, the visible forest background elements conflict with the requested clean/no-scenery presentation."
+      },
+      "Color & Lighting": {
+        "score": 4,
+        "note": "Warm golds and muted purples harmonize well with gentle, diffuse lighting that gives the armor good volume; lighting is consistent and flattering, though slightly soft/washed in the highlights."
+      },
+      "Technical Flawlessness": {
+        "score": 4,
+        "note": "Crisp rendering on armor engravings, hair strands, and fabric folds with minimal artifacts; minor issues include slightly plastic-like speculars and a few soft edges where forms blend into the background."
+      }
+    }
+  },
+  {
+    "task_id": "co_119",
+    "image_path": "images/co/co_119.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The image perfectly captures the requested cyberpunk aesthetic with a dark, rainy neon atmosphere and a rebellious, high-tech character persona that aligns precisely with the hacker archetype."
+      },
+      "Visual Composition": {
+        "score": 4,
+        "note": "The subject is clearly focused with effective use of depth of field. The framing includes UI elements that create a 'screen' effect, which works well for the context, though the wide aspect ratio is slightly unconventional for a standard character portrait asset."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "The palette is a quintessential cyberpunk mix of cyan and magenta with strong contrast. The lighting is cinematic, with convincing reflections on the skin and hair, and glowing elements that enhance the high-tech feel."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "The rendering is crisp and high-quality. Anatomy is correct, textures (skin, hair, metal) are distinct, and the digital overlays are blended well. The constraints (no hands/weapons) were strictly followed."
+      }
+    }
+  },
+  {
+    "task_id": "co_120",
+    "image_path": "images/co/co_120.png",
+    "image_dimensions": {
+      "Mood & Atmosphere": {
+        "score": 5,
+        "note": "The image perfectly captures the requested gothic elegance and aristocratic mystery. The character's poised expression and the candlelit atmosphere align seamlessly with the intent of a high-quality visual novel CG."
+      },
+      "Visual Composition": {
+        "score": 5,
+        "note": "The framing is excellent; the high collar and background arches naturally guide the viewer's eye to the subject's face. The use of depth of field effectively separates the sharp character details from the atmospheric background."
+      },
+      "Color & Lighting": {
+        "score": 5,
+        "note": "The rich palette of deep purples, blacks, and silver embroidery is luxurious and strictly adheres to the prompt. The lighting is cinematic, balancing warm background candlelight with cool, dramatic shading on the figure."
+      },
+      "Technical Flawlessness": {
+        "score": 5,
+        "note": "The rendering is professional and highly detailed, especially in the complex textures of the lace and embroidery. The anatomy (face and hand) is natural, and there are no visible generative artifacts or distortions."
+      }
+    }
+  }
+]

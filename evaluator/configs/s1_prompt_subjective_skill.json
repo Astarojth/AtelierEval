@@ -1,0 +1,11 @@
+{
+  "skill_name": "S1PromptSubjectiveSkill",
+  "stage": "System1",
+  "module": "subjective.skills.s1_prompt_subjective_skill",
+  "class": "S1PromptSubjectiveSkill",
+  "config_refs": {
+    "subjective_config": "runtime/subjective_runtime.json",
+    "prompt_templates": "templates/subjective_prompt_templates.json",
+    "memory_dir": "../subjective/memory"
+  }
+}
