@@ -12,6 +12,7 @@ outputs/
 output/
 eval_results/
 generated_result/
+results/
 *_outputs/
 *_cache/
 *.sqlite
